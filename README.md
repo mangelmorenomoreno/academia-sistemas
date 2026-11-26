@@ -56,7 +56,7 @@ Antes de escribir código hay que comprender qué es la información, cómo se r
 | Capítulo | Duración | Estado |
 | :--- | :---: | :--- |
 | [01 · Electricidad y electrónica básica](modulos/01-electronica-basica/README.md) | 8 semanas | 24 clases desarrolladas |
-| [02 · Electrónica analógica](modulos/02-electronica-analogica/README.md) | 8 semanas | 3 clases en edición web inicial |
+| [02 · Electrónica analógica](modulos/02-electronica-analogica/README.md) | 8 semanas | 24 clases en edición web inicial |
 | [03 · Electrónica digital y avanzada](modulos/03-electronica-digital/README.md) | 8 semanas | Planificado |
 | [04 · Microcontroladores y sistemas embebidos](modulos/04-microcontroladores/README.md) | 4 semanas | Planificado |
 | [05 · Arquitectura de computadores](modulos/05-arquitectura-computadores/README.md) | 4 semanas | Planificado |

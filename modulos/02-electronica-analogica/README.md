@@ -4,9 +4,9 @@
 
 # Capítulo 02 · Electrónica analógica
 
-> Este capítulo forma parte de la ruta progresiva; las tres primeras clases tienen una edición web inicial; el resto y los materiales completos siguen planificados.
+> Este capítulo forma parte de la ruta progresiva; las 24 clases tienen edición web inicial; PDF, PPTX, animaciones y revisión siguen pendientes.
 
-**8 semanas · 56 horas base · En desarrollo**
+**8 semanas · 56 horas base · Edición web inicial**
 
 ## Qué vas a aprender
 
@@ -50,7 +50,7 @@
 
 **Sensor con etapa de acondicionamiento**
 
-La guía detallada está pendiente de desarrollo.
+[Guía y rúbrica](proyecto/README.md).
 
 ---
 

@@ -1,16 +1,30 @@
-[![Capítulo 02](../../../recursos/editorial/modulo-02.svg)](../README.md)
+[← Capítulo](../README.md)
 
-[Inicio](../../../README.md) · [Capítulo 02](../README.md)
+# Laboratorios virtuales
 
-# 🧪 Laboratorios
+Prácticas virtuales. Nunca conectar red doméstica, abrir fuentes ni provocar cortocircuitos. Montajes posteriores solo con supervisión y fuente aislada de baja tensión limitada.
 
-> Electrónica analógica
-
-> [!NOTE]
-> Material planificado, todavía no desarrollado. Se incorporará al avanzar en el programa.
-
-Cada práctica incluirá objetivo, materiales, pasos, resultados, seguridad y rúbrica. [Plantilla de informe](../../../plantillas/informe-laboratorio.md).
-
----
-
-[← Volver al capítulo](../README.md)
+- [025 · Condensadores: dieléctrico, ESR, carga RC y energía](../clases/025-condensadores-rc/practicas/README.md)
+- [026 · Inductores: campo, energía magnética y transitorios RL](../clases/026-inductores-rl/practicas/README.md)
+- [027 · Circuitos RLC: resonancia, impedancia y fase](../clases/027-rlc-resonancia/practicas/README.md)
+- [028 · Transformadores: inducción, relación de espiras, aislamiento y pérdidas](../clases/028-transformadores/practicas/README.md)
+- [029 · Unión PN: dopaje, barrera y curva I-V](../clases/029-union-pn/practicas/README.md)
+- [030 · Rectificadores y filtrado: ondulación y diodos](../clases/030-rectificadores/practicas/README.md)
+- [031 · Diodos Zener y regulación](../clases/031-zener-regulacion/practicas/README.md)
+- [032 · Transistor BJT: regiones y polarización](../clases/032-bjt-regiones/practicas/README.md)
+- [033 · BJT como interruptor y amplificador](../clases/033-bjt-interruptor-amplificador/practicas/README.md)
+- [034 · MOSFET: canal, umbral, regiones y protección ESD](../clases/034-mosfet-canal/practicas/README.md)
+- [035 · MOSFET como interruptor y pérdidas](../clases/035-mosfet-interruptor/practicas/README.md)
+- [036 · Amplificación y ganancia, saturación y ruido](../clases/036-amplificacion/practicas/README.md)
+- [037 · Amplificador operacional: realimentación y límites](../clases/037-operacional-realimentacion/practicas/README.md)
+- [038 · Amplificador inversor y no inversor](../clases/038-opamp-inversor-no-inversor/practicas/README.md)
+- [039 · Comparadores e histéresis](../clases/039-comparadores-histeresis/practicas/README.md)
+- [040 · Filtros RC pasivos y frecuencia de corte](../clases/040-filtros-rc/practicas/README.md)
+- [041 · Filtros activos y respuesta en frecuencia](../clases/041-filtros-activos/practicas/README.md)
+- [042 · Osciladores y temporización](../clases/042-osciladores/practicas/README.md)
+- [043 · Sensores y acondicionamiento de señal](../clases/043-sensores-acondicionamiento/practicas/README.md)
+- [044 · Reguladores lineales y conmutados: fundamentos](../clases/044-reguladores/practicas/README.md)
+- [045 · Fuentes de alimentación DC de bajo voltaje](../clases/045-fuentes-dc/practicas/README.md)
+- [046 · Análisis de tolerancias, temperatura y medición](../clases/046-tolerancias-medicion/practicas/README.md)
+- [047 · Diagnóstico analógico y simulación](../clases/047-diagnostico-analogico/practicas/README.md)
+- [048 · Proyecto: sensor con acondicionamiento](../clases/048-proyecto-sensor/practicas/README.md)

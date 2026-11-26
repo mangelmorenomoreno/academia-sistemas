@@ -1,20 +1,17 @@
-[![Capítulo 02](../../../recursos/editorial/modulo-02.svg)](../README.md)
+[← Capítulo](../README.md)
 
-[Inicio](../../../README.md) · [Capítulo 02](../README.md)
+# Proyecto integrador: sensor con acondicionamiento
 
-# 🛠️ Proyecto integrador
+[Guía](../clases/048-proyecto-sensor/README.md) · [Laboratorio](../clases/048-proyecto-sensor/practicas/README.md)
 
-> Electrónica analógica
+Entrega esquema, ecuaciones, tabla de tres condiciones, respuesta temporal, prueba con ruido, diagnóstico y sustentación.
 
-> [!NOTE]
-> Material planificado, todavía no desarrollado. Se incorporará al avanzar en el programa.
+| Criterio | Puntos |
+|---|---:|
+| Requisitos y seguridad | 15 |
+| Cálculos y selección | 25 |
+| Simulación reproducible | 25 |
+| Validación y diagnóstico | 20 |
+| Sustentación | 15 |
 
-## Reto previsto
-
-Sensor con etapa de acondicionamiento.
-
-[Ver rúbrica general](../../../plantillas/rubrica-proyecto.md).
-
----
-
-[← Volver al capítulo](../README.md)
+Prácticas virtuales. Nunca conectar red doméstica, abrir fuentes ni provocar cortocircuitos. Montajes posteriores solo con supervisión y fuente aislada de baja tensión limitada.

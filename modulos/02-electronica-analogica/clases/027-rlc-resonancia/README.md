@@ -1,4 +1,4 @@
-[← Clase 026](../026-inductores-rl/README.md) · [Índice](../README.md) · Clase 028 pendiente
+[← Clase 026](../026-inductores-rl/README.md) · [Índice](../README.md) · [Clase 028 →](../028-transformadores/README.md)
 
 # Clase 027 · Circuitos RLC: resonancia, impedancia y fase
 
@@ -21,4 +21,4 @@
 
 > Todas las prácticas de esta edición son virtuales. Nunca conectar la red doméstica, abrir fuentes ni provocar cortos. Montajes físicos posteriores solo con supervisión y fuente aislada de baja tensión limitada.
 
-[← Clase 026](../026-inductores-rl/README.md) · [Índice](../README.md) · Clase 028 pendiente
+[← Clase 026](../026-inductores-rl/README.md) · [Índice](../README.md) · [Clase 028 →](../028-transformadores/README.md)

@@ -1,38 +1,36 @@
-[![Capítulo 2](../../../recursos/editorial/modulo-02.svg)](../README.md)
+[![Capítulo 02](../../../recursos/editorial/modulo-02.svg)](../README.md)
 
 [Inicio](../../../README.md) · [Capítulo](../README.md)
 
-# 24 clases · Electrónica analógica
+# Electrónica analógica · Clases 025–048
 
-**Planificación curricular · 8 semanas, 56 horas base.** Clases globales 025–027 con edición web inicial; PDF, PPTX y animaciones independientes pendientes. Las restantes continúan planificadas. Cada bloque incluye teoría causal, diagramas, simulación, ejercicios, práctica y verificación acumulativa.
+**8 semanas · 56 horas base.** 24 clases en edición web inicial; PDF y PPTX independientes, animaciones específicas y revisión editorial/visual pendientes. No se consideran completas según el estándar.
 
-| Semana | Clase | Tema |
-|---:|---:|---|
-| 1 | 025 | [Condensadores: dieléctrico, ESR, carga RC y energía](025-condensadores-rc/README.md) |
-| 1 | 002 | Inductores: campo, energía magnética, transitorios RL |
-| 1 | 027 | [Circuitos RLC: resonancia, impedancia y fase](027-rlc-resonancia/README.md) |
-| 2 | 004 | Transformadores: inducción, relación de espiras, aislamiento y pérdidas |
-| 2 | 005 | Unión PN: dopaje, barrera y curva I-V |
-| 2 | 006 | Rectificadores y filtrado: ondulación y diodos |
-| 3 | 007 | Diodos Zener y regulación |
-| 3 | 008 | Transistor BJT: regiones y polarización |
-| 3 | 009 | BJT como interruptor y amplificador |
-| 4 | 010 | MOSFET: canal, umbral, regiones y protección ESD |
-| 4 | 011 | MOSFET como interruptor y pérdidas |
-| 4 | 012 | Amplificación y ganancia, saturación y ruido |
-| 5 | 013 | Amplificador operacional: realimentación y límites |
-| 5 | 014 | Amplificador inversor y no inversor |
-| 5 | 015 | Comparadores e histéresis |
-| 6 | 016 | Filtros RC pasivos y frecuencia de corte |
-| 6 | 017 | Filtros activos y respuesta en frecuencia |
-| 6 | 018 | Osciladores y temporización |
-| 7 | 019 | Sensores y acondicionamiento de señal |
-| 7 | 020 | Reguladores lineales y conmutados: fundamentos |
-| 7 | 021 | Fuentes de alimentación DC de bajo voltaje |
-| 8 | 022 | Análisis de tolerancias, temperatura y medición |
-| 8 | 023 | Diagnóstico analógico y simulación |
-| 8 | 024 | Proyecto: sensor con acondicionamiento |
+| Semana | Clase |
+|---:|---|
+| 1 | [25 · Condensadores: dieléctrico, ESR, carga RC y energía](025-condensadores-rc/README.md) |
+| 1 | [26 · Inductores: campo, energía magnética y transitorios RL](026-inductores-rl/README.md) |
+| 1 | [27 · Circuitos RLC: resonancia, impedancia y fase](027-rlc-resonancia/README.md) |
+| 2 | [28 · Transformadores: inducción, relación de espiras, aislamiento y pérdidas](028-transformadores/README.md) |
+| 2 | [29 · Unión PN: dopaje, barrera y curva I-V](029-union-pn/README.md) |
+| 2 | [30 · Rectificadores y filtrado: ondulación y diodos](030-rectificadores/README.md) |
+| 3 | [31 · Diodos Zener y regulación](031-zener-regulacion/README.md) |
+| 3 | [32 · Transistor BJT: regiones y polarización](032-bjt-regiones/README.md) |
+| 3 | [33 · BJT como interruptor y amplificador](033-bjt-interruptor-amplificador/README.md) |
+| 4 | [34 · MOSFET: canal, umbral, regiones y protección ESD](034-mosfet-canal/README.md) |
+| 4 | [35 · MOSFET como interruptor y pérdidas](035-mosfet-interruptor/README.md) |
+| 4 | [36 · Amplificación y ganancia, saturación y ruido](036-amplificacion/README.md) |
+| 5 | [37 · Amplificador operacional: realimentación y límites](037-operacional-realimentacion/README.md) |
+| 5 | [38 · Amplificador inversor y no inversor](038-opamp-inversor-no-inversor/README.md) |
+| 5 | [39 · Comparadores e histéresis](039-comparadores-histeresis/README.md) |
+| 6 | [40 · Filtros RC pasivos y frecuencia de corte](040-filtros-rc/README.md) |
+| 6 | [41 · Filtros activos y respuesta en frecuencia](041-filtros-activos/README.md) |
+| 6 | [42 · Osciladores y temporización](042-osciladores/README.md) |
+| 7 | [43 · Sensores y acondicionamiento de señal](043-sensores-acondicionamiento/README.md) |
+| 7 | [44 · Reguladores lineales y conmutados: fundamentos](044-reguladores/README.md) |
+| 7 | [45 · Fuentes de alimentación DC de bajo voltaje](045-fuentes-dc/README.md) |
+| 8 | [46 · Análisis de tolerancias, temperatura y medición](046-tolerancias-medicion/README.md) |
+| 8 | [47 · Diagnóstico analógico y simulación](047-diagnostico-analogico/README.md) |
+| 8 | [48 · Proyecto: sensor con acondicionamiento](048-proyecto-sensor/README.md) |
 
-No comenzar sin dominar los prerrequisitos del capítulo anterior. Las prácticas físicas usarán solo baja tensión DC y fuentes apropiadas. Transformadores y rectificación de red se estudian mediante modelos y simulación, no conexiones domésticas.
-
-[← Volver al capítulo](../README.md)
+[Comenzar](025-condensadores-rc/README.md) · [Laboratorios](../laboratorios/README.md) · [Evaluaciones](../pruebas/README.md) · [Proyecto](../proyecto/README.md)
