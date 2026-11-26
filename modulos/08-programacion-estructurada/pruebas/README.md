@@ -1,3 +1,16 @@
-# Pruebas — Programación estructurada
+[![Capítulo 08](../../../recursos/editorial/modulo-08.svg)](../README.md)
 
-Pendientes de desarrollo. Cada prueba debe incluir puntuación, criterios y solucionario separado.
+[Inicio](../../../README.md) · [Capítulo 08](../README.md)
+
+# 📝 Evaluaciones
+
+> Programación estructurada
+
+> [!NOTE]
+> Material planificado, todavía no desarrollado. Se incorporará al avanzar en el programa.
+
+Cada prueba tendrá instrucciones, puntuación, criterios y solucionario separado.
+
+---
+
+[← Volver al capítulo](../README.md)

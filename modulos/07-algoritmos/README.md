@@ -1,21 +1,38 @@
-# Módulo 07 — Algoritmos y lógica de programación
+<p align="center"><img src="../../recursos/editorial/modulo-07.svg" alt="Capítulo 07: Algoritmos y lógica de programación" width="100%"></p>
 
-**Estado:** Planificado; clases y pruebas aún no desarrolladas.
+[Inicio](../../README.md) · [Pensum](../../PENSUM.md)
 
-**Duración base:** 4 semanas (28 horas). 
+# Capítulo 07 · Algoritmos y lógica de programación
 
-**Prerrequisito:** [Módulo anterior](../06-matematicas-discretas/README.md).
+> Este capítulo forma parte de la ruta progresiva; sus materiales completos están planificados.
 
-## Contenidos
-- Descomposición, pseudocódigo, diagramas, variables, tipos, decisiones, ciclos y trazas
+**4 semanas · 28 horas base · Planificado**
 
-## Proyecto integrador
-Algoritmo de gestión de inventario.
+## Qué vas a aprender
 
-## Materiales
-- [Clases](clases/README.md)
-- [Laboratorios](laboratorios/README.md)
-- [Pruebas](pruebas/README.md)
-- [Proyecto](proyecto/README.md)
+- Descomposición
+- pseudocódigo
+- diagramas
+- variables
+- tipos
+- decisiones
+- ciclos y trazas
 
-[Volver al pensum](../../PENSUM.md)
+## Biblioteca del capítulo
+
+| Sección | Contenido |
+|---|---|
+| [📖 Clases](clases/README.md) | Lecturas, presentaciones y actividades |
+| [🧪 Laboratorios](laboratorios/README.md) | Experimentos y guías de práctica |
+| [📝 Pruebas](pruebas/README.md) | Evaluaciones y criterios |
+| [🛠️ Proyecto](proyecto/README.md) | Aplicación integradora |
+
+## Proyecto de cierre
+
+**Algoritmo de gestión de inventario**
+
+La guía detallada está pendiente de desarrollo.
+
+---
+
+[← Capítulo 06](../06-matematicas-discretas/README.md) · [Índice general](../../README.md) · [Capítulo 08 →](../08-programacion-estructurada/README.md)

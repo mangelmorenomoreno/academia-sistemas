@@ -1,3 +1,20 @@
-# Proyecto — Laboratorio cliente-servidor
+[![Capítulo 12](../../../recursos/editorial/modulo-12.svg)](../README.md)
 
-Estado: propuesta; guía y criterios específicos pendientes. [Rúbrica general](../../../plantillas/rubrica-proyecto.md).
+[Inicio](../../../README.md) · [Capítulo 12](../README.md)
+
+# 🛠️ Proyecto integrador
+
+> Redes y telecomunicaciones
+
+> [!NOTE]
+> Material planificado, todavía no desarrollado. Se incorporará al avanzar en el programa.
+
+## Reto previsto
+
+Laboratorio cliente-servidor.
+
+[Ver rúbrica general](../../../plantillas/rubrica-proyecto.md).
+
+---
+
+[← Volver al capítulo](../README.md)

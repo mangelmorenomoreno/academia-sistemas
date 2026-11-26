@@ -1,3 +1,16 @@
-# Pruebas — Desarrollo backend y APIs
+[![Capítulo 16](../../../recursos/editorial/modulo-16.svg)](../README.md)
 
-Pendientes de desarrollo. Cada prueba debe incluir puntuación, criterios y solucionario separado.
+[Inicio](../../../README.md) · [Capítulo 16](../README.md)
+
+# 📝 Evaluaciones
+
+> Desarrollo backend y APIs
+
+> [!NOTE]
+> Material planificado, todavía no desarrollado. Se incorporará al avanzar en el programa.
+
+Cada prueba tendrá instrucciones, puntuación, criterios y solucionario separado.
+
+---
+
+[← Volver al capítulo](../README.md)

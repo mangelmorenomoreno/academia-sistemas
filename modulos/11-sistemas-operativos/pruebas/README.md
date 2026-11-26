@@ -1,3 +1,16 @@
-# Pruebas — Sistemas operativos
+[![Capítulo 11](../../../recursos/editorial/modulo-11.svg)](../README.md)
 
-Pendientes de desarrollo. Cada prueba debe incluir puntuación, criterios y solucionario separado.
+[Inicio](../../../README.md) · [Capítulo 11](../README.md)
+
+# 📝 Evaluaciones
+
+> Sistemas operativos
+
+> [!NOTE]
+> Material planificado, todavía no desarrollado. Se incorporará al avanzar en el programa.
+
+Cada prueba tendrá instrucciones, puntuación, criterios y solucionario separado.
+
+---
+
+[← Volver al capítulo](../README.md)

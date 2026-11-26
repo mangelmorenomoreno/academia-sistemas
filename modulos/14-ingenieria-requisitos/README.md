@@ -1,21 +1,35 @@
-# Módulo 14 — Ingeniería de requisitos y modelado
+<p align="center"><img src="../../recursos/editorial/modulo-14.svg" alt="Capítulo 14: Ingeniería de requisitos y modelado" width="100%"></p>
 
-**Estado:** Planificado; clases y pruebas aún no desarrolladas.
+[Inicio](../../README.md) · [Pensum](../../PENSUM.md)
 
-**Duración base:** 4 semanas (28 horas). 
+# Capítulo 14 · Ingeniería de requisitos y modelado
 
-**Prerrequisito:** [Módulo anterior](../13-bases-datos/README.md).
+> Este capítulo forma parte de la ruta progresiva; sus materiales completos están planificados.
 
-## Contenidos
-- Requisitos funcionales y no funcionales, historias, UML, trazabilidad y validación
+**4 semanas · 28 horas base · Planificado**
 
-## Proyecto integrador
-Especificación de un sistema.
+## Qué vas a aprender
 
-## Materiales
-- [Clases](clases/README.md)
-- [Laboratorios](laboratorios/README.md)
-- [Pruebas](pruebas/README.md)
-- [Proyecto](proyecto/README.md)
+- Requisitos funcionales y no funcionales
+- historias
+- UML
+- trazabilidad y validación
 
-[Volver al pensum](../../PENSUM.md)
+## Biblioteca del capítulo
+
+| Sección | Contenido |
+|---|---|
+| [📖 Clases](clases/README.md) | Lecturas, presentaciones y actividades |
+| [🧪 Laboratorios](laboratorios/README.md) | Experimentos y guías de práctica |
+| [📝 Pruebas](pruebas/README.md) | Evaluaciones y criterios |
+| [🛠️ Proyecto](proyecto/README.md) | Aplicación integradora |
+
+## Proyecto de cierre
+
+**Especificación de un sistema**
+
+La guía detallada está pendiente de desarrollo.
+
+---
+
+[← Capítulo 13](../13-bases-datos/README.md) · [Índice general](../../README.md) · [Capítulo 15 →](../15-frontend/README.md)

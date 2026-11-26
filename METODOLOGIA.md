@@ -1,3 +1,7 @@
+[![Academia Sistemas](recursos/editorial/portada.svg)](README.md)
+
+[Inicio](README.md) · [Pensum](PENSUM.md)
+
 # Metodología y evaluación
 
 ## Semana típica
@@ -23,3 +27,21 @@ En electrónica inicial utilizar pilas o fuentes DC de bajo voltaje, nunca red d
 
 ## Privacidad
 Repositorio público: no guardar calificaciones, nombres de estudiantes, credenciales ni evidencias con información personal. Las soluciones son visibles; entregar las pruebas antes de consultar sus respuestas.
+
+
+## Ciclo de aprendizaje
+
+```mermaid
+flowchart LR
+ A[Comprender] --> B[Observar]
+ B --> C[Practicar]
+ C --> D[Explicar]
+ D --> E{Domina el tema?}
+ E -->|Sí| F[Avanzar]
+ E -->|No| B
+```
+
+> [!IMPORTANT]
+> El objetivo no es terminar rápido, sino construir bases sólidas.
+
+[Volver al índice](README.md)

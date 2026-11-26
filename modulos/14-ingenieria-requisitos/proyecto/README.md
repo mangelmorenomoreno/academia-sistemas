@@ -1,3 +1,20 @@
-# Proyecto — Especificación de un sistema
+[![Capítulo 14](../../../recursos/editorial/modulo-14.svg)](../README.md)
 
-Estado: propuesta; guía y criterios específicos pendientes. [Rúbrica general](../../../plantillas/rubrica-proyecto.md).
+[Inicio](../../../README.md) · [Capítulo 14](../README.md)
+
+# 🛠️ Proyecto integrador
+
+> Ingeniería de requisitos y modelado
+
+> [!NOTE]
+> Material planificado, todavía no desarrollado. Se incorporará al avanzar en el programa.
+
+## Reto previsto
+
+Especificación de un sistema.
+
+[Ver rúbrica general](../../../plantillas/rubrica-proyecto.md).
+
+---
+
+[← Volver al capítulo](../README.md)

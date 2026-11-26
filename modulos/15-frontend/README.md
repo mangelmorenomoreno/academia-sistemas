@@ -1,21 +1,37 @@
-# Módulo 15 — Desarrollo web frontend
+<p align="center"><img src="../../recursos/editorial/modulo-15.svg" alt="Capítulo 15: Desarrollo web frontend" width="100%"></p>
 
-**Estado:** Planificado; clases y pruebas aún no desarrolladas.
+[Inicio](../../README.md) · [Pensum](../../PENSUM.md)
 
-**Duración base:** 5 semanas (35 horas). 
+# Capítulo 15 · Desarrollo web frontend
 
-**Prerrequisito:** [Módulo anterior](../14-ingenieria-requisitos/README.md).
+> Este capítulo forma parte de la ruta progresiva; sus materiales completos están planificados.
 
-## Contenidos
-- HTML, CSS, JavaScript, DOM, accesibilidad, consumo de API y framework frontend
+**5 semanas · 35 horas base · Planificado**
 
-## Proyecto integrador
-Interfaz de administración.
+## Qué vas a aprender
 
-## Materiales
-- [Clases](clases/README.md)
-- [Laboratorios](laboratorios/README.md)
-- [Pruebas](pruebas/README.md)
-- [Proyecto](proyecto/README.md)
+- HTML
+- CSS
+- JavaScript
+- DOM
+- accesibilidad
+- consumo de API y framework frontend
 
-[Volver al pensum](../../PENSUM.md)
+## Biblioteca del capítulo
+
+| Sección | Contenido |
+|---|---|
+| [📖 Clases](clases/README.md) | Lecturas, presentaciones y actividades |
+| [🧪 Laboratorios](laboratorios/README.md) | Experimentos y guías de práctica |
+| [📝 Pruebas](pruebas/README.md) | Evaluaciones y criterios |
+| [🛠️ Proyecto](proyecto/README.md) | Aplicación integradora |
+
+## Proyecto de cierre
+
+**Interfaz de administración**
+
+La guía detallada está pendiente de desarrollo.
+
+---
+
+[← Capítulo 14](../14-ingenieria-requisitos/README.md) · [Índice general](../../README.md) · [Capítulo 16 →](../16-backend/README.md)

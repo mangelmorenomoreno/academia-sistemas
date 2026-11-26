@@ -1,3 +1,16 @@
-# Pruebas — Cloud, DevOps y sistemas distribuidos
+[![Capítulo 19](../../../recursos/editorial/modulo-19.svg)](../README.md)
 
-Pendientes de desarrollo. Cada prueba debe incluir puntuación, criterios y solucionario separado.
+[Inicio](../../../README.md) · [Capítulo 19](../README.md)
+
+# 📝 Evaluaciones
+
+> Cloud, DevOps y sistemas distribuidos
+
+> [!NOTE]
+> Material planificado, todavía no desarrollado. Se incorporará al avanzar en el programa.
+
+Cada prueba tendrá instrucciones, puntuación, criterios y solucionario separado.
+
+---
+
+[← Volver al capítulo](../README.md)

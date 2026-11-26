@@ -1,3 +1,16 @@
-# Pruebas — Arquitectura y calidad de software
+[![Capítulo 17](../../../recursos/editorial/modulo-17.svg)](../README.md)
 
-Pendientes de desarrollo. Cada prueba debe incluir puntuación, criterios y solucionario separado.
+[Inicio](../../../README.md) · [Capítulo 17](../README.md)
+
+# 📝 Evaluaciones
+
+> Arquitectura y calidad de software
+
+> [!NOTE]
+> Material planificado, todavía no desarrollado. Se incorporará al avanzar en el programa.
+
+Cada prueba tendrá instrucciones, puntuación, criterios y solucionario separado.
+
+---
+
+[← Volver al capítulo](../README.md)

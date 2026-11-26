@@ -1,21 +1,35 @@
-# Módulo 18 — Seguridad informática
+<p align="center"><img src="../../recursos/editorial/modulo-18.svg" alt="Capítulo 18: Seguridad informática" width="100%"></p>
 
-**Estado:** Planificado; clases y pruebas aún no desarrolladas.
+[Inicio](../../README.md) · [Pensum](../../PENSUM.md)
 
-**Duración base:** 4 semanas (28 horas). 
+# Capítulo 18 · Seguridad informática
 
-**Prerrequisito:** [Módulo anterior](../17-arquitectura-software/README.md).
+> Este capítulo forma parte de la ruta progresiva; sus materiales completos están planificados.
 
-## Contenidos
-- Modelado de amenazas, autenticación, autorización, criptografía básica y desarrollo seguro
+**4 semanas · 28 horas base · Planificado**
 
-## Proyecto integrador
-Auditoría de una aplicación propia.
+## Qué vas a aprender
 
-## Materiales
-- [Clases](clases/README.md)
-- [Laboratorios](laboratorios/README.md)
-- [Pruebas](pruebas/README.md)
-- [Proyecto](proyecto/README.md)
+- Modelado de amenazas
+- autenticación
+- autorización
+- criptografía básica y desarrollo seguro
 
-[Volver al pensum](../../PENSUM.md)
+## Biblioteca del capítulo
+
+| Sección | Contenido |
+|---|---|
+| [📖 Clases](clases/README.md) | Lecturas, presentaciones y actividades |
+| [🧪 Laboratorios](laboratorios/README.md) | Experimentos y guías de práctica |
+| [📝 Pruebas](pruebas/README.md) | Evaluaciones y criterios |
+| [🛠️ Proyecto](proyecto/README.md) | Aplicación integradora |
+
+## Proyecto de cierre
+
+**Auditoría de una aplicación propia**
+
+La guía detallada está pendiente de desarrollo.
+
+---
+
+[← Capítulo 17](../17-arquitectura-software/README.md) · [Índice general](../../README.md) · [Capítulo 19 →](../19-cloud-devops/README.md)

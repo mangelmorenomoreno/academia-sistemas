@@ -1,21 +1,40 @@
-# Módulo 04 — Microcontroladores y sistemas embebidos
+<p align="center"><img src="../../recursos/editorial/modulo-04.svg" alt="Capítulo 04: Microcontroladores y sistemas embebidos" width="100%"></p>
 
-**Estado:** Planificado; clases y pruebas aún no desarrolladas.
+[Inicio](../../README.md) · [Pensum](../../PENSUM.md)
 
-**Duración base:** 4 semanas (28 horas). 
+# Capítulo 04 · Microcontroladores y sistemas embebidos
 
-**Prerrequisito:** [Módulo anterior](../03-electronica-digital/README.md).
+> Este capítulo forma parte de la ruta progresiva; sus materiales completos están planificados.
 
-## Contenidos
-- GPIO, C básico, temporizadores, PWM, ADC, interrupciones, UART, I2C, SPI
+**4 semanas · 28 horas base · Planificado**
 
-## Proyecto integrador
-Semáforo programable.
+## Qué vas a aprender
 
-## Materiales
-- [Clases](clases/README.md)
-- [Laboratorios](laboratorios/README.md)
-- [Pruebas](pruebas/README.md)
-- [Proyecto](proyecto/README.md)
+- GPIO
+- C básico
+- temporizadores
+- PWM
+- ADC
+- interrupciones
+- UART
+- I2C
+- SPI
 
-[Volver al pensum](../../PENSUM.md)
+## Biblioteca del capítulo
+
+| Sección | Contenido |
+|---|---|
+| [📖 Clases](clases/README.md) | Lecturas, presentaciones y actividades |
+| [🧪 Laboratorios](laboratorios/README.md) | Experimentos y guías de práctica |
+| [📝 Pruebas](pruebas/README.md) | Evaluaciones y criterios |
+| [🛠️ Proyecto](proyecto/README.md) | Aplicación integradora |
+
+## Proyecto de cierre
+
+**Semáforo programable**
+
+La guía detallada está pendiente de desarrollo.
+
+---
+
+[← Capítulo 03](../03-electronica-digital/README.md) · [Índice general](../../README.md) · [Capítulo 05 →](../05-arquitectura-computadores/README.md)

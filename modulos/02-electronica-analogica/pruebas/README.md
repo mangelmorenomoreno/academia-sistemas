@@ -1,3 +1,16 @@
-# Pruebas — Electrónica analógica
+[![Capítulo 02](../../../recursos/editorial/modulo-02.svg)](../README.md)
 
-Pendientes de desarrollo. Cada prueba debe incluir puntuación, criterios y solucionario separado.
+[Inicio](../../../README.md) · [Capítulo 02](../README.md)
+
+# 📝 Evaluaciones
+
+> Electrónica analógica
+
+> [!NOTE]
+> Material planificado, todavía no desarrollado. Se incorporará al avanzar en el programa.
+
+Cada prueba tendrá instrucciones, puntuación, criterios y solucionario separado.
+
+---
+
+[← Volver al capítulo](../README.md)

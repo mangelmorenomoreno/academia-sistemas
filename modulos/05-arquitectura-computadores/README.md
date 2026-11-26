@@ -1,21 +1,39 @@
-# Módulo 05 — Arquitectura de computadores
+<p align="center"><img src="../../recursos/editorial/modulo-05.svg" alt="Capítulo 05: Arquitectura de computadores" width="100%"></p>
 
-**Estado:** Planificado; clases y pruebas aún no desarrolladas.
+[Inicio](../../README.md) · [Pensum](../../PENSUM.md)
 
-**Duración base:** 4 semanas (28 horas). 
+# Capítulo 05 · Arquitectura de computadores
 
-**Prerrequisito:** [Módulo anterior](../04-microcontroladores/README.md).
+> Este capítulo forma parte de la ruta progresiva; sus materiales completos están planificados.
 
-## Contenidos
-- ALU, CPU, registros, memoria, buses, ISA, ciclo de instrucción, ensamblador y caché
+**4 semanas · 28 horas base · Planificado**
 
-## Proyecto integrador
-Simular una CPU elemental.
+## Qué vas a aprender
 
-## Materiales
-- [Clases](clases/README.md)
-- [Laboratorios](laboratorios/README.md)
-- [Pruebas](pruebas/README.md)
-- [Proyecto](proyecto/README.md)
+- ALU
+- CPU
+- registros
+- memoria
+- buses
+- ISA
+- ciclo de instrucción
+- ensamblador y caché
 
-[Volver al pensum](../../PENSUM.md)
+## Biblioteca del capítulo
+
+| Sección | Contenido |
+|---|---|
+| [📖 Clases](clases/README.md) | Lecturas, presentaciones y actividades |
+| [🧪 Laboratorios](laboratorios/README.md) | Experimentos y guías de práctica |
+| [📝 Pruebas](pruebas/README.md) | Evaluaciones y criterios |
+| [🛠️ Proyecto](proyecto/README.md) | Aplicación integradora |
+
+## Proyecto de cierre
+
+**Simular una CPU elemental**
+
+La guía detallada está pendiente de desarrollo.
+
+---
+
+[← Capítulo 04](../04-microcontroladores/README.md) · [Índice general](../../README.md) · [Capítulo 06 →](../06-matematicas-discretas/README.md)

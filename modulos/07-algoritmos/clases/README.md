@@ -1,3 +1,26 @@
-# Clases — Algoritmos y lógica de programación
+[![Capítulo 07](../../../recursos/editorial/modulo-07.svg)](../README.md)
 
-Pendientes de desarrollo. Usar [la plantilla de clase](../../../plantillas/clase.md).
+[Inicio](../../../README.md) · [Capítulo 07](../README.md)
+
+# 📖 Clases y lecturas
+
+> Algoritmos y lógica de programación
+
+> [!NOTE]
+> Material planificado, todavía no desarrollado. Se incorporará al avanzar en el programa.
+
+## Temario previsto
+
+- Descomposición
+- pseudocódigo
+- diagramas
+- variables
+- tipos
+- decisiones
+- ciclos y trazas
+
+[Plantilla de clase](../../../plantillas/clase.md).
+
+---
+
+[← Volver al capítulo](../README.md)

@@ -1,21 +1,37 @@
-# Módulo 06 — Matemáticas discretas y lógica
+<p align="center"><img src="../../recursos/editorial/modulo-06.svg" alt="Capítulo 06: Matemáticas discretas y lógica" width="100%"></p>
 
-**Estado:** Planificado; clases y pruebas aún no desarrolladas.
+[Inicio](../../README.md) · [Pensum](../../PENSUM.md)
 
-**Duración base:** 4 semanas (28 horas). 
+# Capítulo 06 · Matemáticas discretas y lógica
 
-**Prerrequisito:** [Módulo anterior](../05-arquitectura-computadores/README.md).
+> Este capítulo forma parte de la ruta progresiva; sus materiales completos están planificados.
 
-## Contenidos
-- Proposiciones, demostraciones, conjuntos, relaciones, funciones, combinatoria y grafos
+**4 semanas · 28 horas base · Planificado**
 
-## Proyecto integrador
-Modelar un grafo de conexiones.
+## Qué vas a aprender
 
-## Materiales
-- [Clases](clases/README.md)
-- [Laboratorios](laboratorios/README.md)
-- [Pruebas](pruebas/README.md)
-- [Proyecto](proyecto/README.md)
+- Proposiciones
+- demostraciones
+- conjuntos
+- relaciones
+- funciones
+- combinatoria y grafos
 
-[Volver al pensum](../../PENSUM.md)
+## Biblioteca del capítulo
+
+| Sección | Contenido |
+|---|---|
+| [📖 Clases](clases/README.md) | Lecturas, presentaciones y actividades |
+| [🧪 Laboratorios](laboratorios/README.md) | Experimentos y guías de práctica |
+| [📝 Pruebas](pruebas/README.md) | Evaluaciones y criterios |
+| [🛠️ Proyecto](proyecto/README.md) | Aplicación integradora |
+
+## Proyecto de cierre
+
+**Modelar un grafo de conexiones**
+
+La guía detallada está pendiente de desarrollo.
+
+---
+
+[← Capítulo 05](../05-arquitectura-computadores/README.md) · [Índice general](../../README.md) · [Capítulo 07 →](../07-algoritmos/README.md)

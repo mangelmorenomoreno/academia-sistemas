@@ -1,3 +1,20 @@
-# Proyecto — Simular una CPU elemental
+[![Capítulo 05](../../../recursos/editorial/modulo-05.svg)](../README.md)
 
-Estado: propuesta; guía y criterios específicos pendientes. [Rúbrica general](../../../plantillas/rubrica-proyecto.md).
+[Inicio](../../../README.md) · [Capítulo 05](../README.md)
+
+# 🛠️ Proyecto integrador
+
+> Arquitectura de computadores
+
+> [!NOTE]
+> Material planificado, todavía no desarrollado. Se incorporará al avanzar en el programa.
+
+## Reto previsto
+
+Simular una CPU elemental.
+
+[Ver rúbrica general](../../../plantillas/rubrica-proyecto.md).
+
+---
+
+[← Volver al capítulo](../README.md)

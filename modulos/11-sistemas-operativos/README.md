@@ -1,21 +1,38 @@
-# Módulo 11 — Sistemas operativos
+<p align="center"><img src="../../recursos/editorial/modulo-11.svg" alt="Capítulo 11: Sistemas operativos" width="100%"></p>
 
-**Estado:** Planificado; clases y pruebas aún no desarrolladas.
+[Inicio](../../README.md) · [Pensum](../../PENSUM.md)
 
-**Duración base:** 4 semanas (28 horas). 
+# Capítulo 11 · Sistemas operativos
 
-**Prerrequisito:** [Módulo anterior](../10-estructuras-datos/README.md).
+> Este capítulo forma parte de la ruta progresiva; sus materiales completos están planificados.
 
-## Contenidos
-- Linux, terminal, procesos, hilos, memoria virtual, archivos, permisos y planificación
+**4 semanas · 28 horas base · Planificado**
 
-## Proyecto integrador
-Automatizar tareas en Linux.
+## Qué vas a aprender
 
-## Materiales
-- [Clases](clases/README.md)
-- [Laboratorios](laboratorios/README.md)
-- [Pruebas](pruebas/README.md)
-- [Proyecto](proyecto/README.md)
+- Linux
+- terminal
+- procesos
+- hilos
+- memoria virtual
+- archivos
+- permisos y planificación
 
-[Volver al pensum](../../PENSUM.md)
+## Biblioteca del capítulo
+
+| Sección | Contenido |
+|---|---|
+| [📖 Clases](clases/README.md) | Lecturas, presentaciones y actividades |
+| [🧪 Laboratorios](laboratorios/README.md) | Experimentos y guías de práctica |
+| [📝 Pruebas](pruebas/README.md) | Evaluaciones y criterios |
+| [🛠️ Proyecto](proyecto/README.md) | Aplicación integradora |
+
+## Proyecto de cierre
+
+**Automatizar tareas en Linux**
+
+La guía detallada está pendiente de desarrollo.
+
+---
+
+[← Capítulo 10](../10-estructuras-datos/README.md) · [Índice general](../../README.md) · [Capítulo 12 →](../12-redes/README.md)

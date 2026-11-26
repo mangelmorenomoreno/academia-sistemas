@@ -1,3 +1,16 @@
-# Pruebas — Estructuras de datos y algoritmos avanzados
+[![Capítulo 10](../../../recursos/editorial/modulo-10.svg)](../README.md)
 
-Pendientes de desarrollo. Cada prueba debe incluir puntuación, criterios y solucionario separado.
+[Inicio](../../../README.md) · [Capítulo 10](../README.md)
+
+# 📝 Evaluaciones
+
+> Estructuras de datos y algoritmos avanzados
+
+> [!NOTE]
+> Material planificado, todavía no desarrollado. Se incorporará al avanzar en el programa.
+
+Cada prueba tendrá instrucciones, puntuación, criterios y solucionario separado.
+
+---
+
+[← Volver al capítulo](../README.md)

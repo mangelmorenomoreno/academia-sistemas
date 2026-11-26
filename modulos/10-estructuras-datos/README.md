@@ -1,21 +1,39 @@
-# Módulo 10 — Estructuras de datos y algoritmos avanzados
+<p align="center"><img src="../../recursos/editorial/modulo-10.svg" alt="Capítulo 10: Estructuras de datos y algoritmos avanzados" width="100%"></p>
 
-**Estado:** Planificado; clases y pruebas aún no desarrolladas.
+[Inicio](../../README.md) · [Pensum](../../PENSUM.md)
 
-**Duración base:** 5 semanas (35 horas). 
+# Capítulo 10 · Estructuras de datos y algoritmos avanzados
 
-**Prerrequisito:** [Módulo anterior](../09-programacion-orientada-objetos/README.md).
+> Este capítulo forma parte de la ruta progresiva; sus materiales completos están planificados.
 
-## Contenidos
-- Complejidad, listas, pilas, colas, mapas, árboles, grafos, búsqueda y ordenamiento
+**5 semanas · 35 horas base · Planificado**
 
-## Proyecto integrador
-Comparar algoritmos con mediciones.
+## Qué vas a aprender
 
-## Materiales
-- [Clases](clases/README.md)
-- [Laboratorios](laboratorios/README.md)
-- [Pruebas](pruebas/README.md)
-- [Proyecto](proyecto/README.md)
+- Complejidad
+- listas
+- pilas
+- colas
+- mapas
+- árboles
+- grafos
+- búsqueda y ordenamiento
 
-[Volver al pensum](../../PENSUM.md)
+## Biblioteca del capítulo
+
+| Sección | Contenido |
+|---|---|
+| [📖 Clases](clases/README.md) | Lecturas, presentaciones y actividades |
+| [🧪 Laboratorios](laboratorios/README.md) | Experimentos y guías de práctica |
+| [📝 Pruebas](pruebas/README.md) | Evaluaciones y criterios |
+| [🛠️ Proyecto](proyecto/README.md) | Aplicación integradora |
+
+## Proyecto de cierre
+
+**Comparar algoritmos con mediciones**
+
+La guía detallada está pendiente de desarrollo.
+
+---
+
+[← Capítulo 09](../09-programacion-orientada-objetos/README.md) · [Índice general](../../README.md) · [Capítulo 11 →](../11-sistemas-operativos/README.md)

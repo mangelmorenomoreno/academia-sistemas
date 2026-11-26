@@ -1,3 +1,20 @@
-# Proyecto — Comparar algoritmos con mediciones
+[![Capítulo 10](../../../recursos/editorial/modulo-10.svg)](../README.md)
 
-Estado: propuesta; guía y criterios específicos pendientes. [Rúbrica general](../../../plantillas/rubrica-proyecto.md).
+[Inicio](../../../README.md) · [Capítulo 10](../README.md)
+
+# 🛠️ Proyecto integrador
+
+> Estructuras de datos y algoritmos avanzados
+
+> [!NOTE]
+> Material planificado, todavía no desarrollado. Se incorporará al avanzar en el programa.
+
+## Reto previsto
+
+Comparar algoritmos con mediciones.
+
+[Ver rúbrica general](../../../plantillas/rubrica-proyecto.md).
+
+---
+
+[← Volver al capítulo](../README.md)

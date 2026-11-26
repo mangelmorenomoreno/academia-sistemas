@@ -1,21 +1,37 @@
-# Módulo 16 — Desarrollo backend y APIs
+<p align="center"><img src="../../recursos/editorial/modulo-16.svg" alt="Capítulo 16: Desarrollo backend y APIs" width="100%"></p>
 
-**Estado:** Planificado; clases y pruebas aún no desarrolladas.
+[Inicio](../../README.md) · [Pensum](../../PENSUM.md)
 
-**Duración base:** 6 semanas (42 horas). 
+# Capítulo 16 · Desarrollo backend y APIs
 
-**Prerrequisito:** [Módulo anterior](../15-frontend/README.md).
+> Este capítulo forma parte de la ruta progresiva; sus materiales completos están planificados.
 
-## Contenidos
-- Java y Spring Boot, REST, validación, JPA, transacciones, errores y pruebas de integración
+**6 semanas · 42 horas base · Planificado**
 
-## Proyecto integrador
-API REST con PostgreSQL.
+## Qué vas a aprender
 
-## Materiales
-- [Clases](clases/README.md)
-- [Laboratorios](laboratorios/README.md)
-- [Pruebas](pruebas/README.md)
-- [Proyecto](proyecto/README.md)
+- Java y Spring Boot
+- REST
+- validación
+- JPA
+- transacciones
+- errores y pruebas de integración
 
-[Volver al pensum](../../PENSUM.md)
+## Biblioteca del capítulo
+
+| Sección | Contenido |
+|---|---|
+| [📖 Clases](clases/README.md) | Lecturas, presentaciones y actividades |
+| [🧪 Laboratorios](laboratorios/README.md) | Experimentos y guías de práctica |
+| [📝 Pruebas](pruebas/README.md) | Evaluaciones y criterios |
+| [🛠️ Proyecto](proyecto/README.md) | Aplicación integradora |
+
+## Proyecto de cierre
+
+**API REST con PostgreSQL**
+
+La guía detallada está pendiente de desarrollo.
+
+---
+
+[← Capítulo 15](../15-frontend/README.md) · [Índice general](../../README.md) · [Capítulo 17 →](../17-arquitectura-software/README.md)

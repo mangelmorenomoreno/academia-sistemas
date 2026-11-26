@@ -1,3 +1,16 @@
-# Pruebas — Matemáticas discretas y lógica
+[![Capítulo 06](../../../recursos/editorial/modulo-06.svg)](../README.md)
 
-Pendientes de desarrollo. Cada prueba debe incluir puntuación, criterios y solucionario separado.
+[Inicio](../../../README.md) · [Capítulo 06](../README.md)
+
+# 📝 Evaluaciones
+
+> Matemáticas discretas y lógica
+
+> [!NOTE]
+> Material planificado, todavía no desarrollado. Se incorporará al avanzar en el programa.
+
+Cada prueba tendrá instrucciones, puntuación, criterios y solucionario separado.
+
+---
+
+[← Volver al capítulo](../README.md)

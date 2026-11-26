@@ -1,21 +1,36 @@
-# Módulo 02 — Electrónica analógica
+<p align="center"><img src="../../recursos/editorial/modulo-02.svg" alt="Capítulo 02: Electrónica analógica" width="100%"></p>
 
-**Estado:** Planificado; clases y pruebas aún no desarrolladas.
+[Inicio](../../README.md) · [Pensum](../../PENSUM.md)
 
-**Duración base:** 4 semanas (28 horas). 
+# Capítulo 02 · Electrónica analógica
 
-**Prerrequisito:** [Módulo anterior](../01-electronica-basica/README.md).
+> Este capítulo forma parte de la ruta progresiva; sus materiales completos están planificados.
 
-## Contenidos
-- Condensadores, inductores, diodos, transistores BJT y MOSFET, filtros y amplificación
+**4 semanas · 28 horas base · Planificado**
 
-## Proyecto integrador
-Sensor con etapa de acondicionamiento.
+## Qué vas a aprender
 
-## Materiales
-- [Clases](clases/README.md)
-- [Laboratorios](laboratorios/README.md)
-- [Pruebas](pruebas/README.md)
-- [Proyecto](proyecto/README.md)
+- Condensadores
+- inductores
+- diodos
+- transistores BJT y MOSFET
+- filtros y amplificación
 
-[Volver al pensum](../../PENSUM.md)
+## Biblioteca del capítulo
+
+| Sección | Contenido |
+|---|---|
+| [📖 Clases](clases/README.md) | Lecturas, presentaciones y actividades |
+| [🧪 Laboratorios](laboratorios/README.md) | Experimentos y guías de práctica |
+| [📝 Pruebas](pruebas/README.md) | Evaluaciones y criterios |
+| [🛠️ Proyecto](proyecto/README.md) | Aplicación integradora |
+
+## Proyecto de cierre
+
+**Sensor con etapa de acondicionamiento**
+
+La guía detallada está pendiente de desarrollo.
+
+---
+
+[← Capítulo 01](../01-electronica-basica/README.md) · [Índice general](../../README.md) · [Capítulo 03 →](../03-electronica-digital/README.md)

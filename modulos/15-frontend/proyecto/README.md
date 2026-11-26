@@ -1,3 +1,20 @@
-# Proyecto — Interfaz de administración
+[![Capítulo 15](../../../recursos/editorial/modulo-15.svg)](../README.md)
 
-Estado: propuesta; guía y criterios específicos pendientes. [Rúbrica general](../../../plantillas/rubrica-proyecto.md).
+[Inicio](../../../README.md) · [Capítulo 15](../README.md)
+
+# 🛠️ Proyecto integrador
+
+> Desarrollo web frontend
+
+> [!NOTE]
+> Material planificado, todavía no desarrollado. Se incorporará al avanzar en el programa.
+
+## Reto previsto
+
+Interfaz de administración.
+
+[Ver rúbrica general](../../../plantillas/rubrica-proyecto.md).
+
+---
+
+[← Volver al capítulo](../README.md)

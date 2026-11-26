@@ -1,21 +1,37 @@
-# Módulo 17 — Arquitectura y calidad de software
+<p align="center"><img src="../../recursos/editorial/modulo-17.svg" alt="Capítulo 17: Arquitectura y calidad de software" width="100%"></p>
 
-**Estado:** Planificado; clases y pruebas aún no desarrolladas.
+[Inicio](../../README.md) · [Pensum](../../PENSUM.md)
 
-**Duración base:** 5 semanas (35 horas). 
+# Capítulo 17 · Arquitectura y calidad de software
 
-**Prerrequisito:** [Módulo anterior](../16-backend/README.md).
+> Este capítulo forma parte de la ruta progresiva; sus materiales completos están planificados.
 
-## Contenidos
-- SOLID, patrones, arquitectura por capas, modularidad, refactorización, pruebas y documentación
+**5 semanas · 35 horas base · Planificado**
 
-## Proyecto integrador
-Refactorizar una aplicación.
+## Qué vas a aprender
 
-## Materiales
-- [Clases](clases/README.md)
-- [Laboratorios](laboratorios/README.md)
-- [Pruebas](pruebas/README.md)
-- [Proyecto](proyecto/README.md)
+- SOLID
+- patrones
+- arquitectura por capas
+- modularidad
+- refactorización
+- pruebas y documentación
 
-[Volver al pensum](../../PENSUM.md)
+## Biblioteca del capítulo
+
+| Sección | Contenido |
+|---|---|
+| [📖 Clases](clases/README.md) | Lecturas, presentaciones y actividades |
+| [🧪 Laboratorios](laboratorios/README.md) | Experimentos y guías de práctica |
+| [📝 Pruebas](pruebas/README.md) | Evaluaciones y criterios |
+| [🛠️ Proyecto](proyecto/README.md) | Aplicación integradora |
+
+## Proyecto de cierre
+
+**Refactorizar una aplicación**
+
+La guía detallada está pendiente de desarrollo.
+
+---
+
+[← Capítulo 16](../16-backend/README.md) · [Índice general](../../README.md) · [Capítulo 18 →](../18-seguridad-informatica/README.md)

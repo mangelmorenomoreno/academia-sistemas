@@ -1,3 +1,16 @@
-# Pruebas — Algoritmos y lógica de programación
+[![Capítulo 07](../../../recursos/editorial/modulo-07.svg)](../README.md)
 
-Pendientes de desarrollo. Cada prueba debe incluir puntuación, criterios y solucionario separado.
+[Inicio](../../../README.md) · [Capítulo 07](../README.md)
+
+# 📝 Evaluaciones
+
+> Algoritmos y lógica de programación
+
+> [!NOTE]
+> Material planificado, todavía no desarrollado. Se incorporará al avanzar en el programa.
+
+Cada prueba tendrá instrucciones, puntuación, criterios y solucionario separado.
+
+---
+
+[← Volver al capítulo](../README.md)

@@ -1,10 +1,14 @@
+[![Academia Sistemas](recursos/editorial/portada.svg)](README.md)
+
+[Inicio](README.md) · [Metodología](METODOLOGIA.md)
+
 # Pensum — Del electrón al software
 
 **96 semanas lectivas · 7 horas semanales como mínimo · 672 horas base.** Duración orientativa: dos años; ajustar por dominio. La clase 001 ampliada dura 150 minutos y puede requerir 30 minutos adicionales a su sesión prevista.
 
 | Módulo | Semanas | Horas base | Contenidos | Proyecto | Estado |
 |---|---:|---:|---|---|---|
-| [1. Electricidad y electrónica básica](modulos/01-electronica-basica/README.md) | 4 | 28 | Materia y cargas; voltaje, corriente y resistencia; medición; Ohm, Kirchhoff y potencia | Circuito de iluminación de bajo voltaje | En desarrollo: clase 001 lista en texto |
+| [1. Electricidad y electrónica básica](modulos/01-electronica-basica/README.md) | 4 | 28 | Materia y cargas; voltaje, corriente y resistencia; medición; Ohm, Kirchhoff y potencia | Circuito de iluminación de bajo voltaje | En desarrollo: clase 001 con PDF, presentaciones y prácticas |
 | [2. Electrónica analógica](modulos/02-electronica-analogica/README.md) | 4 | 28 | Condensadores, inductores, diodos, transistores BJT y MOSFET, filtros y amplificación | Sensor con etapa de acondicionamiento | Planificado |
 | [3. Electrónica digital y avanzada](modulos/03-electronica-digital/README.md) | 5 | 35 | Binario, hexadecimal, álgebra de Boole, compuertas, combinacionales, biestables, registros y contadores | Contador digital | Planificado |
 | [4. Microcontroladores y sistemas embebidos](modulos/04-microcontroladores/README.md) | 4 | 28 | GPIO, C básico, temporizadores, PWM, ADC, interrupciones, UART, I2C, SPI | Semáforo programable | Planificado |
@@ -27,3 +31,8 @@
 | Total | 96 | 672 | | | |
 
 Matemáticas transversales: unidades SI, aritmética, álgebra, funciones, cálculo introductorio, probabilidad y estadística. Integrar inglés técnico, ética, investigación, teoría general de sistemas y comunicación técnica. Introducir programación instrumental en microcontroladores y profundizarla en módulos 7–9. No es un título universitario acreditado.
+
+
+![Ruta de aprendizaje](recursos/editorial/ruta.svg)
+
+[Volver al índice del libro](README.md)

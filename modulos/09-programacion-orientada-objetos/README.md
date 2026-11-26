@@ -1,21 +1,40 @@
-# Módulo 09 — Programación orientada a objetos
+<p align="center"><img src="../../recursos/editorial/modulo-09.svg" alt="Capítulo 09: Programación orientada a objetos" width="100%"></p>
 
-**Estado:** Planificado; clases y pruebas aún no desarrolladas.
+[Inicio](../../README.md) · [Pensum](../../PENSUM.md)
 
-**Duración base:** 6 semanas (42 horas). 
+# Capítulo 09 · Programación orientada a objetos
 
-**Prerrequisito:** [Módulo anterior](../08-programacion-estructurada/README.md).
+> Este capítulo forma parte de la ruta progresiva; sus materiales completos están planificados.
 
-## Contenidos
-- Java, JVM, clases, objetos, encapsulación, composición, interfaces, herencia, polimorfismo y pruebas
+**6 semanas · 42 horas base · Planificado**
 
-## Proyecto integrador
-Sistema de biblioteca en Java.
+## Qué vas a aprender
 
-## Materiales
-- [Clases](clases/README.md)
-- [Laboratorios](laboratorios/README.md)
-- [Pruebas](pruebas/README.md)
-- [Proyecto](proyecto/README.md)
+- Java
+- JVM
+- clases
+- objetos
+- encapsulación
+- composición
+- interfaces
+- herencia
+- polimorfismo y pruebas
 
-[Volver al pensum](../../PENSUM.md)
+## Biblioteca del capítulo
+
+| Sección | Contenido |
+|---|---|
+| [📖 Clases](clases/README.md) | Lecturas, presentaciones y actividades |
+| [🧪 Laboratorios](laboratorios/README.md) | Experimentos y guías de práctica |
+| [📝 Pruebas](pruebas/README.md) | Evaluaciones y criterios |
+| [🛠️ Proyecto](proyecto/README.md) | Aplicación integradora |
+
+## Proyecto de cierre
+
+**Sistema de biblioteca en Java**
+
+La guía detallada está pendiente de desarrollo.
+
+---
+
+[← Capítulo 08](../08-programacion-estructurada/README.md) · [Índice general](../../README.md) · [Capítulo 10 →](../10-estructuras-datos/README.md)

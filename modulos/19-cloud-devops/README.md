@@ -1,21 +1,37 @@
-# Módulo 19 — Cloud, DevOps y sistemas distribuidos
+<p align="center"><img src="../../recursos/editorial/modulo-19.svg" alt="Capítulo 19: Cloud, DevOps y sistemas distribuidos" width="100%"></p>
 
-**Estado:** Planificado; clases y pruebas aún no desarrolladas.
+[Inicio](../../README.md) · [Pensum](../../PENSUM.md)
 
-**Duración base:** 6 semanas (42 horas). 
+# Capítulo 19 · Cloud, DevOps y sistemas distribuidos
 
-**Prerrequisito:** [Módulo anterior](../18-seguridad-informatica/README.md).
+> Este capítulo forma parte de la ruta progresiva; sus materiales completos están planificados.
 
-## Contenidos
-- Docker, CI/CD, Linux servidor, observabilidad, escalabilidad, mensajería y consistencia
+**6 semanas · 42 horas base · Planificado**
 
-## Proyecto integrador
-Desplegar un sistema con contenedores.
+## Qué vas a aprender
 
-## Materiales
-- [Clases](clases/README.md)
-- [Laboratorios](laboratorios/README.md)
-- [Pruebas](pruebas/README.md)
-- [Proyecto](proyecto/README.md)
+- Docker
+- CI/CD
+- Linux servidor
+- observabilidad
+- escalabilidad
+- mensajería y consistencia
 
-[Volver al pensum](../../PENSUM.md)
+## Biblioteca del capítulo
+
+| Sección | Contenido |
+|---|---|
+| [📖 Clases](clases/README.md) | Lecturas, presentaciones y actividades |
+| [🧪 Laboratorios](laboratorios/README.md) | Experimentos y guías de práctica |
+| [📝 Pruebas](pruebas/README.md) | Evaluaciones y criterios |
+| [🛠️ Proyecto](proyecto/README.md) | Aplicación integradora |
+
+## Proyecto de cierre
+
+**Desplegar un sistema con contenedores**
+
+La guía detallada está pendiente de desarrollo.
+
+---
+
+[← Capítulo 18](../18-seguridad-informatica/README.md) · [Índice general](../../README.md) · [Capítulo 20 →](../20-inteligencia-artificial/README.md)
