@@ -4,7 +4,7 @@
 
 # Clase 002 · Fuerzas eléctricas, campo y ley de Coulomb
 
-**Nivel inicial · 14 temas ilustrados · 180 minutos + evaluación autónoma.**
+**Nivel inicial · 14 temas ilustrados · 3 GIF · simulador interactivo · 180 minutos + evaluación autónoma.**
 
 [▶ Comenzar a leer](libro/01.md) · [Libro interactivo web](https://mangelmorenomoreno.github.io/academia-sistemas/modulos/01-electronica-basica/clases/002-carga-electricidad-energia/libro.html) · [Biblioteca y descargas](descargas.md)
 
