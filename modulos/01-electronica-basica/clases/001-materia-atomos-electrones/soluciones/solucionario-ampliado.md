@@ -30,3 +30,14 @@ Para las prácticas: valorar hipótesis, control de variables, observaciones hon
 ---
 
 <sub>ACADEMIA SISTEMAS · [Volver a la lección](../README.md)</sub>
+
+
+## Apoyo visual al corregir
+
+![Balance de cargas](../recursos/ilustraciones/05-balance.svg)
+
+![Transferencia](../recursos/ilustraciones/06-transfer.svg)
+
+![Polarización](../recursos/ilustraciones/10-polar.svg)
+
+[← Biblioteca](../descargas.md) · [Descargar solucionario](https://raw.githubusercontent.com/mangelmorenomoreno/academia-sistemas/main/modulos/01-electronica-basica/clases/001-materia-atomos-electrones/soluciones/01-solucionario-ampliado.pdf)

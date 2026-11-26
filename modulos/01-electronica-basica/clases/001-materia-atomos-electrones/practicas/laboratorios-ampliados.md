@@ -56,3 +56,14 @@ Recurso: https://phet.colorado.edu/es/simulations/balloons-and-static-electricit
 ---
 
 <sub>ACADEMIA SISTEMAS · [Volver a la lección](../README.md)</sub>
+
+
+## Ilustraciones complementarias
+
+![Laboratorio guiado](../recursos/ilustraciones/15-lab.svg)
+
+![Frotamiento animado](../recursos/animaciones/08.gif)
+
+![Polarización animada](../recursos/animaciones/10.gif)
+
+[← Laboratorio en el libro](../libro/15.md) · [Ejercicios →](../libro/16.md) · [Descargar PDF](https://raw.githubusercontent.com/mangelmorenomoreno/academia-sistemas/main/modulos/01-electronica-basica/clases/001-materia-atomos-electrones/practicas/01-laboratorios.pdf)

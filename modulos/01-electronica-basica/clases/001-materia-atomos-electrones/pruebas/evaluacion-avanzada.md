@@ -42,3 +42,8 @@ Sustentación: explica sin leer por qué carga negativa significa exceso de elec
 ---
 
 <sub>ACADEMIA SISTEMAS · [Volver a la lección](../README.md)</sub>
+
+
+![Etapas de la evaluación sin respuestas](../recursos/ilustraciones/17-exam.svg)
+
+[← Ejercicios](../libro/16.md) · [Cierre y descargas →](../descargas.md) · [Descargar PDF](https://raw.githubusercontent.com/mangelmorenomoreno/academia-sistemas/main/modulos/01-electronica-basica/clases/001-materia-atomos-electrones/pruebas/01-evaluacion-avanzada.pdf)

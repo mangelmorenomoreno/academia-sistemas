@@ -102,6 +102,10 @@ También puedes [descargar la edición interactiva HTML](https://raw.githubuserc
 
 ---
 
+## Biblioteca de plantillas
+
+[📥 Abrir todas las plantillas](plantillas/README.md) · [Informe de laboratorio PDF](https://raw.githubusercontent.com/mangelmorenomoreno/academia-sistemas/main/plantillas/informe-laboratorio.pdf) · [Cuaderno de análisis PDF](https://raw.githubusercontent.com/mangelmorenomoreno/academia-sistemas/main/plantillas/cuaderno-analisis.pdf) · [Seguimiento privado PDF](https://raw.githubusercontent.com/mangelmorenomoreno/academia-sistemas/main/plantillas/seguimiento.pdf)
+
 ## Para el docente
 
 [Metodología y evaluación](METODOLOGIA.md) · [Estándar editorial](plantillas/estandar-materiales.md) · [Plantilla de clase](plantillas/clase.md)

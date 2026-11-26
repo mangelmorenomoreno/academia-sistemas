@@ -4,6 +4,8 @@
 
 # Ejemplos y análisis
 
+[← Índice del libro](../README.md) · [Anterior: laboratorio](../libro/15.md) · [Siguiente: evaluación](../libro/17.md) · [Descargas](../descargas.md)
+
 > Cuaderno de trabajo · [Versión PDF](01-ejemplos-y-analisis.pdf)
 
 ---
@@ -11,6 +13,10 @@
 ![Balance de cargas](../recursos/balance-cargas.svg)
 
 ## Ejemplos resueltos paso a paso
+
+![Balance de cargas](../recursos/ilustraciones/05-balance.svg)
+
+![Conservación paso a paso](../recursos/ilustraciones/06-transfer.svg)
 
 1. Un átomo tiene 11 protones y 10 electrones. Identifica Np=11, Ne=10; sustituye Q=(11-10)e; obtienes +e. Es un catión y tiene un electrón menos que el átomo neutro.
 
@@ -66,3 +72,7 @@
 ---
 
 <sub>ACADEMIA SISTEMAS · [Volver a la lección](../README.md)</sub>
+
+![Transferencia animada](../recursos/animaciones/06.gif)
+
+[← Ejercicios en el libro](../libro/16.md) · [Siguiente: prueba →](../libro/17.md) · [Descargar PDF](https://raw.githubusercontent.com/mangelmorenomoreno/academia-sistemas/main/modulos/01-electronica-basica/clases/001-materia-atomos-electrones/ejercicios/01-ejemplos-y-analisis.pdf)

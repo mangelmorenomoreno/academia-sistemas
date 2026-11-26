@@ -5,7 +5,7 @@
 # Clases — electrónica básica
 
 - 001 — [Materia, átomos y electrones](001-materia-atomos-electrones/README.md) — Desarrollada en texto y presentación web
-- 002 — Carga eléctrica, electricidad y energía — Planificada
+- 002 — [Carga eléctrica, electricidad y energía](002-carga-electricidad-energia/README.md) — Planificada
 - 003 — Voltaje, corriente y resistencia — Planificada
 - 004 — Evaluación de fundamentos físicos — Planificada
 - 005 — Circuitos eléctricos y simbología — Planificada
@@ -28,3 +28,6 @@
 ---
 
 <sub>ACADEMIA SISTEMAS · [Índice general](../../../README.md)</sub>
+
+
+[Leer clase 001 página por página →](001-materia-atomos-electrones/libro/01.md) · [Siguiente clase planificada →](002-carga-electricidad-energia/README.md)

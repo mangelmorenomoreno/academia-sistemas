@@ -23,4 +23,4 @@
 
 Para descargar archivos, usa **Descargar**; si el navegador abre el PDF, utiliza su botón de descarga. Las notas se completan fuera del repositorio público.
 
-[← Índice](README.md) · [Volver al capítulo](../../README.md) · Próxima clase 002 (planificada)
+[← Índice](README.md) · [Volver al capítulo](../../README.md) · [Siguiente clase 002 (planificada) →](../002-carga-electricidad-energia/README.md)

@@ -13,3 +13,15 @@ Cada README debe incluir portada, navegación y secciones claras. Los capítulos
 ---
 
 <sub>ACADEMIA SISTEMAS · [Índice general](../README.md)</sub>
+
+
+## Estándar de navegación e ilustración
+
+- Cada concepto debe tener una explicación causal: qué es, por qué ocurre, qué lo provoca, qué cambia y qué permanece.
+- Una página por concepto, con navegación anterior/índice/siguiente arriba y abajo. El cierre enlaza con la próxima clase, señalando explícitamente si está pendiente.
+- Cada lectura debe incluir una imagen específica del fenómeno, no solo portadas. Los procesos temporales tendrán fotogramas consecutivos y, cuando sea útil, GIF.
+- PDFs: diagramas en cada página de contenido; los PDF presentan secuencias estáticas porque no reproducen GIF de manera fiable.
+- Presentaciones: una visualización por paso, legible y científicamente coherente.
+- Plantillas: fuente editable y PDF imprimible, con enlaces directos en una biblioteca de descargas.
+- HTML: índice, flechas del teclado, indicador de página y controles anterior/siguiente. No afirmar que existe un sitio desplegado si no se ha habilitado GitHub Pages.
+- Comprobar conteos, signos, direcciones de flechas, enlaces y archivos antes de publicar. No representar órbitas esquemáticas como trayectorias reales.
