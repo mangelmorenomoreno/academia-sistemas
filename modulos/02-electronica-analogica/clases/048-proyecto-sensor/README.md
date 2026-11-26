@@ -20,3 +20,6 @@
 > Prácticas virtuales. Nunca conectar red doméstica, abrir fuentes ni provocar cortocircuitos. Montajes posteriores solo con supervisión y fuente aislada de baja tensión limitada.
 
 [← Clase 47](../047-diagnostico-analogico/README.md) · [Índice](../README.md) · [Proyecto →](../../proyecto/README.md)
+
+
+[Capítulo 03 · Electrónica digital (planificado) →](../../../03-electronica-digital/README.md)

@@ -115,7 +115,7 @@ Antes de escribir código hay que comprender qué es la información, cómo se r
 [Metodología y evaluación](METODOLOGIA.md) · [Estándar editorial](plantillas/estandar-materiales.md) · [Plantilla de clase](plantillas/clase.md)
 
 > [!NOTE]
-> El libro está en construcción. Las 24 clases del capítulo 01 tienen materiales desarrollados; el capítulo 02 está en desarrollo (3 clases en edición web inicial); los capítulos 03–20 siguen planificados. Esta formación independiente no equivale a un título universitario acreditado. Los solucionarios son públicos. No se publican notas ni información personal.
+> El libro está en construcción. Las 24 clases del capítulo 01 tienen materiales desarrollados; el capítulo 02 tiene 24 clases en edición web inicial (PDF, PPTX, animaciones y revisión pendientes); los capítulos 03–20 siguen planificados. Esta formación independiente no equivale a un título universitario acreditado. Los solucionarios son públicos. No se publican notas ni información personal.
 
 <p align="center"><sub>ACADEMIA SISTEMAS · Comprender desde el origen, construir con criterio.</sub></p>
 
