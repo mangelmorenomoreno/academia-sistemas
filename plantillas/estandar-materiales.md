@@ -25,3 +25,8 @@ Cada README debe incluir portada, navegación y secciones claras. Los capítulos
 - Plantillas: fuente editable y PDF imprimible, con enlaces directos en una biblioteca de descargas.
 - HTML: índice, flechas del teclado, indicador de página y controles anterior/siguiente. No afirmar que existe un sitio desplegado si no se ha habilitado GitHub Pages.
 - Comprobar conteos, signos, direcciones de flechas, enlaces y archivos antes de publicar. No representar órbitas esquemáticas como trayectorias reales.
+
+
+## Profundidad y edición visual
+
+La lectura extensa conserva rigor, derivaciones, unidades, supuestos, errores y excepciones. El PDF estudiantil usa lenguaje accesible, ilustraciones grandes, bloques cortos, analogías explícitamente limitadas, secuencias y ejercicios visuales; el PDF no reemplaza la explicación completa. La guía docente documenta qué explicar y cómo comprobar comprensión. Cada tema incluye al menos una pregunta causal y una de aplicación nueva. Nunca presentar una ficha curricular como clase completa.

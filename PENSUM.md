@@ -4,13 +4,13 @@
 
 # Pensum — Del electrón al software
 
-**96 semanas lectivas · 7 horas semanales como mínimo · 672 horas base.** Duración orientativa: dos años; ajustar por dominio. La clase 001 ampliada dura 150 minutos y puede requerir 30 minutos adicionales a su sesión prevista.
+**107 semanas lectivas · 7 horas semanales como mínimo · 749 horas base.** Duración orientativa: algo más de dos años lectivos; ajustar por dominio. La clase 001 ampliada dura 150 minutos y puede requerir 30 minutos adicionales a su sesión prevista.
 
 | Módulo | Semanas | Horas base | Contenidos | Proyecto | Estado |
 |---|---:|---:|---|---|---|
-| [1. Electricidad y electrónica básica](modulos/01-electronica-basica/README.md) | 4 | 28 | Materia y cargas; voltaje, corriente y resistencia; medición; Ohm, Kirchhoff y potencia | Circuito de iluminación de bajo voltaje | En desarrollo: clase 001 con PDF, presentaciones y prácticas |
-| [2. Electrónica analógica](modulos/02-electronica-analogica/README.md) | 4 | 28 | Condensadores, inductores, diodos, transistores BJT y MOSFET, filtros y amplificación | Sensor con etapa de acondicionamiento | Planificado |
-| [3. Electrónica digital y avanzada](modulos/03-electronica-digital/README.md) | 5 | 35 | Binario, hexadecimal, álgebra de Boole, compuertas, combinacionales, biestables, registros y contadores | Contador digital | Planificado |
+| [1. Electricidad y electrónica básica](modulos/01-electronica-basica/README.md) | 8 | 56 | 24 clases: física eléctrica, energía, voltaje, corriente, resistencia, Ohm, Joule, fuentes, medición, circuitos, Kirchhoff, AC, magnetismo y componentes | Circuito de iluminación de bajo voltaje | En desarrollo: clase 001 con PDF, presentaciones y prácticas |
+| [2. Electrónica analógica](modulos/02-electronica-analogica/README.md) | 8 | 56 | 24 clases: RC/RL/RLC, transformadores, diodos, BJT/MOSFET, amplificadores, filtros, osciladores, fuentes y sensores | Sensor con etapa de acondicionamiento | Planificado |
+| [3. Electrónica digital y avanzada](modulos/03-electronica-digital/README.md) | 8 | 56 | 24 clases: lógica, CMOS, combinacionales, sumadores, multiplexores, biestables, memoria, ALU y procesador elemental | Contador digital | Planificado |
 | [4. Microcontroladores y sistemas embebidos](modulos/04-microcontroladores/README.md) | 4 | 28 | GPIO, C básico, temporizadores, PWM, ADC, interrupciones, UART, I2C, SPI | Semáforo programable | Planificado |
 | [5. Arquitectura de computadores](modulos/05-arquitectura-computadores/README.md) | 4 | 28 | ALU, CPU, registros, memoria, buses, ISA, ciclo de instrucción, ensamblador y caché | Simular una CPU elemental | Planificado |
 | [6. Matemáticas discretas y lógica](modulos/06-matematicas-discretas/README.md) | 4 | 28 | Proposiciones, demostraciones, conjuntos, relaciones, funciones, combinatoria y grafos | Modelar un grafo de conexiones | Planificado |
@@ -28,7 +28,7 @@
 | [18. Seguridad informática](modulos/18-seguridad-informatica/README.md) | 4 | 28 | Modelado de amenazas, autenticación, autorización, criptografía básica y desarrollo seguro | Auditoría de una aplicación propia | Planificado |
 | [19. Cloud, DevOps y sistemas distribuidos](modulos/19-cloud-devops/README.md) | 6 | 42 | Docker, CI/CD, Linux servidor, observabilidad, escalabilidad, mensajería y consistencia | Desplegar un sistema con contenedores | Planificado |
 | [20. Inteligencia artificial y proyecto integrador](modulos/20-inteligencia-artificial/README.md) | 7 | 49 | Datos, estadística, aprendizaje automático, evaluación, ética y proyecto final | Estación de monitoreo con dispositivo, API, BD e interfaz | Planificado |
-| Total | 96 | 672 | | | |
+| Total | 107 | 749 | | | |
 
 Matemáticas transversales: unidades SI, aritmética, álgebra, funciones, cálculo introductorio, probabilidad y estadística. Integrar inglés técnico, ética, investigación, teoría general de sistemas y comunicación técnica. Introducir programación instrumental en microcontroladores y profundizarla en módulos 7–9. No es un título universitario acreditado.
 
@@ -36,3 +36,10 @@ Matemáticas transversales: unidades SI, aritmética, álgebra, funciones, cálc
 ![Ruta de aprendizaje](recursos/editorial/ruta.svg)
 
 [Volver al índice del libro](README.md)
+
+
+## Profundización obligatoria
+
+[Electrónica básica: 24 clases](modulos/01-electronica-basica/clases/README.md) · [Analógica: 24 clases](modulos/02-electronica-analogica/clases/README.md) · [Digital: 24 clases](modulos/03-electronica-digital/clases/README.md).
+
+Las horas son un mínimo flexible. Se incorpora matemática justo antes de usarla: SI, prefijos, notación científica, álgebra, gráficas, vectores, trigonometría y exponenciales. No avanzar con errores fundamentales.

@@ -27,6 +27,10 @@ Antes de escribir código hay que comprender qué es la información, cómo se r
 | 🎬 Recursos | Videos y simulaciones con actividades guiadas. |
 | 🔑 Solucionarios | Revisar errores después de resolver. |
 
+## Ruta ampliada de electrónica
+
+**24 semanas · 168 horas mínimas · 72 clases planificadas en los tres primeros capítulos.** [Básica](modulos/01-electronica-basica/clases/README.md) · [Analógica](modulos/02-electronica-analogica/clases/README.md) · [Digital](modulos/03-electronica-digital/clases/README.md).
+
 ## Leer como un libro
 
 [▶ Abrir primera página](modulos/01-electronica-basica/clases/001-materia-atomos-electrones/libro/01.md) · [Índice de la clase](modulos/01-electronica-basica/clases/001-materia-atomos-electrones/README.md) · [Biblioteca y descargas](modulos/01-electronica-basica/clases/001-materia-atomos-electrones/descargas.md)
@@ -51,9 +55,9 @@ También puedes [descargar la edición interactiva HTML](https://raw.githubuserc
 
 | Capítulo | Duración | Estado |
 | :--- | :---: | :--- |
-| [01 · Electricidad y electrónica básica](modulos/01-electronica-basica/README.md) | 4 semanas | Clase 001 disponible |
-| [02 · Electrónica analógica](modulos/02-electronica-analogica/README.md) | 4 semanas | Planificado |
-| [03 · Electrónica digital y avanzada](modulos/03-electronica-digital/README.md) | 5 semanas | Planificado |
+| [01 · Electricidad y electrónica básica](modulos/01-electronica-basica/README.md) | 8 semanas | Clase 001 disponible |
+| [02 · Electrónica analógica](modulos/02-electronica-analogica/README.md) | 8 semanas | Planificado |
+| [03 · Electrónica digital y avanzada](modulos/03-electronica-digital/README.md) | 8 semanas | Planificado |
 | [04 · Microcontroladores y sistemas embebidos](modulos/04-microcontroladores/README.md) | 4 semanas | Planificado |
 | [05 · Arquitectura de computadores](modulos/05-arquitectura-computadores/README.md) | 4 semanas | Planificado |
 

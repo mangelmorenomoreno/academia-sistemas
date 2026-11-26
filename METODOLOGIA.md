@@ -45,3 +45,10 @@ flowchart LR
 > El objetivo no es terminar rápido, sino construir bases sólidas.
 
 [Volver al índice](README.md)
+
+
+## Aprendizaje profundo y comprobación acumulativa
+
+En cada tema se enseña qué es, qué lo causa, mecanismo físico o lógico, magnitudes y unidades, representación visual, deducción gradual, ejemplos y contraejemplos, aplicación a sistemas y límites del modelo. Antes de cada fórmula repasar la matemática necesaria. La estudiante predice, dibuja, explica, calcula, simula o experimenta, compara resultados y diagnostica errores. No confundir saber sustituir números con comprender el fenómeno.
+
+Cada semana contiene tres sesiones de aproximadamente 2 horas y una hora de repaso. Extender las sesiones si es necesario, especialmente la primera clase. Pruebas de recuperación al inicio, revisión espaciada a 1 y 4 semanas, evaluación acumulativa y práctica de transferencia a problemas nuevos. Requisito obligatorio: mínimo 80/100 y ausencia de errores conceptuales críticos o prácticas inseguras.

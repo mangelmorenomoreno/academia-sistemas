@@ -6,7 +6,7 @@
 
 > La electricidad es el punto de partida: comprender la materia y el movimiento de cargas permite entender los circuitos que forman un computador.
 
-**4 semanas · 28 horas base · En desarrollo**
+**8 semanas · 56 horas base · En desarrollo**
 
 ## Comienza aquí
 
@@ -19,12 +19,24 @@
 
 ## Qué vas a aprender
 
-- Materia y cargas
-- voltaje
-- corriente y resistencia
-- medición
-- Ohm
-- Kirchhoff y potencia
+```mermaid
+flowchart TD
+ A[Materia y cargas] --> B[Fuerza y campo]
+ B --> C[Energía y trabajo]
+ C --> D[Voltaje y corriente]
+ D --> E[Resistencia y Ohm]
+ E --> F[Potencia y fuentes]
+ F --> G[Medición y circuitos]
+ G --> H[Kirchhoff y conservación]
+ H --> I[AC y electromagnetismo]
+ I --> J[Capacitores, LED y diagnóstico]
+ J --> K[Proyecto]
+```
+
+[Ver las 24 clases, objetivos, prácticas y criterios de dominio](clases/README.md).
+
+> [!IMPORTANT]
+> Antes de la clase 013, los ejercicios eléctricos serán simulados o demostrados por el docente con técnica segura; no se espera que la estudiante mida corriente sin haber aprendido a utilizar el multímetro.
 
 ## Biblioteca del capítulo
 

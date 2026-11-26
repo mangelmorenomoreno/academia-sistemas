@@ -1,21 +1,37 @@
 [![Capítulo 01](../../../../recursos/editorial/modulo-01.svg)](../../README.md)
 
-[← Clase 001](../001-materia-atomos-electrones/README.md) · [Índice del módulo](../README.md)
+[← Clase 001](../001-materia-atomos-electrones/README.md) · [Índice del capítulo](../README.md) · [Clase 003 →](../003-energia-trabajo-conservacion/README.md)
 
-# Clase 002 · Carga eléctrica, electricidad y energía
+# Clase 002 · Fuerzas eléctricas, campo y ley de Coulomb
 
 > [!NOTE]
-> **Planificada.** Aún no se ha desarrollado el material académico ni las evaluaciones.
+> **Planificada — ficha curricular, no material completo.** Semana 1; duración inicial 2 h, ampliable por dominio. La lectura visual, PDF, presentación, GIF cuando proceda, ejercicios completos, prueba y solucionario están pendientes.
 
-## Prerrequisito
+## Pregunta que debe poder responder
 
-Dominar el átomo, el enlace electrónico, los signos de carga y su conservación. Si quedan dudas, regresa a la [lectura 003: por qué se transfiere el electrón](../001-materia-atomos-electrones/libro/03.md).
+¿Cómo actúan las cargas sin tocarse y por qué importa la distancia?
 
-## Temas previstos
+## Prerrequisitos
 
-- Campo eléctrico y fuerza eléctrica.
-- Energía potencial eléctrica y trabajo.
-- Diferencia entre carga, energía y potencia.
-- Introducción a potencial eléctrico.
+[Clase 001](../001-materia-atomos-electrones/README.md) y conceptos anteriores pertinentes. Revisar unidades, notación científica, despejes, vectores o gráficas antes de utilizarlos.
 
-[← Volver a la clase anterior](../001-materia-atomos-electrones/README.md) · [Biblioteca de la clase 001](../001-materia-atomos-electrones/descargas.md)
+## Fundamentos a desarrollar
+
+- Vectores, fuerza, distancia, Coulomb, E=F/q, superposición, líneas de campo, límites del modelo puntual.
+
+## Práctica prevista
+
+Simular dos cargas; comparar r y 2r.
+
+## Criterio de dominio
+
+Calcular fuerza, dirección y campo; distinguirlos.
+
+> [!CAUTION]
+> Solo simulación o demostración supervisada hasta dominar el multímetro en la clase 013. No trabajar con la red doméstica ni provocar cortocircuitos reales.
+
+## Diseño de la futura lección
+
+Concepto → mecanismo → representación → fórmula y unidades → ejemplo resuelto → contraejemplo → práctica → prueba → relación con ingeniería. Incluir ilustraciones originales y pasos de un proceso, con animación cuando aporte valor.
+
+[← Clase 001](../001-materia-atomos-electrones/README.md) · [Índice del capítulo](../README.md) · [Clase 003 →](../003-energia-trabajo-conservacion/README.md)
