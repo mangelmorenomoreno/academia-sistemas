@@ -1,0 +1,59 @@
+[
+  12,
+  "resistores-codigo-colores",
+  "Resistencias comerciales y código de colores",
+  "¿Por qué un resistor de 330 Ω no necesariamente mide 330 Ω exactos?",
+  "bands",
+  [
+    [
+      "Cómo se fabrica un resistor",
+      "Un resistor puede usar película de carbono o metal sobre cerámica, material resistivo masivo o alambre resistivo. Su composición y geometría controlan R; los terminales permiten conectarlo. El encapsulado limita temperatura y protege. Distintos tipos sirven para potencias, tolerancias o frecuencias diferentes.",
+      "Una película larga y delgada puede aumentar la resistencia sin cambiar material.",
+      "¿Por qué un resistor de potencia suele tener cuerpo más grande?",
+      "Disipa calor según diseño y montaje; no solo por valor de Ω.",
+      "Terminal → material resistivo → terminal"
+    ],
+    [
+      "Código de cuatro bandas",
+      "Las dos primeras bandas son cifras; la tercera multiplicador 10ⁿ y la cuarta tolerancia. Dígitos: negro 0, marrón 1, rojo 2, naranja 3, amarillo 4, verde 5, azul 6, violeta 7, gris 8, blanco 9. Oro multiplicador 0,1 o tolerancia ±5%; plata 0,01 o ±10%.",
+      "Naranja-naranja-marrón-oro: 33×10=330 Ω ±5%.",
+      "Marrón-negro-rojo-oro. ¿Valor?",
+      "1 kΩ ±5%.",
+      "3 | 3 | ×10 | ±5%"
+    ],
+    [
+      "Cinco bandas",
+      "En un resistor de cinco bandas, normalmente hay tres cifras significativas, multiplicador y tolerancia. Algunas marcas especiales añaden coeficiente térmico; verifica fabricante. La banda de tolerancia suele estar más separada, pero no es una regla infalible.",
+      "Marrón-negro-negro-rojo-marrón: 100×100=10 kΩ ±1%.",
+      "Rojo-rojo-negro-marrón-marrón. ¿Valor?",
+      "2,2 kΩ ±1%.",
+      "2 | 2 | 0 | ×10 | ±1%"
+    ],
+    [
+      "Tolerancia e intervalo",
+      "La tolerancia expresa desviación permitida respecto al valor nominal en condiciones especificadas. Rmin=Rnom(1−t), Rmax=Rnom(1+t), con t fracción. Temperatura, envejecimiento e incertidumbre de medición también pueden influir.",
+      "330 Ω ±5%: 313,5 a 346,5 Ω.",
+      "1 kΩ ±1%. Calcula intervalo.",
+      "990 a 1010 Ω.",
+      "Nominal → mínimo / máximo"
+    ],
+    [
+      "Valores comerciales y elección",
+      "Los valores comerciales se organizan en series preferidas, por ejemplo E12. Si el cálculo requiere 300 Ω y hay 330 Ω, evalúa la corriente real y si satisface el requisito. Para proteger un LED suele convenir redondear hacia una resistencia mayor si cumple el brillo deseado. Comprueba potencia nominal.",
+      "5 V / 330 Ω≈15,15 mA para un resistor solo ideal; con LED se resta su caída aproximada.",
+      "¿Un resistor de 1 kΩ y otro de 1 kΩ pero diferente potencia son idénticos en todo?",
+      "No; potencia, tolerancia, tecnología y otros límites pueden diferir.",
+      "R calculada → valor comercial → potencia"
+    ],
+    [
+      "Lectura y verificación",
+      "Antes de medir resistencia, desenergiza el circuito y descarga elementos almacenadores con procedimiento seguro. Una medición en circuito puede incluir caminos paralelos. En clase 013 se aprenderá a aislar el componente y usar Ω correctamente. No deduzcas potencia solo por las bandas.",
+      "Un resistor nominal de 330 Ω ±5% medido aislado a 340 Ω puede estar dentro de tolerancia.",
+      "¿350 Ω cumple nominal 330 Ω ±5% ignorando incertidumbre?",
+      "No; máximo 346,5 Ω.",
+      "Bandas → intervalo → medición segura"
+    ]
+  ],
+  "Clasifica cinco resistores desconectados por bandas. Escribe nominal, tolerancia e intervalo. Tras clase 013, mide aislados y compara; ahora solo observación o simulación.",
+  "IEC 60062: códigos de marcado; hojas de datos de resistores"
+]

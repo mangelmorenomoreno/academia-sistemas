@@ -1,0 +1,59 @@
+[
+  4,
+  "energia-potencial-voltaje",
+  "Energía potencial eléctrica y voltaje",
+  "¿Por qué una pila tiene voltaje aunque esté desconectada?",
+  "voltage",
+  [
+    [
+      "Energía potencial eléctrica",
+      "Dos cargas que interactúan tienen energía potencial eléctrica asociada a su configuración. Una fuerza externa puede separar cargas que se atraen, aumentando U; el campo puede devolver esa energía como movimiento. Para dos cargas puntuales U=kqQ/r si U=0 en el infinito. El signo depende de qQ.",
+      "Cargas opuestas tienen U negativa respecto al infinito; alejarlas requiere trabajo externo en condiciones cuasiestáticas.",
+      "¿Separar cargas opuestas aumenta o disminuye U?",
+      "Aumenta; se requiere trabajo externo.",
+      "Cargas próximas → separación → energía almacenada"
+    ],
+    [
+      "Potencial y diferencia de potencial",
+      "El potencial V=U/q para una carga de prueba en un campo dado se mide en J/C. La diferencia ΔV=Vf−Vi es energía potencial por unidad de carga: ΔU=qΔV. El potencial se refiere a una referencia elegida; solo las diferencias importan en los circuitos básicos.",
+      "Mover +2 C desde 0 V hasta 3 V cambia U en +6 J. Para −2 C, ΔU=−6 J.",
+      "Una carga +3 C pasa de 2 V a 7 V. Calcula ΔU.",
+      "15 J.",
+      "0 V → +3 V → ΔU = qΔV"
+    ],
+    [
+      "Trabajo del campo y polaridad",
+      "En electrostática, Wcampo=−ΔU. Una carga positiva libre tiende a acelerar hacia menor potencial; una negativa hacia mayor potencial, si solo actúa el campo eléctrico. La dirección de E es de potencial decreciente; para placas ideales, |E|=|ΔV|/d.",
+      "+1 µC cae de 6 V a 2 V: ΔU=−4 µJ; el campo hace +4 µJ de trabajo.",
+      "−2 µC va de 0 V a 5 V. Calcula ΔU y Wcampo.",
+      "−10 µJ y +10 µJ.",
+      "Potencial alto → E → potencial bajo"
+    ],
+    [
+      "Pila desconectada: voltaje sin corriente",
+      "Procesos químicos separan carga y mantienen una diferencia de potencial entre bornes. Una pila de 1,5 V ideal puede transferir 1,5 J por cada culombio que circula en el circuito externo. Si el circuito está abierto no hay corriente sostenida, pero la tensión entre terminales puede existir.",
+      "Una pila de 6 V que transfiere 2 C entrega 12 J en el modelo ideal.",
+      "¿Qué significa 9 V en J/C? ¿Es lo mismo que 9 A?",
+      "9 J/C; no, amperio es C/s.",
+      "Pila +/− → circuito abierto → V presente"
+    ],
+    [
+      "Voltaje entre dos puntos",
+      "El voltímetro compara potenciales: VAB=VA−VB. Si A=5 V y B=2 V, VAB=3 V; VBA=−3 V. El signo depende de qué punto se usa como referencia. Una tensión no es una cantidad de electrones ni mide la rapidez de flujo.",
+      "En una placa electrónica, GND se toma como referencia 0 V; un pin a 3,3 V tiene 3,3 V respecto a GND.",
+      "VA=−2 V, VB=4 V. ¿VAB?",
+      "−6 V.",
+      "Punto A → referencia B → diferencia"
+    ],
+    [
+      "Puente a los circuitos",
+      "El voltaje permite calcular energía transferida por carga. En una resistencia con corriente convencional del potencial alto al bajo, la energía potencial de las cargas disminuye y se transfiere al material. En la fuente, otros procesos la reponen. No se consumen electrones.",
+      "Con 3 C que atraviesan una caída de 4 V, se transfieren 12 J al elemento si no hay otros procesos.",
+      "¿Qué energía transfiere una caída de 2 V al pasar 5 C?",
+      "10 J.",
+      "Fuente → caída de tensión → energía transferida"
+    ]
+  ],
+  "En papel o simulación, usa dos puntos a 0 y 6 V; compara +1 C, −1 C y +2 C. Predice ΔU y trabajo del campo; representa sentidos. No conectar aún instrumentos.",
+  "OpenStax Física universitaria, volumen 2: potencial eléctrico"
+]

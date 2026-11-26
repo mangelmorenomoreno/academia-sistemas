@@ -1,0 +1,59 @@
+[
+  8,
+  "potencia-efecto-joule",
+  "Potencia eléctrica y efecto Joule",
+  "¿Por qué se calienta un resistor y de dónde viene ese calor?",
+  "power",
+  [
+    [
+      "Potencia: rapidez de transferencia",
+      "La potencia es energía transferida por unidad de tiempo: P=ΔE/Δt si se promedia. El vatio equivale a J/s. Dos aparatos pueden transferir la misma energía, pero uno hacerlo en menos tiempo y tener más potencia.",
+      "60 J en 10 s: P=6 W. Los mismos 60 J en 2 s: 30 W.",
+      "150 J en 30 s. Calcula P.",
+      "5 W.",
+      "Energía → tiempo → potencia"
+    ],
+    [
+      "Potencia eléctrica",
+      "Para un elemento DC, P=VI con convención pasiva (corriente entrando al terminal positivo: potencia absorbida). Una fuente que entrega energía tiene potencia absorbida negativa. Si P constante, E=Pt. V·A=J/s.",
+      "5 V y 0,2 A: P=1 W; durante 60 s, E=60 J.",
+      "12 V y 0,5 A durante 10 s: P y E.",
+      "6 W; 60 J.",
+      "Voltaje × corriente → vatios"
+    ],
+    [
+      "Efecto Joule",
+      "En un resistor óhmico, sustituir V=IR en P=VI da P=I²R=V²/R. La energía transferida aumenta la energía interna del material y puede salir como calor. La carga no desaparece; la fuente sostiene el campo.",
+      "0,1 A en 100 Ω: P=1 W. Si I se duplica con R fija, P=4 W.",
+      "0,02 A en 330 Ω. Calcula P.",
+      "0,132 W.",
+      "Corriente → resistor → calor"
+    ],
+    [
+      "No confundir qué se mantiene fijo",
+      "Con corriente fija, aumentar R aumenta P=I²R. Con voltaje fijo, aumentar R reduce P=V²/R. Ambas expresiones son coherentes porque V, I y R están relacionadas. Siempre identifica qué variable controla la fuente.",
+      "A 3 V, 220 Ω disipa 40,9 mW y 1 kΩ disipa 9 mW.",
+      "A 6 V, compara P en 100 Ω y 200 Ω.",
+      "0,36 W y 0,18 W.",
+      "V fija: R ↑ → I ↓ → P ↓"
+    ],
+    [
+      "Potencia nominal y margen",
+      "La potencia nominal indica cuánto puede disipar un componente bajo condiciones especificadas por fabricante; depende de temperatura, montaje y ventilación. Elegir un margen razonable no sustituye la hoja de datos. Un resistor de 0,25 W no debe operarse deliberadamente por encima de su capacidad.",
+      "5 V sobre 100 Ω: P=0,25 W; evitar usar un resistor de 0,25 W justo al límite; considerar 0,5 W o más según condiciones.",
+      "3 V sobre 330 Ω: P≈? ¿Un resistor de 0,25 W tendría margen ideal?",
+      "0,0273 W; sí, verificar especificaciones.",
+      "Calcula P → compara nominal → margen"
+    ],
+    [
+      "Energía y consumo en sistemas",
+      "1 Wh=3600 J; 1 kWh=3,6 MJ. Un equipo de 20 W durante 3 h consume 60 Wh=216 kJ. La refrigeración retira energía térmica; no elimina la conservación. La potencia de un procesador depende de operación, tensión, frecuencia y pérdidas.",
+      "Una lámpara de 5 W durante 2 h consume 10 Wh=36.000 J.",
+      "Un equipo de 60 W durante 30 min consume ¿cuántos Wh?",
+      "30 Wh.",
+      "W × h → Wh → J"
+    ]
+  ],
+  "En simulación compara 220 Ω y 1 kΩ a 3 V; calcula I, P y energía en 60 s. Predice el cambio de P al duplicar I y luego al duplicar R con V fija. No toques resistores calientes ni realices cortos.",
+  "OpenStax Física universitaria, volumen 2: potencia eléctrica"
+]

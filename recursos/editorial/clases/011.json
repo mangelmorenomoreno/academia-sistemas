@@ -1,0 +1,59 @@
+[
+  11,
+  "componentes-simbologia",
+  "Componentes electrónicos y simbología",
+  "¿Cómo se pasa de un diagrama a conexiones físicas?",
+  "symbols",
+  [
+    [
+      "Leer símbolos y nodos",
+      "Los esquemas usan símbolos convencionales para representar función y terminales. Una línea representa conductor ideal; un punto de unión indica nodo compartido. Dos líneas que se cruzan sin unión suelen no conectarse, según convención del dibujo. Verifica siempre la leyenda.",
+      "Tres terminales unidos por el mismo nodo ideal tienen el mismo potencial.",
+      "¿Un cruce sin punto representa siempre una unión?",
+      "No; revisar convención, normalmente no.",
+      "Cable → nodo → rama"
+    ],
+    [
+      "Fuente y resistor",
+      "La pila se dibuja con líneas larga (+) y corta (−). Un resistor puede representarse con zigzag o rectángulo, según norma. Su símbolo no indica polaridad en resistores comunes. La etiqueta R1 y el valor identifican el componente.",
+      "R1=330 Ω conectado a una pila: intercambiar extremos de un resistor común no cambia su función.",
+      "¿Qué diferencia una pila de un resistor en el esquema?",
+      "Fuente con polaridad; resistor limita corriente y transfiere energía.",
+      "Pila | resistor"
+    ],
+    [
+      "Interruptor y protección",
+      "El interruptor representa un contacto que abre o cierra un camino. Normalmente abierto significa que en reposo está abierto, no que tenga tensión cero. El fusible tiene símbolo y valor nominal según diseño; no debe confundirse con interruptor reutilizable.",
+      "Un pulsador normalmente abierto cierra mientras se presiona.",
+      "¿Qué ocurre al soltar un pulsador NO ideal?",
+      "Se abre de nuevo.",
+      "Contacto abierto → cerrado"
+    ],
+    [
+      "Condensador y diodo",
+      "Un condensador ideal usa dos placas; uno polarizado exige orientación según especificación. Un diodo se representa con símbolo que incluye barra de cátodo; conduce de forma asimétrica. Un LED añade flechas de luz hacia afuera. No conectarlos a una fuente sin comprobar polaridad, tensión y limitación de corriente.",
+      "En un LED común la barra del símbolo identifica cátodo K; verificar encapsulado y hoja de datos.",
+      "¿Qué indican las flechas que salen del símbolo LED?",
+      "Emisión de luz.",
+      "Capacitor | diodo | LED"
+    ],
+    [
+      "Esquema frente a montaje físico",
+      "Un dibujo de circuito puede estirarse o girarse sin cambiar su topología. Para pasar al montaje, identifica nodos, terminales y valores. Los componentes reales tienen tamaño, tolerancia y límites que el símbolo no muestra. La protoboard se estudia en clase 013.",
+      "Un resistor y un LED en serie pueden dibujarse horizontal o verticalmente: si comparten los mismos nodos, son equivalentes.",
+      "Dibuja la misma serie de dos formas.",
+      "Se aceptan dibujos con nodos equivalentes.",
+      "Símbolo → terminales → montaje"
+    ],
+    [
+      "Referencia y etiquetas",
+      "GND suele ser referencia de potencial, no necesariamente conexión física a la Tierra. VCC/VDD suelen identificar alimentación; no todas las placas usan esas etiquetas igual. Un esquema debe indicar nombres, unidades, polaridad y referencia.",
+      "Si VDD=3,3 V respecto a GND, no implica que el nodo GND esté conectado a tierra doméstica.",
+      "¿GND siempre significa tierra física?",
+      "No; puede ser referencia local.",
+      "GND → referencia 0 V | VDD → alimentación"
+    ]
+  ],
+  "Con componentes desconectados, identifica terminales y dibuja sus símbolos. Crea dos esquemas equivalentes de pila, interruptor y resistor; marca los nodos. No energizar hasta clase 013.",
+  "PhET Kit de circuitos; OpenStax Física universitaria"
+]

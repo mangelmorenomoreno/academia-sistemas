@@ -1,0 +1,59 @@
+[
+  10,
+  "circuitos-abiertos-cerrados",
+  "Circuitos abiertos, cerrados y cortocircuitos",
+  "¿Por qué un cortocircuito puede calentar los cables?",
+  "switch",
+  [
+    [
+      "Qué es un circuito",
+      "Un circuito eléctrico es una red de componentes conectados por caminos conductores. Nodo: conjunto de puntos unidos por conductor ideal; rama: camino entre nodos con elemento(s); lazo: camino cerrado. Un esquema representa conectividad, no ubicación física.",
+      "Una pila, interruptor y resistor forman un lazo si están conectados en serie.",
+      "¿Cambiar la forma del dibujo sin cambiar conexiones cambia el circuito ideal?",
+      "No.",
+      "Fuente → interruptor → carga → retorno"
+    ],
+    [
+      "Circuito cerrado",
+      "Cuando el interruptor cierra el camino, una fuente puede mantener corriente por la carga. Su valor depende de la resistencia total y limitaciones de la fuente. Cerrar no significa ausencia de resistencia.",
+      "6 V y 300 Ω: I=20 mA en modelo ideal.",
+      "3 V y 150 Ω en circuito cerrado. ¿I?",
+      "20 mA.",
+      "Interruptor cerrado → camino completo → corriente"
+    ],
+    [
+      "Circuito abierto",
+      "Un interruptor abierto interrumpe el camino. En régimen DC ideal, la corriente por ese lazo es cero, aunque pueda haber voltaje entre los contactos. Un voltímetro ideal detecta diferencia de potencial sin establecer una corriente relevante.",
+      "Si el único lazo se abre, I=0 y una caída de tensión puede aparecer en el interruptor.",
+      "¿Un interruptor abierto implica tensión cero entre sus terminales?",
+      "No necesariamente.",
+      "Interruptor abierto → I=0 → tensión posible"
+    ],
+    [
+      "Cortocircuito",
+      "Un corto es una conexión no prevista de resistencia muy baja entre puntos con diferencia de potencial. El camino puede evitar la carga prevista. La corriente puede aumentar y calentar conductores, dañar la fuente o provocar incendio. No se prueba físicamente.",
+      "En el modelo 3 V y 0,5 Ω total, I=6 A; este cálculo muestra el riesgo, no un experimento.",
+      "¿Por qué un cable de baja resistencia entre bornes puede ser peligroso?",
+      "Limita poco la corriente; aumenta calentamiento y riesgo.",
+      "Camino de baja R → I alta → calor"
+    ],
+    [
+      "Protección: fusible y límite de corriente",
+      "Un fusible abre el circuito cuando la corriente y el tiempo superan su característica; protege según diseño y especificación, no garantiza protección contra cualquier contacto. Una fuente limitada reduce corriente al exceder su límite. No puentear fusibles ni reemplazarlos por valores arbitrarios.",
+      "Una fuente limitada a 50 mA no se comporta como una fuente ideal si se intenta exigir más.",
+      "¿Se reemplaza un fusible por alambre para que no se corte?",
+      "No; anula la protección.",
+      "Fuente → fusible/límite → carga"
+    ],
+    [
+      "Diagnóstico conceptual",
+      "Antes de medir, dibuja el camino y predice qué pasa si se abre un contacto, si se cambia una resistencia o si hay puente no previsto. La continuidad se comprobará sin energía en clase 013. Una lámpara apagada puede deberse a varias causas, no solo falta de corriente en la fuente.",
+      "Si una conexión del único lazo se rompe, no circula corriente sostenida.",
+      "Da dos causas de circuito abierto.",
+      "Interruptor abierto; cable roto o conexión suelta.",
+      "Predice → inspecciona → mide seguro"
+    ]
+  ],
+  "En simulación crea tres escenarios: lazo cerrado, abierto y un corto únicamente virtual. Registra I y V en cada caso; identifica protección. En el mundo real no provoques cortos ni conectes instrumentos a la red.",
+  "PhET Kit de construcción de circuitos: DC"
+]

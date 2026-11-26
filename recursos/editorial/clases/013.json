@@ -1,0 +1,59 @@
+[
+  13,
+  "protoboard-multimetro",
+  "Protoboard y multímetro",
+  "¿Por qué un amperímetro en paralelo puede cortocircuitar una pila?",
+  "meter",
+  [
+    [
+      "Seguridad antes de medir",
+      "Las prácticas usan solo 3–6 V DC con fuente limitada o portapilas apropiado, supervisión y resistores adecuados. No usar red doméstica, cargadores abiertos, baterías dañadas ni generar cortos. Desconecta antes de modificar cableado. Comprueba cables, bornes, función y rango del multímetro antes de energizar.",
+      "Para 3 V y 330 Ω, I≈9,1 mA y P≈27 mW; un resistor de 0,25 W tiene margen ideal.",
+      "¿Qué haces antes de mover un cable del montaje?",
+      "Desconectar fuente y verificar ausencia de tensión según el circuito.",
+      "Desenergiza → verifica → conecta"
+    ],
+    [
+      "Protoboard: conexiones internas",
+      "En una placa típica, grupos de cinco agujeros en cada lado del canal central están conectados internamente; lados opuestos no lo están. Los rieles laterales pueden estar partidos y no siempre se conectan de extremo a extremo. Verifica con continuidad sin alimentación; no supongas por colores.",
+      "Dos patas del resistor en el mismo grupo quedan en el mismo nodo y no insertan R en la trayectoria.",
+      "¿Puedo asumir que toda línea roja del riel está conectada?",
+      "No; verificar continuidad sin energía.",
+      "Fila de 5 | canal central | riel"
+    ],
+    [
+      "Bornes y medición de voltaje",
+      "Negro en COM; rojo en borne V/Ω según modelo. Selecciona DC V y rango apropiado o autorango. Conecta en paralelo con el elemento; la alta impedancia del voltímetro limita la corriente que introduce. Observa polaridad y referencia.",
+      "Puntas entre extremos de resistor conectado a pila ideal de 3 V: aproximadamente 3 V, si es la única carga.",
+      "¿Voltímetro en serie o paralelo?",
+      "Paralelo.",
+      "COM + V → paralelo al resistor"
+    ],
+    [
+      "Medición de corriente",
+      "Desconecta fuente. Selecciona DC A, borne de corriente adecuado con fusible según manual y rango inicial superior al esperado. Abre el camino e inserta el instrumento en serie; energiza solo tras revisión. No conectar amperímetro directamente entre bornes. Al terminar, desconecta y devuelve punta roja a V/Ω.",
+      "En 3 V y 330 Ω se espera ≈9,1 mA. El amperímetro real introduce caída (burden voltage).",
+      "¿Por qué no se mide I en paralelo a la fuente?",
+      "Su baja resistencia podría crear un corto.",
+      "Abre rama → inserta A → energiza"
+    ],
+    [
+      "Resistencia y continuidad",
+      "Selecciona Ω o continuidad solo con circuito sin energía y capacitores descargados de manera segura. El instrumento aplica su propia señal. Para medir un resistor, aísla al menos un terminal si existen caminos alternos. El pitido de continuidad no significa exactamente cero ohmios; depende del umbral.",
+      "Dos resistores en paralelo pueden hacer que midas un equivalente menor que el valor individual.",
+      "¿Se mide Ω en circuito alimentado?",
+      "No.",
+      "Fuente desconectada → Ω → componente aislado"
+    ],
+    [
+      "Montaje y diagnóstico supervisado",
+      "Montaje: fuente 3 V, resistor 330 Ω, interruptor, retorno. Primero comprueba continuidad y ausencia de puentes; después mide tensión de fuente y resistor. Si el docente aprueba, mide corriente en serie. Registra unidad, rango e incertidumbre; compara con predicción y tolerancia. Detente si hay calor anormal, olor o daño.",
+      "Si V=2,9 V y R=340 Ω, I ideal≈8,53 mA; una diferencia razonable puede deberse a tolerancias e instrumento.",
+      "¿Qué valores esperas con 3 V y 330 Ω?",
+      "I≈9,09 mA; P≈27,3 mW.",
+      "Predice → monta → mide → compara"
+    ]
+  ],
+  "Práctica obligatoria supervisada: continuidad en protoboard sin fuente, montaje de 3 V con 330 Ω de 0,25 W, medir V en paralelo y luego I en serie siguiendo manual. Si no hay multímetro adecuado, usar simulación y no aprobar práctica física hasta demostrar seguridad.",
+  "Manual del multímetro específico; PhET Circuit Construction Kit DC"
+]
