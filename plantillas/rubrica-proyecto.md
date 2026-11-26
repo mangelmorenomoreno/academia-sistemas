@@ -1,3 +1,7 @@
+[![Academia Sistemas](../recursos/editorial/portada.svg)](../README.md)
+
+[Inicio](../README.md) · [Pensum](../PENSUM.md)
+
 # Rúbrica de proyecto (100 puntos)
 | Criterio | Puntos |
 |---|---:|
@@ -7,3 +11,7 @@
 | Informe y sustentación | 20 |
 
 Registrar observaciones y acciones de mejora de manera privada.
+
+---
+
+<sub>ACADEMIA SISTEMAS · [Índice general](../README.md)</sub>

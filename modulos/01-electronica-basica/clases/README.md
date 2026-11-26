@@ -1,3 +1,7 @@
+[![Capítulo 01](../../../recursos/editorial/modulo-01.svg)](../README.md)
+
+[Inicio](../../../README.md) · [Capítulo 01](../README.md)
+
 # Clases — electrónica básica
 
 - 001 — [Materia, átomos y electrones](001-materia-atomos-electrones/README.md) — Desarrollada en texto y presentación web
@@ -16,3 +20,11 @@
 - 014 — Resistencias, LED, diodos e interruptores — Planificada
 - 015 — Construcción y diagnóstico — Planificada
 - 016 — Examen final y sustentación — Planificada
+
+## Lección disponible
+
+[Clase 001 — Biblioteca completa](001-materia-atomos-electrones/README.md). Incluye lecturas, presentación, ejemplos, prácticas y pruebas.
+
+---
+
+<sub>ACADEMIA SISTEMAS · [Índice general](../../../README.md)</sub>

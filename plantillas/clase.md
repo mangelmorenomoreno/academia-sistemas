@@ -1,3 +1,7 @@
+[![Academia Sistemas](../recursos/editorial/portada.svg)](../README.md)
+
+[Inicio](../README.md) · [Pensum](../PENSUM.md)
+
 # Clase NNN — Título
 Estado: planificada / desarrollada / revisada
 Duración:
@@ -14,3 +18,7 @@ Objetivos observables:
 ## Fuentes y recursos
 
 Separar archivos de teoría, presentación, guía docente, ejercicios, laboratorio y evaluación. Guardar soluciones en una carpeta independiente. No marcar una clase desarrollada si solo existe su estructura.
+
+---
+
+<sub>ACADEMIA SISTEMAS · [Índice general](../README.md)</sub>
