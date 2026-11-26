@@ -1,37 +1,31 @@
-[![Capítulo 01](../../../../recursos/editorial/modulo-01.svg)](../../README.md)
+![Portada de la clase](recursos/portada.svg)
 
-[← Clase 012](../012-resistores-codigo-colores/README.md) · [Índice del capítulo](../README.md) · [Clase 014 →](../014-circuitos-serie/README.md)
+[← Clase 012](../012-resistores-codigo-colores/README.md) · [Índice](../README.md) · [Clase 014 →](../014-circuitos-serie/README.md)
 
 # Clase 013 · Protoboard y multímetro
 
-> [!NOTE]
-> **Planificada — ficha curricular, no material completo.** Semana 5; duración inicial 2 h, ampliable por dominio. La lectura visual, PDF, presentación, GIF cuando proceda, ejercicios completos, prueba y solucionario están pendientes.
+**6 temas desarrollados · 120–180 min orientativos, ampliables por dominio.**
 
-## Pregunta que debe poder responder
+> ¿Por qué un amperímetro en paralelo puede cortocircuitar una pila?
 
-¿Por qué un amperímetro en paralelo puede cortocircuitar una pila?
+[▶ Comenzar a leer](libro/01.md) · [Libro web](https://mangelmorenomoreno.github.io/academia-sistemas/modulos/01-electronica-basica/clases/013-protoboard-multimetro/libro.html) · [Descargas](descargas.md)
 
-## Prerrequisitos
+![Ilustración inicial](recursos/ilustraciones/01.svg)
 
-[Clase 012](../012-resistores-codigo-colores/README.md) y conceptos anteriores pertinentes. Revisar unidades, notación científica, despejes, vectores o gráficas antes de utilizarlos.
+| Página | Tema |
+|---|---|
+| 01 | [Seguridad antes de medir](libro/01.md) |
+| 02 | [Protoboard: conexiones internas](libro/02.md) |
+| 03 | [Bornes y medición de voltaje](libro/03.md) |
+| 04 | [Medición de corriente](libro/04.md) |
+| 05 | [Resistencia y continuidad](libro/05.md) |
+| 06 | [Montaje y diagnóstico supervisado](libro/06.md) |
 
-## Fundamentos a desarrollar
+## Material de estudio
 
-- Rieles y filas internas, V en paralelo, I en serie, Ω sin energía, bornes, rangos, fusibles e incertidumbre.
-
-## Práctica prevista
-
-Continuidad sin energía y montaje supervisado DC de baja tensión.
-
-## Criterio de dominio
-
-Medir correctamente y aprobar seguridad obligatoria.
+[Lectura completa](lecturas/guia-ampliada.md) · [Presentación web](https://mangelmorenomoreno.github.io/academia-sistemas/modulos/01-electronica-basica/clases/013-protoboard-multimetro/presentacion.html) · [Ejercicios](ejercicios/README.md) · [Práctica](practicas/README.md) · [Evaluación](pruebas/README.md) · [Soluciones](soluciones/README.md) · [Guía docente](guia-docente.md) · [Recursos](recursos/videos-y-simulaciones.md)
 
 > [!CAUTION]
-> Solo simulación o demostración supervisada hasta dominar el multímetro en la clase 013. No trabajar con la red doméstica ni provocar cortocircuitos reales.
+> Prácticas físicas solo con baja tensión, fuente limitada o apropiada y supervisión; desenergiza antes de modificar conexiones. Nunca trabajar con la red doméstica, provocar cortos ni utilizar componentes dañados.
 
-## Diseño de la futura lección
-
-Concepto → mecanismo → representación → fórmula y unidades → ejemplo resuelto → contraejemplo → práctica → prueba → relación con ingeniería. Incluir ilustraciones originales y pasos de un proceso, con animación cuando aporte valor.
-
-[← Clase 012](../012-resistores-codigo-colores/README.md) · [Índice del capítulo](../README.md) · [Clase 014 →](../014-circuitos-serie/README.md)
+[← Clase 012](../012-resistores-codigo-colores/README.md) · [Índice](../README.md) · [Clase 014 →](../014-circuitos-serie/README.md)
