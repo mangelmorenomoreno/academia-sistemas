@@ -37,7 +37,7 @@ Antes de escribir código hay que comprender qué es la información, cómo se r
 
 **Edición web:** [Abrir Academia Sistemas](https://mangelmorenomoreno.github.io/academia-sistemas/) (requiere activar GitHub Pages una sola vez). [Instrucciones de publicación](PUBLICACION-WEB.md). Mientras tanto, [leer directamente en GitHub](modulos/01-electronica-basica/clases/001-materia-atomos-electrones/libro/01.md) o [guardar el archivo HTML](https://github.com/mangelmorenomoreno/academia-sistemas/blob/main/modulos/01-electronica-basica/clases/001-materia-atomos-electrones/libro.html) con el botón Download raw file.
 
-## Primera lectura disponible
+## Capítulo 01 completo
 
 [![Capítulo 01: electrónica básica](recursos/editorial/modulo-01.svg)](modulos/01-electronica-basica/README.md)
 
@@ -55,7 +55,7 @@ Antes de escribir código hay que comprender qué es la información, cómo se r
 
 | Capítulo | Duración | Estado |
 | :--- | :---: | :--- |
-| [01 · Electricidad y electrónica básica](modulos/01-electronica-basica/README.md) | 8 semanas | Clase 001 disponible |
+| [01 · Electricidad y electrónica básica](modulos/01-electronica-basica/README.md) | 8 semanas | 24 clases desarrolladas |
 | [02 · Electrónica analógica](modulos/02-electronica-analogica/README.md) | 8 semanas | Planificado |
 | [03 · Electrónica digital y avanzada](modulos/03-electronica-digital/README.md) | 8 semanas | Planificado |
 | [04 · Microcontroladores y sistemas embebidos](modulos/04-microcontroladores/README.md) | 4 semanas | Planificado |
@@ -115,11 +115,11 @@ Antes de escribir código hay que comprender qué es la información, cómo se r
 [Metodología y evaluación](METODOLOGIA.md) · [Estándar editorial](plantillas/estandar-materiales.md) · [Plantilla de clase](plantillas/clase.md)
 
 > [!NOTE]
-> El libro está en construcción. Las clases 001 y 002 tienen material desarrollado; los demás contenidos se encuentran planificados. Esta formación independiente no equivale a un título universitario acreditado. Los solucionarios son públicos. No se publican notas ni información personal.
+> El libro está en construcción. Las 24 clases del capítulo 01 tienen materiales desarrollados; los capítulos 02–20 siguen planificados. Esta formación independiente no equivale a un título universitario acreditado. Los solucionarios son públicos. No se publican notas ni información personal.
 
 <p align="center"><sub>ACADEMIA SISTEMAS · Comprender desde el origen, construir con criterio.</sub></p>
 
 
-## Nueva lección disponible
+## Electrónica básica · 24 clases disponibles
 
-[Clase 002 · Fuerzas eléctricas, campo y ley de Coulomb](modulos/01-electronica-basica/clases/002-carga-electricidad-energia/README.md) · [Abrir libro web](https://mangelmorenomoreno.github.io/academia-sistemas/modulos/01-electronica-basica/clases/002-carga-electricidad-energia/libro.html) · [Simulador](https://mangelmorenomoreno.github.io/academia-sistemas/modulos/01-electronica-basica/clases/002-carga-electricidad-energia/simulador.html)
+[Índice completo](modulos/01-electronica-basica/clases/README.md) · [Biblioteca de prácticas](modulos/01-electronica-basica/laboratorios/README.md) · [Evaluación acumulativa](modulos/01-electronica-basica/pruebas/README.md) · [Proyecto integrador](modulos/01-electronica-basica/proyecto/README.md)

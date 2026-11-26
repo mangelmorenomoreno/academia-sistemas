@@ -6,9 +6,11 @@
 
 > La electricidad es el punto de partida: comprender la materia y el movimiento de cargas permite entender los circuitos que forman un computador.
 
-**8 semanas · 56 horas base · En desarrollo**
+**8 semanas · 56 horas base flexibles · 24 clases desarrolladas**
 
 ## Comienza aquí
+
+[Índice completo de las 24 clases](clases/README.md) · [Biblioteca digital](../../index.html) · [Evaluación acumulativa](pruebas/README.md)
 
 **[Clase 001 — Materia, átomos y electrones](clases/001-materia-atomos-electrones/README.md)**
 
@@ -51,7 +53,7 @@ flowchart TD
 
 **Circuito de iluminación de bajo voltaje**
 
-[Consulta el montaje, cálculos y seguridad](proyecto/README.md).
+[Consulta el montaje, cálculos y seguridad](proyecto/README.md) y la [clase 024](clases/024-proyecto-evaluacion/README.md).
 
 ---
 

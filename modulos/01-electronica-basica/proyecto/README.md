@@ -1,20 +1,23 @@
 [![Capítulo 01](../../../recursos/editorial/modulo-01.svg)](../README.md)
 
-[Inicio](../../../README.md) · [Capítulo 01](../README.md)
+# Proyecto final · Sistema de iluminación de bajo voltaje
 
-# Proyecto — Sistema de iluminación básico
+[Clase 024 completa](../clases/024-proyecto-evaluacion/README.md) · [Guía PDF](../clases/024-proyecto-evaluacion/lecturas/024-guia.pdf) · [Práctica PDF](../clases/024-proyecto-evaluacion/practicas/024-laboratorio.pdf)
 
-Estado: propuesta de proyecto para el cierre del módulo.
+![Esquema didáctico](../clases/024-proyecto-evaluacion/recursos/ilustraciones/03.svg)
 
-Materiales: portapilas 4 AA (aprox. 6 V), LED rojo, resistencia 330 Ω de 1/4 W, interruptor, protoboard, cables y multímetro. Verificar hoja de datos del LED y tensión real. Con un LED de caída aproximada 2 V, I = (6−2)/330 ≈ 12 mA.
+Fuente limitada de **3 V**, interruptor, LED rojo de datos conocidos y resistor de 330 Ω (0,25 W), protoboard y multímetro adecuado. Verificar tensión máxima real, Vf mínimo a la corriente prevista, tolerancia y hoja de datos; recalcular si cambian condiciones. Con Vf≈2 V, I≈3,03 mA; con Vs máx. 3,2 V, Vf mínimo supuesto 1,8 V y R mínima 313,5 Ω, I≈4,47 mA. Los valores son modelos, no garantía universal.
 
-Conectar batería positiva → interruptor → resistencia → ánodo LED → cátodo → batería negativa. Desconectar antes de modificar. Medir tensión en paralelo y corriente en serie. Nunca conectar el multímetro en modo corriente directamente a la batería.
+**Seguridad obligatoria:** desenergizar antes de cablear, fuente limitada, revisión del docente, no red doméstica, no cortos, no amperímetro directo a fuente. Si no hay equipos adecuados, simular; validar medición física por separado.
 
-Entregables: esquema, cálculo, montaje, mediciones, diagnóstico de fallas e informe. [Rúbrica](../../../plantillas/rubrica-proyecto.md).
+Entregables: requisitos, esquema, cálculos, montaje, mediciones con unidades e incertidumbre, diagnóstico, pruebas repetibles, conclusiones y sustentación.
 
-> [!CAUTION]
-> Usar únicamente fuentes de bajo voltaje y no conectar el multímetro en modo corriente directamente a la batería.
+| Criterio | Puntos |
+|---|---:|
+| Comprensión de fundamentos | 25 |
+| Diseño y cálculos | 25 |
+| Montaje y pruebas | 25 |
+| Diagnóstico | 10 |
+| Informe y defensa | 15 |
 
----
-
-<sub>ACADEMIA SISTEMAS · [Índice general](../../../README.md)</sub>
+Meta 80/100 y seguridad no compensable. [Rúbrica imprimible](../../../plantillas/rubrica-proyecto.pdf) · [Evaluación acumulativa](../pruebas/README.md) · [Volver al capítulo](../README.md)
