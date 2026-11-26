@@ -1,0 +1,81 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2172 >>
+stream
+0.06 0.15 0.25 rg 0 794 595 48 re f
+BT /F2 12 Tf 1 1 1 rg 1 0 0 1 40 812 Tm (ACADEMIA SISTEMAS  /  ELECTRONICA BASICA  /  CLASE 001) Tj ET
+BT /F2 22 Tf 0.12 0.19 0.28 rg 1 0 0 1 40 744 Tm (Soluciones razonadas - ejercicios) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 706 Tm (1. 0; +2e; -e; +2e. 2. +e: pierde dos y recupera uno. 3. -3e. 4. -1,602 x 10^-16 C.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 689 Tm (5. Tres protones, cuatro neutrones y tres electrones; las \363rbitas son modelos. 6.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 672 Tm (Tiene cargas compensadas. 7. Carga: propiedad; corriente: transporte por tiempo. 8.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 655 Tm (Cobre/aluminio, pl\341stico/vidrio, silicio; justificar movilidad.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 629 Tm (9. A=+5e, B=-5e; despu\351s A=+3e, B=-3e; suma cero. 10. Total +4e, +2e por esfera) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 612 Tm (ideal; electrones fluyen netamente desde la esfera inicialmente negativa hacia la) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 595 Tm (positiva. 11. Polarizaci\363n: redistribuci\363n sin transferencia entre cuerpos. 12. No;) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 578 Tm (un cuerpo neutro polarizable puede ser atra\355do.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 552 Tm (13. Corriente convencional + hacia -, electrones - hacia + en el circuito externo;) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 535 Tm (abierto: sin corriente sostenida. 14. No; neutralidad se refiere al balance y) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 518 Tm (conductividad a movilidad. 15. Transistores controlan se\361ales, compuertas implementan) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 501 Tm (l\363gica, CPU ejecuta instrucciones y software expresa programas. 16. Tierra act\372a como) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 484 Tm (reservorio de carga; incluirla en el sistema total.) Tj ET
+0.72 0.77 0.82 RG 1.5 w 40 43 m 555 43 l S
+BT /F1 9 Tf 0.12 0.19 0.28 rg 1 0 0 1 40 25 Tm (Solucionario docente) Tj ET
+BT /F1 9 Tf 0.12 0.19 0.28 rg 1 0 0 1 520 25 Tm (1 / 2) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1927 >>
+stream
+0.06 0.15 0.25 rg 0 794 595 48 re f
+BT /F2 12 Tf 1 1 1 rg 1 0 0 1 40 812 Tm (ACADEMIA SISTEMAS  /  ELECTRONICA BASICA  /  CLASE 001) Tj ET
+BT /F2 22 Tf 0.12 0.19 0.28 rg 1 0 0 1 40 744 Tm (R\372brica de evaluaci\363n avanzada \(100 puntos\)) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 706 Tm (1. Materia 2, \341tomo 2, elemento 2, mol\351cula 2. 2. Protones 3, electrones 3, neutrones) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 689 Tm (2. 3. Cada resultado 2: 0,+e,-e,+2e. 4. D\351ficit de electrones 5, protones permanecen) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 672 Tm (3. 5. Repulsi\363n 2, atracci\363n 2, flechas 2, fuerza a un cuarto 2.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 646 Tm (6. A=+4e \(4\), B=-4e \(4\), suma 0 \(4\), conservaci\363n explicada \(3\). 7. Frotamiento 4,) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 629 Tm (contacto 4, polarizaci\363n 4, papel neutro atra\355do 3. 8. Definiciones 6 y aplicaciones) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 612 Tm (4. 9. Circuito 3, sentidos 4, abierto 3. 10. Relaci\363n causal correcta 10.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 586 Tm (Si hay error de signo, conservaci\363n o confusi\363n entre polarizaci\363n y transferencia,) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 569 Tm (hacer una actividad de refuerzo y reevaluar. No guardar resultados individuales en el) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 552 Tm (repositorio p\372blico.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 526 Tm (Para las pr\341cticas: valorar hip\363tesis, control de variables, observaciones honestas,) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 509 Tm (distinci\363n entre evidencia e interpretaci\363n, y seguridad.) Tj ET
+0.72 0.77 0.82 RG 1.5 w 40 43 m 555 43 l S
+BT /F1 9 Tf 0.12 0.19 0.28 rg 1 0 0 1 40 25 Tm (Solucionario docente) Tj ET
+BT /F1 9 Tf 0.12 0.19 0.28 rg 1 0 0 1 520 25 Tm (2 / 2) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000218 00000 n 
+0000000320 00000 n 
+0000000456 00000 n 
+0000002679 00000 n 
+0000002815 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+4793
+%%EOF

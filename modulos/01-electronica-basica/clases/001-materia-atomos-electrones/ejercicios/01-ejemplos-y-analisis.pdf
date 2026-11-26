@@ -1,0 +1,144 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3424 >>
+stream
+0.06 0.15 0.25 rg 0 794 595 48 re f
+BT /F2 12 Tf 1 1 1 rg 1 0 0 1 40 812 Tm (ACADEMIA SISTEMAS  /  ELECTRONICA BASICA  /  CLASE 001) Tj ET
+BT /F2 22 Tf 0.12 0.19 0.28 rg 1 0 0 1 40 744 Tm (Ejemplos resueltos paso a paso) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 706 Tm (1. Un \341tomo tiene 11 protones y 10 electrones. Identifica Np=11, Ne=10; sustituye) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 689 Tm (Q=\(11-10\)e; obtienes +e. Es un cati\363n y tiene un electr\363n menos que el \341tomo neutro.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 663 Tm (2. Un \341tomo con 17 protones y 18 electrones: Q=\(17-18\)e=-e. Es un ani\363n. El n\372mero de) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 646 Tm (protones no cambi\363.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 620 Tm (3. Dos objetos inicialmente neutros: se mueven 3 electrones de A a B. A pierde 3) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 603 Tm (cargas negativas: +3e. B gana 3: -3e. Total=0. Magnitud 4,8065 x 10^-19 C en cada) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 586 Tm (cuerpo.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 560 Tm (4. Un conductor tiene +2e y recibe un electr\363n. Nueva carga = +2e-e=+e. Todav\355a es) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 543 Tm (positivo.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 517 Tm (5. Dos esferas conductoras id\351nticas aisladas tienen -6e y +2e. Suma=-4e. Al) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 500 Tm (contacto, en el caso ideal descrito, quedan -2e cada una.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 474 Tm (6. Una carga est\341 a 2 cm de otra. Se aumenta a 4 cm. F nueva/F inicial=\(2/4\)^2=1/4.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 457 Tm (No cambian los signos.) Tj ET
+0.91 0.94 0.97 rg 58 296 480 130 re f
+BT /F2 13 Tf 0.12 0.19 0.28 rg 1 0 0 1 76 399 Tm (A pierde un electron) Tj ET
+BT /F2 13 Tf 0.12 0.19 0.28 rg 1 0 0 1 318 399 Tm (B gana un electron) Tj ET
+0.79 0.19 0.24 rg 78 365 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 84 369 Tm (+) Tj ET
+0.79 0.19 0.24 rg 323 365 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 329 369 Tm (+) Tj ET
+0.79 0.19 0.24 rg 102 365 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 108 369 Tm (+) Tj ET
+0.79 0.19 0.24 rg 347 365 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 353 369 Tm (+) Tj ET
+0.79 0.19 0.24 rg 126 365 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 132 369 Tm (+) Tj ET
+0.79 0.19 0.24 rg 371 365 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 377 369 Tm (+) Tj ET
+0.14 0.38 0.75 rg 78 338 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 84 342 Tm (-) Tj ET
+0.14 0.38 0.75 rg 102 338 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 108 342 Tm (-) Tj ET
+0.14 0.38 0.75 rg 323 338 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 329 342 Tm (-) Tj ET
+0.14 0.38 0.75 rg 347 338 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 353 342 Tm (-) Tj ET
+0.14 0.38 0.75 rg 371 338 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 377 342 Tm (-) Tj ET
+0.14 0.38 0.75 rg 395 338 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 401 342 Tm (-) Tj ET
+BT /F2 15 Tf 0.12 0.19 0.28 rg 1 0 0 1 208 358 Tm (electron ->) Tj ET
+BT /F2 14 Tf 0.12 0.19 0.28 rg 1 0 0 1 78 309 Tm (A: +e) Tj ET
+BT /F2 14 Tf 0.12 0.19 0.28 rg 1 0 0 1 318 309 Tm (B: -e  |  total: 0) Tj ET
+0.72 0.77 0.82 RG 1.5 w 40 43 m 555 43 l S
+BT /F1 9 Tf 0.12 0.19 0.28 rg 1 0 0 1 40 25 Tm (Ejemplos y analisis) Tj ET
+BT /F1 9 Tf 0.12 0.19 0.28 rg 1 0 0 1 520 25 Tm (1 / 3) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1933 >>
+stream
+0.06 0.15 0.25 rg 0 794 595 48 re f
+BT /F2 12 Tf 1 1 1 rg 1 0 0 1 40 812 Tm (ACADEMIA SISTEMAS  /  ELECTRONICA BASICA  /  CLASE 001) Tj ET
+BT /F2 22 Tf 0.12 0.19 0.28 rg 1 0 0 1 40 744 Tm (Ejercicios individuales: fundamentos) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 706 Tm (1. Calcula Q/e para: \(a\) 8p y 8e; \(b\) 12p y 10e; \(c\) 9p y 10e; \(d\) 6p y 4e. Clasifica) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 689 Tm (cada caso.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 663 Tm (2. Un \341tomo neutro pierde 2 electrones y luego gana 1. \277Carga final? Dibuja antes y) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 646 Tm (despu\351s.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 620 Tm (3. Un cuerpo tiene -7e y pierde 4 electrones. \277Cu\341l es su carga? Explica el signo.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 594 Tm (4. Calcula en culombios la carga neta de un objeto con exceso de 1.000 electrones.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 577 Tm (Usa e=1,602 x 10^-19 C.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 551 Tm (5. Dibuja un \341tomo de litio-7 neutro, identifica sus part\355culas y explica por qu\351 el) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 534 Tm (dibujo es un modelo.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 508 Tm (6. Explica por qu\351 un cuerpo neutro no est\341 vac\355o de cargas.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 482 Tm (7. \277Qu\351 diferencia existe entre una carga el\351ctrica y una corriente el\351ctrica?) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 456 Tm (8. Da dos ejemplos de conductores, dos de aislantes y un semiconductor; justifica) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 439 Tm (cada elecci\363n.) Tj ET
+0.72 0.77 0.82 RG 1.5 w 40 43 m 555 43 l S
+BT /F1 9 Tf 0.12 0.19 0.28 rg 1 0 0 1 40 25 Tm (Ejemplos y analisis) Tj ET
+BT /F1 9 Tf 0.12 0.19 0.28 rg 1 0 0 1 520 25 Tm (2 / 3) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2309 >>
+stream
+0.06 0.15 0.25 rg 0 794 595 48 re f
+BT /F2 12 Tf 1 1 1 rg 1 0 0 1 40 812 Tm (ACADEMIA SISTEMAS  /  ELECTRONICA BASICA  /  CLASE 001) Tj ET
+BT /F2 22 Tf 0.12 0.19 0.28 rg 1 0 0 1 40 744 Tm (Ejercicios de an\341lisis y transferencia) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 706 Tm (9. A y B est\341n neutros. A transfiere 5 electrones a B; despu\351s B devuelve 2.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 689 Tm (Determina las cargas en cada paso y verifica conservaci\363n.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 663 Tm (10. Dos esferas id\351nticas aisladas con +6e y -2e se ponen en contacto. Predice el) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 646 Tm (reparto ideal y el sentido neto de transferencia electr\363nica.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 620 Tm (11. Explica por qu\351 un globo negativo puede atraer papel neutro. Dibuja la) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 603 Tm (redistribuci\363n sin cambiar la cantidad total de electrones.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 577 Tm (12. \277La observaci\363n de atracci\363n prueba que dos objetos tienen cargas opuestas?) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 560 Tm (Justifica.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 534 Tm (13. Dibuja un circuito con pila y resistencia. Indica corriente convencional y deriva) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 517 Tm (electr\363nica externas. \277Qu\351 ocurre al abrir el interruptor?) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 491 Tm (14. Un cable neutro conduce electricidad. \277Es una contradicci\363n?) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 465 Tm (15. Relaciona transistor, compuerta, procesador y software en cuatro frases propias.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 439 Tm (16. Investiga qu\351 significa puesta a tierra en electrost\341tica y explica c\363mo se) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 422 Tm (conserva la carga si un objeto intercambia electrones con ella. No hagas conexiones) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 405 Tm (reales a la red.) Tj ET
+0.72 0.77 0.82 RG 1.5 w 40 43 m 555 43 l S
+BT /F1 9 Tf 0.12 0.19 0.28 rg 1 0 0 1 40 25 Tm (Ejemplos y analisis) Tj ET
+BT /F1 9 Tf 0.12 0.19 0.28 rg 1 0 0 1 520 25 Tm (3 / 3) Tj ET
+endstream
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000224 00000 n 
+0000000326 00000 n 
+0000000462 00000 n 
+0000003937 00000 n 
+0000004073 00000 n 
+0000006057 00000 n 
+0000006194 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R >>
+startxref
+8555
+%%EOF

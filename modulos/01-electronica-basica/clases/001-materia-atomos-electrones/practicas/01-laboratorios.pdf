@@ -1,0 +1,172 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3273 >>
+stream
+0.06 0.15 0.25 rg 0 794 595 48 re f
+BT /F2 12 Tf 1 1 1 rg 1 0 0 1 40 812 Tm (ACADEMIA SISTEMAS  /  ELECTRONICA BASICA  /  CLASE 001) Tj ET
+BT /F2 22 Tf 0.12 0.19 0.28 rg 1 0 0 1 40 744 Tm (Pr\341ctica 1. Modelo de transferencia) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 706 Tm (Tiempo: 15 min. Materiales: 12 fichas rojas \(+\), 12 azules \(-\), dos hojas rotuladas A) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 689 Tm (y B. No usar electricidad.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 663 Tm (1. Pon 6 rojas y 6 azules en cada hoja. Predice la carga de cada una. 2. Mueve una) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 646 Tm (azul de A a B. Cuenta cada grupo. 3. Mueve dos m\341s de A a B. 4. Devuelve dos de B a) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 629 Tm (A.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 603 Tm (Registra para cada etapa: protones representados, electrones representados, carga A,) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 586 Tm (carga B, total. No mover fichas rojas: representan cargas positivas ligadas al) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 569 Tm (s\363lido.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 543 Tm (Explica el resultado: las cargas no aparecen ni desaparecen del conjunto. El modelo) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 526 Tm (no representa la geometr\355a microsc\363pica real.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 500 Tm (Producto: tabla y dibujo del antes, durante y despu\351s. R\372brica: conteo 30, balance) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 483 Tm (30, explicaci\363n 30, claridad 10.) Tj ET
+0.91 0.94 0.97 rg 58 322 480 130 re f
+BT /F2 13 Tf 0.12 0.19 0.28 rg 1 0 0 1 76 425 Tm (A pierde un electron) Tj ET
+BT /F2 13 Tf 0.12 0.19 0.28 rg 1 0 0 1 318 425 Tm (B gana un electron) Tj ET
+0.79 0.19 0.24 rg 78 391 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 84 395 Tm (+) Tj ET
+0.79 0.19 0.24 rg 323 391 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 329 395 Tm (+) Tj ET
+0.79 0.19 0.24 rg 102 391 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 108 395 Tm (+) Tj ET
+0.79 0.19 0.24 rg 347 391 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 353 395 Tm (+) Tj ET
+0.79 0.19 0.24 rg 126 391 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 132 395 Tm (+) Tj ET
+0.79 0.19 0.24 rg 371 391 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 377 395 Tm (+) Tj ET
+0.14 0.38 0.75 rg 78 364 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 84 368 Tm (-) Tj ET
+0.14 0.38 0.75 rg 102 364 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 108 368 Tm (-) Tj ET
+0.14 0.38 0.75 rg 323 364 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 329 368 Tm (-) Tj ET
+0.14 0.38 0.75 rg 347 364 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 353 368 Tm (-) Tj ET
+0.14 0.38 0.75 rg 371 364 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 377 368 Tm (-) Tj ET
+0.14 0.38 0.75 rg 395 364 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 401 368 Tm (-) Tj ET
+BT /F2 15 Tf 0.12 0.19 0.28 rg 1 0 0 1 208 384 Tm (electron ->) Tj ET
+BT /F2 14 Tf 0.12 0.19 0.28 rg 1 0 0 1 78 335 Tm (A: +e) Tj ET
+BT /F2 14 Tf 0.12 0.19 0.28 rg 1 0 0 1 318 335 Tm (B: -e  |  total: 0) Tj ET
+0.72 0.77 0.82 RG 1.5 w 40 43 m 555 43 l S
+BT /F1 9 Tf 0.12 0.19 0.28 rg 1 0 0 1 40 25 Tm (Laboratorios) Tj ET
+BT /F1 9 Tf 0.12 0.19 0.28 rg 1 0 0 1 520 25 Tm (1 / 3) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 3500 >>
+stream
+0.06 0.15 0.25 rg 0 794 595 48 re f
+BT /F2 12 Tf 1 1 1 rg 1 0 0 1 40 812 Tm (ACADEMIA SISTEMAS  /  ELECTRONICA BASICA  /  CLASE 001) Tj ET
+BT /F2 22 Tf 0.12 0.19 0.28 rg 1 0 0 1 40 744 Tm (Pr\341ctica 2. Globo y papel) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 706 Tm (Tiempo: 20 min. Materiales: globo, tela seca, papel recortado y regla. Mantener lejos) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 689 Tm (de electr\363nica sensible, l\355quidos inflamables y tomacorrientes. No provocar chispas) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 672 Tm (deliberadamente.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 646 Tm (Hip\363tesis: al frotar el globo, aumentar\341 la atracci\363n del papel. Control: globo sin) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 629 Tm (frotar, papel del mismo tama\361o y distancia comparable.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 603 Tm (1. Acerca el globo sin tocar el papel y registra. 2. Frota la tela durante 10) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 586 Tm (segundos. 3. Repite a la misma distancia. 4. Haz tres ensayos. 5. Compara resultados.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 569 Tm (Si no funciona, cambia tela o busca un lugar seco.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 543 Tm (Tabla: ensayo | distancia aproximada | antes | despu\351s | observaciones. Registrar si) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 526 Tm (se mueve el papel y cu\341nto. No afirmar que se midi\363 carga ni signo.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 500 Tm (An\341lisis: el globo puede transferir electrones con la tela; el papel se polariza. La) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 483 Tm (atracci\363n no prueba su carga neta ni el signo del globo. La humedad puede facilitar) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 466 Tm (disipaci\363n.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 440 Tm (R\372brica: procedimiento 25, registro 25, explicaci\363n 40, seguridad 10.) Tj ET
+0.91 0.94 0.97 rg 58 279 480 130 re f
+0.14 0.38 0.75 rg 88 355 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 94 359 Tm (-) Tj ET
+0.14 0.38 0.75 rg 113 355 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 119 359 Tm (-) Tj ET
+0.14 0.38 0.75 rg 138 355 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 144 359 Tm (-) Tj ET
+0.14 0.38 0.75 rg 163 355 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 169 359 Tm (-) Tj ET
+0.79 0.19 0.24 rg 308 355 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 314 359 Tm (+) Tj ET
+0.14 0.38 0.75 rg 308 321 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 314 325 Tm (-) Tj ET
+0.79 0.19 0.24 rg 333 355 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 339 359 Tm (+) Tj ET
+0.14 0.38 0.75 rg 333 321 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 339 325 Tm (-) Tj ET
+0.79 0.19 0.24 rg 358 355 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 364 359 Tm (+) Tj ET
+0.14 0.38 0.75 rg 358 321 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 364 325 Tm (-) Tj ET
+0.79 0.19 0.24 rg 383 355 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 389 359 Tm (+) Tj ET
+0.14 0.38 0.75 rg 383 321 20 20 re f
+BT /F2 15 Tf 1 1 1 rg 1 0 0 1 389 325 Tm (-) Tj ET
+BT /F2 13 Tf 0.12 0.19 0.28 rg 1 0 0 1 78 295 Tm (Globo negativo) Tj ET
+BT /F2 13 Tf 0.12 0.19 0.28 rg 1 0 0 1 303 295 Tm (Papel neutro polarizado) Tj ET
+BT /F2 13 Tf 0.12 0.19 0.28 rg 1 0 0 1 208 361 Tm (<- atraccion) Tj ET
+0.72 0.77 0.82 RG 1.5 w 40 43 m 555 43 l S
+BT /F1 9 Tf 0.12 0.19 0.28 rg 1 0 0 1 40 25 Tm (Laboratorios) Tj ET
+BT /F1 9 Tf 0.12 0.19 0.28 rg 1 0 0 1 520 25 Tm (2 / 3) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 2311 >>
+stream
+0.06 0.15 0.25 rg 0 794 595 48 re f
+BT /F2 12 Tf 1 1 1 rg 1 0 0 1 40 812 Tm (ACADEMIA SISTEMAS  /  ELECTRONICA BASICA  /  CLASE 001) Tj ET
+BT /F2 22 Tf 0.12 0.19 0.28 rg 1 0 0 1 40 744 Tm (Pr\341ctica 3. Simulaci\363n y reflexi\363n) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 706 Tm (Tiempo: 20 min adicionales de trabajo aut\363nomo. Abre la simulaci\363n PhET Globos y) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 689 Tm (electricidad est\341tica en espa\361ol desde el enlace del repositorio.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 663 Tm (1. Muestra todas las cargas. Cuenta o compara visualmente las cargas del globo y del) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 646 Tm (jersey. 2. Frota el globo contra el jersey. 3. Observa qu\351 part\355culas cambian de) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 629 Tm (objeto. 4. Acerca el globo a la pared. 5. Predice qu\351 pasa con un segundo globo) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 612 Tm (cargado de igual signo.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 586 Tm (Registra tres capturas o dibujos: antes, despu\351s de frotar y cerca de la pared.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 569 Tm (Escribe una explicaci\363n para cada uno.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 543 Tm (Pregunta cr\355tica: \277por qu\351 la pared atrae al globo aunque conserve neutralidad? \277Qu\351) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 526 Tm (simplificaciones tiene el modelo? \277Qu\351 diferencia existe entre la simulaci\363n y el) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 509 Tm (laboratorio real?) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 483 Tm (Entrega: informe con objetivo, hip\363tesis, procedimiento, resultados, explicaci\363n,) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 466 Tm (limitaciones y conclusi\363n. No incluir informaci\363n personal en un repositorio p\372blico.) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 440 Tm (Recurso:) Tj ET
+BT /F1 12 Tf 0.12 0.19 0.28 rg 1 0 0 1 42 423 Tm (https://phet.colorado.edu/es/simulations/balloons-and-static-electricity/about) Tj ET
+0.72 0.77 0.82 RG 1.5 w 40 43 m 555 43 l S
+BT /F1 9 Tf 0.12 0.19 0.28 rg 1 0 0 1 40 25 Tm (Laboratorios) Tj ET
+BT /F1 9 Tf 0.12 0.19 0.28 rg 1 0 0 1 520 25 Tm (3 / 3) Tj ET
+endstream
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000224 00000 n 
+0000000326 00000 n 
+0000000462 00000 n 
+0000003786 00000 n 
+0000003922 00000 n 
+0000007473 00000 n 
+0000007610 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R >>
+startxref
+9973
+%%EOF

@@ -1,0 +1,3 @@
+# Estándar de materiales por clase
+
+Toda clase desarrollada incluirá carpetas presentaciones (PPTX editable, PDF y cuando proceda HTML), lecturas (PDF y fuente), ejercicios (ejemplos resueltos y problemas de análisis), practicas (materiales, seguridad, procedimiento, resultados, rúbrica), pruebas (evaluación separada), soluciones (respuestas razonadas y rúbrica), recursos (diagramas, enlaces verificados a videos y simuladores). Mantener README con orden de estudio, duración, prerrequisitos y estado. Verificar documentos y enlaces antes de marcar la clase como revisada. No publicar datos personales. Las clases planificadas no se considerarán desarrolladas hasta que tengan estos materiales.
