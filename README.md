@@ -35,7 +35,7 @@ Antes de escribir código hay que comprender qué es la información, cómo se r
 
 [▶ Abrir primera página](modulos/01-electronica-basica/clases/001-materia-atomos-electrones/libro/01.md) · [Índice de la clase](modulos/01-electronica-basica/clases/001-materia-atomos-electrones/README.md) · [Biblioteca y descargas](modulos/01-electronica-basica/clases/001-materia-atomos-electrones/descargas.md)
 
-También puedes [descargar la edición interactiva HTML](https://raw.githubusercontent.com/mangelmorenomoreno/academia-sistemas/main/modulos/01-electronica-basica/clases/001-materia-atomos-electrones/libro.html) y abrirla en el navegador para navegar con botones o las flechas del teclado.
+**Edición web:** [Abrir Academia Sistemas](https://mangelmorenomoreno.github.io/academia-sistemas/) (requiere activar GitHub Pages una sola vez). [Instrucciones de publicación](PUBLICACION-WEB.md). Mientras tanto, [leer directamente en GitHub](modulos/01-electronica-basica/clases/001-materia-atomos-electrones/libro/01.md) o [guardar el archivo HTML](https://github.com/mangelmorenomoreno/academia-sistemas/blob/main/modulos/01-electronica-basica/clases/001-materia-atomos-electrones/libro.html) con el botón Download raw file.
 
 ## Primera lectura disponible
 

@@ -27,3 +27,8 @@ Para descargar archivos, usa **Descargar**; si el navegador abre el PDF, utiliza
 
 
 **Nueva edición ilustrada:** libro PDF con portada y 17 temas; presentación PDF de 51 páginas, una etapa por diapositiva. Los GIF se consultan en el libro web; las páginas impresas muestran imágenes estáticas. El PowerPoint conserva la edición editable anterior de 51 diapositivas.
+
+
+## Edición web
+
+[Abrir libro interactivo](https://mangelmorenomoreno.github.io/academia-sistemas/modulos/01-electronica-basica/clases/001-materia-atomos-electrones/libro.html) · [Presentación en navegador](https://mangelmorenomoreno.github.io/academia-sistemas/modulos/01-electronica-basica/clases/001-materia-atomos-electrones/presentacion.html) (requieren activar Pages). [Instrucciones](../../../../PUBLICACION-WEB.md). Para uso local, [guardar HTML del libro](libro.html) desde su ficha de GitHub usando Download raw file.

@@ -6,12 +6,12 @@
 
 **Libro visual · 17 páginas navegables (libro PDF de 18 páginas con portada) · 51 diapositivas · 4 GIF explicativos · desde los fundamentos.**
 
-[▶ Comenzar a leer →](libro/01.md) · [📚 Descargar libro PDF](https://raw.githubusercontent.com/mangelmorenomoreno/academia-sistemas/main/modulos/01-electronica-basica/clases/001-materia-atomos-electrones/lecturas/01-guia-de-estudio.pdf) · [🖥 Descargar libro interactivo HTML](https://raw.githubusercontent.com/mangelmorenomoreno/academia-sistemas/main/modulos/01-electronica-basica/clases/001-materia-atomos-electrones/libro.html)
+[▶ Comenzar a leer →](libro/01.md) · [📚 Descargar libro PDF](https://raw.githubusercontent.com/mangelmorenomoreno/academia-sistemas/main/modulos/01-electronica-basica/clases/001-materia-atomos-electrones/lecturas/01-guia-de-estudio.pdf) · [🖥 Abrir libro web (tras activar Pages)](https://mangelmorenomoreno.github.io/academia-sistemas/modulos/01-electronica-basica/clases/001-materia-atomos-electrones/libro.html)
 
 ![Por qué se transfiere un electrón](recursos/ilustraciones/03-binding.svg)
 
 > [!TIP]
-> Avanza con **Siguiente** al pie de cada página. Regresa con **Anterior**. Las imágenes muestran cada etapa, las animaciones muestran el cambio y los ejemplos explican el porqué. Para la versión interactiva, guarda el HTML y ábrelo en el navegador.
+> Avanza con **Siguiente** al pie de cada página. Regresa con **Anterior**. Las imágenes muestran cada etapa, las animaciones muestran el cambio y los ejemplos explican el porqué. La edición web requiere activar GitHub Pages. Si todavía no está disponible, usa la lectura en GitHub o [guarda el HTML desde su ficha](libro.html) con el botón Download raw file y ábrelo localmente. [Instrucciones](../../../../PUBLICACION-WEB.md).
 
 ## Índice de lectura
 
