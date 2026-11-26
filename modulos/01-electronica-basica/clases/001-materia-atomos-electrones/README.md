@@ -4,7 +4,7 @@
 
 # Lección 001 · Materia, átomos y electrones
 
-**Libro visual · 17 páginas navegables · 51 diapositivas · 4 GIF explicativos · desde los fundamentos.**
+**Libro visual · 17 páginas navegables (libro PDF de 18 páginas con portada) · 51 diapositivas · 4 GIF explicativos · desde los fundamentos.**
 
 [▶ Comenzar a leer →](libro/01.md) · [📚 Descargar libro PDF](https://raw.githubusercontent.com/mangelmorenomoreno/academia-sistemas/main/modulos/01-electronica-basica/clases/001-materia-atomos-electrones/lecturas/01-guia-de-estudio.pdf) · [🖥 Descargar libro interactivo HTML](https://raw.githubusercontent.com/mangelmorenomoreno/academia-sistemas/main/modulos/01-electronica-basica/clases/001-materia-atomos-electrones/libro.html)
 
@@ -43,3 +43,8 @@
 > Los modelos visuales no son órbitas físicas reales. La clase 002 sigue planificada. Los solucionarios son públicos; no subas información personal.
 
 [Comenzar →](libro/01.md) · [Siguiente clase 002 (planificada)](../002-carga-electricidad-energia/README.md)
+
+
+## Edición visual para lectura
+
+Los PDF presentan ilustraciones ampliadas, colores suaves, tarjetas por paso, una idea clave y una actividad. Las explicaciones detalladas, límites científicos y GIF están en el libro navegable. [Biblioteca y descargas](descargas.md).

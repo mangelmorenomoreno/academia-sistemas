@@ -30,3 +30,8 @@ Cada README debe incluir portada, navegación y secciones claras. Los capítulos
 ## Profundidad y edición visual
 
 La lectura extensa conserva rigor, derivaciones, unidades, supuestos, errores y excepciones. El PDF estudiantil usa lenguaje accesible, ilustraciones grandes, bloques cortos, analogías explícitamente limitadas, secuencias y ejercicios visuales; el PDF no reemplaza la explicación completa. La guía docente documenta qué explicar y cómo comprobar comprensión. Cada tema incluye al menos una pregunta causal y una de aplicación nueva. Nunca presentar una ficha curricular como clase completa.
+
+
+### Diseño de PDF estudiantil
+
+Fondo claro y alto contraste; ilustración específica y amplia por paso, máximo tres pasos por página, texto breve, título legible, recuadro de idea clave y reto. Separar explicaciones profundas en lectura web y guía docente sin sacrificar rigor. Evitar bloques densos y decorar solo cuando ayuda a aprender. Las evaluaciones no muestran soluciones.
