@@ -4,9 +4,9 @@
 
 # Capítulo 02 · Electrónica analógica
 
-> Este capítulo forma parte de la ruta progresiva; sus materiales completos están planificados.
+> Este capítulo forma parte de la ruta progresiva; las tres primeras clases tienen una edición web inicial; el resto y los materiales completos siguen planificados.
 
-**8 semanas · 56 horas base · Planificado**
+**8 semanas · 56 horas base · En desarrollo**
 
 ## Qué vas a aprender
 

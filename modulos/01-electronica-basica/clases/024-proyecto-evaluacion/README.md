@@ -29,3 +29,6 @@
 > Prácticas físicas solo con baja tensión, fuente limitada o apropiada y supervisión; desenergiza antes de modificar conexiones. Nunca trabajar con la red doméstica, provocar cortos ni utilizar componentes dañados.
 
 [← Clase 023](../023-diagnostico-fallas/README.md) · [Índice](../README.md) · [Proyecto y cierre →](../../proyecto/README.md)
+
+
+[Continuar al capítulo 02 · Clase 025 →](../../../02-electronica-analogica/clases/025-condensadores-rc/README.md)

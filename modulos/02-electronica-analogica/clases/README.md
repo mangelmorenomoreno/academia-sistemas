@@ -4,13 +4,13 @@
 
 # 24 clases · Electrónica analógica
 
-**Planificación curricular · 8 semanas, 56 horas base.** Materiales completos pendientes. Cada bloque incluye teoría causal, diagramas, simulación, ejercicios, práctica y verificación acumulativa.
+**Planificación curricular · 8 semanas, 56 horas base.** Clases globales 025–027 con edición web inicial; PDF, PPTX y animaciones independientes pendientes. Las restantes continúan planificadas. Cada bloque incluye teoría causal, diagramas, simulación, ejercicios, práctica y verificación acumulativa.
 
 | Semana | Clase | Tema |
 |---:|---:|---|
-| 1 | 001 | Condensadores: dieléctrico, ESR, carga RC y energía |
+| 1 | 025 | [Condensadores: dieléctrico, ESR, carga RC y energía](025-condensadores-rc/README.md) |
 | 1 | 002 | Inductores: campo, energía magnética, transitorios RL |
-| 1 | 003 | Circuitos RLC: resonancia, impedancia y fase |
+| 1 | 027 | [Circuitos RLC: resonancia, impedancia y fase](027-rlc-resonancia/README.md) |
 | 2 | 004 | Transformadores: inducción, relación de espiras, aislamiento y pérdidas |
 | 2 | 005 | Unión PN: dopaje, barrera y curva I-V |
 | 2 | 006 | Rectificadores y filtrado: ondulación y diodos |
