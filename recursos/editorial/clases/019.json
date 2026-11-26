@@ -1,0 +1,59 @@
+[
+  19,
+  "corriente-continua-alterna",
+  "Corriente continua y alterna",
+  "¿Por qué AC transfiere energía aunque cambie de sentido?",
+  "waves",
+  [
+    [
+      "Corriente continua y alterna",
+      "DC describe una corriente cuyo sentido no cambia, aunque su magnitud puede variar; AC cambia de sentido periódicamente en los ejemplos básicos. Tensión DC tiene polaridad mantenida, mientras una señal AC ideal sinusoidal cambia de signo alrededor de cero. No toda señal variable es sinusoidal.",
+      "Una pila alimentando un resistor genera DC aproximadamente constante; una señal senoidal ideal alterna.",
+      "¿Una corriente que pulsa de 0 a 1 A sin invertir sentido es AC pura?",
+      "No; es unidireccional pulsante, puede descomponerse en DC y AC.",
+      "DC horizontal | AC sinusoidal"
+    ],
+    [
+      "Amplitud, período y frecuencia",
+      "Una señal senoidal v(t)=Vp sin(2πft) tiene amplitud de pico Vp, período T=1/f y frecuencia f en Hz (ciclos por segundo). Pico a pico es 2Vp para una senoide simétrica. El tiempo se mide en segundos.",
+      "f=50 Hz: T=0,02 s=20 ms.",
+      "f=200 Hz. Calcula T.",
+      "5 ms.",
+      "Un ciclo → T → f=1/T"
+    ],
+    [
+      "Valor eficaz RMS",
+      "El valor eficaz de una señal es raíz de la media de su cuadrado. Para senoide sin componente DC, Vrms=Vp/√2. En resistor ideal, una tensión AC RMS produce la misma potencia media que una DC de ese valor. No generalizar esa relación de pico a cualquier onda.",
+      "Senoide de 10 V pico: Vrms≈7,07 V.",
+      "Senoide de 4 V pico. ¿Vrms?",
+      "≈2,83 V.",
+      "Pico → RMS → efecto térmico equivalente"
+    ],
+    [
+      "Energía con sentido alternante",
+      "En resistor, i(t)=v(t)/R y p(t)=v(t)i(t)=v²(t)/R≥0. Aunque corriente y tensión cambian de signo juntas, su producto sigue positivo. El resistor recibe energía en ambos semiciclos. En elementos reactivos puede devolverse energía en parte del ciclo.",
+      "Con 4 V RMS sobre 100 Ω: Pmedia=16/100=0,16 W.",
+      "2 V RMS sobre 200 Ω: Pmedia.",
+      "0,02 W.",
+      "+V × +I | −V × −I → +P"
+    ],
+    [
+      "Rectificación y electrónica",
+      "Los diodos permiten obtener una señal unidireccional a partir de AC mediante rectificación; capacitores y reguladores pueden reducir ondulación. La salida no se vuelve DC perfecta solo por un diodo. En esta clase se estudia conceptual o con simuladores de baja tensión, sin red.",
+      "Una rectificación de media onda ideal deja pasar una polaridad y bloquea la otra.",
+      "¿Una señal rectificada sin filtro tiene magnitud constante?",
+      "No; es pulsante.",
+      "AC → rectificador → filtro → salida"
+    ],
+    [
+      "Seguridad y aplicaciones",
+      "Las fuentes domésticas tienen tensiones peligrosas y no son material de laboratorio de esta ruta inicial. Utiliza simuladores y generadores didácticos aislados apropiados solo bajo supervisión. Los dispositivos digitales utilizan alimentación DC y señales que cambian en el tiempo; distinguir ambas es clave.",
+      "Un reloj digital alterna niveles lógicos, pero eso no equivale necesariamente a una senoide de potencia.",
+      "¿Se mide red doméstica en esta clase?",
+      "No; solo simulación y fuentes didácticas apropiadas.",
+      "Simulación segura → análisis → comprensión"
+    ]
+  ],
+  "Dibuja tres ciclos de una senoide de 2 V pico a 100 Hz y DC de 2 V. Marca pico, pico a pico, T y RMS. Calcula potencia media en 100 Ω y compara con DC de 2 V. No conectar red eléctrica.",
+  "PhET Circuit Construction Kit: AC; OpenStax Física universitaria"
+]

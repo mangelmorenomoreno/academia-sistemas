@@ -1,0 +1,59 @@
+[
+  21,
+  "condensadores",
+  "Condensadores y almacenamiento de energía",
+  "¿Dónde queda la energía y por qué no hay corriente DC sostenida ideal?",
+  "capacitor",
+  [
+    [
+      "Qué es un condensador",
+      "Dos conductores separados por un aislante o dieléctrico pueden almacenar cargas de signos opuestos y energía en el campo eléctrico. La capacitancia C=Q/V para capacitor lineal mide carga de una placa por diferencia de potencial; unidad faradio (F=C/V). El conjunto ideal puede tener carga neta cero.",
+      "Un capacitor de 100 µF a 5 V tiene |Q|=500 µC en cada placa.",
+      "47 µF a 3 V. Calcula |Q|.",
+      "141 µC.",
+      "Placa + | dieléctrico | placa −"
+    ],
+    [
+      "Geometría y dieléctrico",
+      "Para placas grandes, paralelas, separadas una distancia pequeña frente a sus dimensiones, C≈εA/d. Mayor área o permitividad aumenta C; mayor separación reduce C. El dieléctrico limita la conducción ordinaria, pero tiene tensión máxima y pérdidas reales.",
+      "Duplicar A con d y ε fijos duplica C.",
+      "Si duplicas d, ¿C ideal?",
+      "La mitad.",
+      "A ↑ → C ↑ | d ↑ → C ↓"
+    ],
+    [
+      "Energía almacenada",
+      "El trabajo para cargar un capacitor lineal desde cero es U=½CV². El factor ½ aparece porque V aumenta de cero hasta su valor final al agregar carga. La energía puede entregarse posteriormente a un circuito. No confundir carga Q=CV con energía U.",
+      "100 µF a 5 V: U=0,00125 J=1,25 mJ.",
+      "200 µF a 3 V. Calcula U.",
+      "0,0009 J=0,9 mJ.",
+      "Carga gradual → campo → U=½CV²"
+    ],
+    [
+      "Carga RC y constante de tiempo",
+      "Para fuente DC ideal V, resistor R y capacitor inicialmente descargado en serie, VC(t)=V(1−e^(−t/RC)). τ=RC mide escala temporal: a 1τ, VC≈63,2% de V. La corriente comienza en V/R y disminuye; idealmente tiende a cero, no a un corto permanente.",
+      "R=10 kΩ, C=100 µF: τ=1 s; con 3 V, VC(1 s)≈1,90 V.",
+      "R=1 kΩ, C=100 µF. Calcula τ.",
+      "0,1 s.",
+      "Fuente → R → C: V sube, I baja"
+    ],
+    [
+      "Descarga y comportamiento DC",
+      "Con capacitor inicialmente a V0 descargando mediante resistor, VC=V0e^(−t/RC). A τ queda≈36,8%; a 5τ queda≈0,67%. El capacitor ideal bloquea corriente DC sostenida una vez cargado, pero permite cambios transitorios; en AC su comportamiento depende de frecuencia.",
+      "V0=3 V y τ=1 s: tras 1 s, VC≈1,10 V.",
+      "Tras 5τ, ¿está exactamente a 0 V?",
+      "No; ≈0,67% en el modelo.",
+      "C cargado → R → V decrece"
+    ],
+    [
+      "Componentes reales y seguridad",
+      "Respeta tensión nominal, polaridad de electrolíticos, tolerancia y temperatura. Un capacitor puede mantener carga después de desconectar la fuente. Para práctica usa solo baja tensión, capacidad moderada, resistor y procedimiento de descarga supervisado; verifica tensión antes de tocar o medir Ω. No uses capacitores de equipos de red.",
+      "Un capacitor de 100 µF nominal 16 V con fuente 3 V correctamente orientado tiene margen de tensión, sujeto a especificación.",
+      "¿Se descarga un capacitor cortocircuitando terminales?",
+      "No; utiliza método controlado mediante resistor adecuado y verifica.",
+      "Desconecta → descarga por R → verifica"
+    ]
+  ],
+  "Primero simula RC con 3 V, 10 kΩ, 100 µF. Registra VC a 0, 1, 2, 3 y 5 s; compara 63,2% y 36,8%. Opcional supervisado: capacitor 16 V correctamente polarizado, fuente limitada, resistor, descarga controlada y verificación. No usar capacitores de alta energía.",
+  "OpenStax Física universitaria, volumen 2: capacitancia y circuitos RC"
+]

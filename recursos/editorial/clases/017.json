@@ -1,0 +1,59 @@
+[
+  17,
+  "kirchhoff-corrientes",
+  "Primera ley de Kirchhoff: conservación de la carga",
+  "¿Por qué la suma algebraica de corrientes es cero en un nodo sin acumulación?",
+  "kcl",
+  [
+    [
+      "Carga no desaparece en un nodo",
+      "Un nodo ideal une ramas. La conservación exige dQnodo/dt=ΣIentrante−ΣIsaliente. En régimen estacionario o modelo concentrado sin acumulación neta en el nodo, esa diferencia es cero. En transitorios, la acumulación debe representarse mediante elementos o modelos adecuados.",
+      "Si entran 5 mA y salen 3 mA por una rama, deben salir otros 2 mA si no hay acumulación.",
+      "Entran 12 mA y salen 7 mA. Falta ¿cuánto?",
+      "5 mA saliente.",
+      "Entrante → nodo → salientes"
+    ],
+    [
+      "Convención de signos",
+      "Elige, por ejemplo, corrientes entrantes positivas y salientes negativas. Escribe ΣI=0. Puedes escoger sentidos iniciales arbitrarios para incógnitas; un resultado negativo significa que el sentido real es opuesto al supuesto.",
+      "+8−3−I=0 en mA: I=5 mA saliente.",
+      "+10−6−Ix=0. Calcula Ix.",
+      "4 mA en el sentido supuesto saliente.",
+      "+ entradas | − salidas"
+    ],
+    [
+      "Ejemplo con una incógnita",
+      "Dibuja flechas antes de la ecuación. Si entran 4 mA y 6 mA, y salen 3 mA e Ix, 4+6−3−Ix=0. Despeja Ix=7 mA. Verifica suma: 10 mA entran y 10 salen.",
+      "Si asumiste Ix entrante en lugar de saliente, saldría −7 mA.",
+      "Entran 3 y 9 mA, salen 2 mA y X. Calcula X.",
+      "10 mA saliente.",
+      "4 + 6 → nodo → 3 + 7"
+    ],
+    [
+      "Dos nodos y ley de Ohm",
+      "Para hallar tensiones nodales, expresa cada corriente en términos de diferencias de potencial: IAB=(VA−VB)/R. Luego aplica KCL. Elige un nodo de referencia 0 V. En una red resistiva simple, una ecuación puede determinar el nodo desconocido.",
+      "Nodo V conectado a 6 V por 1 kΩ y a 0 V por 2 kΩ: (6−V)/1000=V/2000; V=4 V.",
+      "Nodo V entre 9 V por 2 kΩ y 0 V por 1 kΩ. Calcula V.",
+      "3 V.",
+      "6 V → R1 → V → R2 → 0 V"
+    ],
+    [
+      "Corriente negativa y comprobación",
+      "Una incógnita negativa no implica que la carga se destruya: corrige el sentido. Comprueba dimensiones A o mA coherentes. No sumes voltajes en una ecuación de corrientes. Si un nodo presenta acumulación real, dQ/dt no es cero en la descripción que la incluye explícitamente.",
+      "Si asumes I saliente y obtienes −2 mA, realmente entran 2 mA.",
+      "Si entran 8 mA y solo salen 5 mA en un modelo con acumulación, calcula dQ/dt.",
+      "3 mC/s =3 mA.",
+      "Resultado negativo → invierte flecha"
+    ],
+    [
+      "De los nodos al hardware",
+      "En una placa, las corrientes de múltiples cargas se distribuyen desde líneas de alimentación y regresan por sus caminos de retorno. Dimensionar conductores y fuente requiere conocer corriente total; las señales rápidas necesitan modelos más avanzados que un nodo ideal.",
+      "Tres cargas de 10, 20 y 30 mA en paralelo ideal requieren 60 mA en total.",
+      "¿Qué verifica KCL en una alimentación con varias cargas?",
+      "Balance de corriente/carga, no por sí sola el balance de energía.",
+      "Fuente → varias cargas → retorno"
+    ]
+  ],
+  "En simulación y opcionalmente circuito de clase 015, registra corrientes de ramas y total; calcula residuo It−I1−I2. Si hay mediciones reales, considera incertidumbre. Desconecta antes de insertar amperímetro. Nunca en paralelo a la fuente.",
+  "OpenStax Física universitaria, volumen 2: reglas de Kirchhoff"
+]
