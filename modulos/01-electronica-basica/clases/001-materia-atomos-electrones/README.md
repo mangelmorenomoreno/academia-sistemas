@@ -40,9 +40,9 @@
 [Descargas y plantillas](descargas.md) · [Videos y simulaciones](recursos/videos-y-simulaciones.md) · [Guía docente](guia-docente.md) · [Solucionario](soluciones/solucionario-ampliado.md)
 
 > [!NOTE]
-> Los modelos visuales no son órbitas físicas reales. La clase 002 sigue planificada. Los solucionarios son públicos; no subas información personal.
+> Los modelos visuales no son órbitas físicas reales. La clase 002 está disponible. Los solucionarios son públicos; no subas información personal.
 
-[Comenzar →](libro/01.md) · [Siguiente clase 002 (planificada)](../002-carga-electricidad-energia/README.md)
+[Comenzar →](libro/01.md) · [Siguiente clase 002](../002-carga-electricidad-energia/README.md)
 
 
 ## Edición visual para lectura

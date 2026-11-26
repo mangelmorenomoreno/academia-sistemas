@@ -115,6 +115,11 @@ Antes de escribir código hay que comprender qué es la información, cómo se r
 [Metodología y evaluación](METODOLOGIA.md) · [Estándar editorial](plantillas/estandar-materiales.md) · [Plantilla de clase](plantillas/clase.md)
 
 > [!NOTE]
-> El libro está en construcción. La clase 001 tiene material desarrollado; los demás contenidos se encuentran planificados. Esta formación independiente no equivale a un título universitario acreditado. Los solucionarios son públicos. No se publican notas ni información personal.
+> El libro está en construcción. Las clases 001 y 002 tienen material desarrollado; los demás contenidos se encuentran planificados. Esta formación independiente no equivale a un título universitario acreditado. Los solucionarios son públicos. No se publican notas ni información personal.
 
 <p align="center"><sub>ACADEMIA SISTEMAS · Comprender desde el origen, construir con criterio.</sub></p>
+
+
+## Nueva lección disponible
+
+[Clase 002 · Fuerzas eléctricas, campo y ley de Coulomb](modulos/01-electronica-basica/clases/002-carga-electricidad-energia/README.md) · [Abrir libro web](https://mangelmorenomoreno.github.io/academia-sistemas/modulos/01-electronica-basica/clases/002-carga-electricidad-energia/libro.html) · [Simulador](https://mangelmorenomoreno.github.io/academia-sistemas/modulos/01-electronica-basica/clases/002-carga-electricidad-energia/simulador.html)

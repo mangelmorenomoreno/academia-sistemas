@@ -1,0 +1,4304 @@
+{
+  "pages": [
+    [
+      "01",
+      "¿Qué es una fuerza?",
+      "Una interacción capaz de cambiar el movimiento.",
+      [
+        "Empujar una caja puede cambiar su velocidad o dirección. Una fuerza no es energía: se mide en newtons (N), mientras la energía se mide en julios (J).",
+        "Una fuerza tiene magnitud, dirección y sentido: es un vector. Una flecha más larga representa mayor magnitud si usamos la misma escala.",
+        "La fuerza resultante es la suma vectorial de todas las fuerzas. Si la resultante es cero, la aceleración es cero; no significa necesariamente que el objeto esté quieto."
+      ],
+      "Una caja recibe 5 N hacia la derecha y 2 N hacia la izquierda: la fuerza resultante es 3 N hacia la derecha.",
+      "Dibuja 4 N hacia la izquierda y 7 N hacia la derecha. ¿Cuál es la resultante?",
+      "vectors"
+    ],
+    [
+      "02",
+      "¿Cómo actúan las cargas sin tocarse?",
+      "La interacción electromagnética no requiere contacto.",
+      [
+        "En la clase anterior aprendiste que la carga es una propiedad de la materia. Una carga modifica el campo eléctrico en su entorno.",
+        "Otra carga situada en ese entorno experimenta una fuerza. Esto permite describir la interacción sin imaginar un hilo invisible ni electrones saltando entre los cuerpos.",
+        "En electrostática estudiamos cargas en reposo o configuraciones aproximadamente estacionarias. Los cambios del campo no se propagan instantáneamente; este modelo no estudia todavía la propagación electromagnética."
+      ],
+      "Un globo cargado puede atraer papel neutro por polarización. No necesita tocarlo ni transferirle electrones.",
+      "¿Una fuerza eléctrica requiere contacto? Explica usando el concepto de campo.",
+      "interaction"
+    ],
+    [
+      "03",
+      "Atracción, repulsión y acción-reacción",
+      "El signo decide el sentido, no la magnitud por sí solo.",
+      [
+        "Dos cargas positivas se repelen. Dos negativas también. Una positiva y otra negativa se atraen.",
+        "Las fuerzas electrostáticas entre dos cargas puntuales tienen igual magnitud y sentidos opuestos, según la tercera ley de Newton en este modelo. Cada fuerza actúa sobre un cuerpo diferente.",
+        "Si las masas son distintas, pueden tener aceleraciones diferentes aunque las fuerzas tengan igual magnitud. Si están fijas, otras fuerzas las mantienen en su lugar."
+      ],
+      "Una carga de +2 µC y una de −6 µC se atraen con fuerzas iguales en magnitud. No es correcto afirmar que la de −6 µC ejerce tres veces más fuerza sobre la otra.",
+      "Dibuja el par de fuerzas para +/+, −/− y +/−.",
+      "signs"
+    ],
+    [
+      "04",
+      "Medir cargas y distancias",
+      "Antes de calcular, aprende las unidades.",
+      [
+        "El culombio (C) mide carga. En electrostática son frecuentes el microculombio (µC = 10⁻⁶ C) y el nanoculombio (nC = 10⁻⁹ C).",
+        "La ley de Coulomb usa metros para la separación r entre centros de cargas puntuales. 1 cm = 0,01 m; 1 mm = 0,001 m.",
+        "La notación científica ayuda a multiplicar cantidades muy pequeñas. Al multiplicar potencias de diez se suman exponentes; al elevar una potencia al cuadrado se multiplica su exponente por dos."
+      ],
+      "2 µC = 2 × 10⁻⁶ C; 20 cm = 0,20 m; (0,20 m)² = 0,04 m².",
+      "Convierte −5 µC, 80 nC y 15 cm a unidades SI. Calcula (0,15)².",
+      "units"
+    ],
+    [
+      "05",
+      "Ley de Coulomb: ¿qué determina la fuerza?",
+      "Cuanto mayores las cargas, mayor la fuerza; cuanto más lejos, menor.",
+      [
+        "Para dos cargas puntuales en reposo en el vacío: F = k |q₁q₂| / r². En aire se usa a menudo la misma aproximación. k ≈ 8,99 × 10⁹ N·m²/C²; en clase redondeamos a 9 × 10⁹.",
+        "F es la magnitud de la fuerza en N. q₁ y q₂ son las cargas en C; r es la separación en m. El valor absoluto evita que una magnitud sea negativa.",
+        "El sentido se determina por los signos y la línea que une las cargas. En otros medios, la permitividad puede modificar la interacción; la fórmula puntual no describe cualquier objeto extenso a cualquier distancia."
+      ],
+      "Si duplicamos solo q₁, F se duplica. Si duplicamos ambas cargas, F se cuadruplica. Si duplicamos r, F queda en un cuarto.",
+      "¿Qué ocurre con F si una carga se triplica y la distancia se duplica al mismo tiempo?",
+      "coulomb"
+    ],
+    [
+      "06",
+      "¿Por qué aparece la distancia al cuadrado?",
+      "El campo de una carga puntual se distribuye en tres dimensiones.",
+      [
+        "Imagina esferas concéntricas centradas en una carga puntual. Su superficie es 4πr². Si duplicas el radio, el área se multiplica por cuatro.",
+        "En simetría esférica, el flujo eléctrico total a través de esas esferas permanece igual para una carga encerrada fija (ley de Gauss, que estudiaremos más adelante). Por eso el campo radial disminuye como 1/r².",
+        "Las líneas de campo son un dibujo para representar dirección y densidad relativa, no cuerdas físicas ni un número real de líneas. La explicación mediante superficie supone simetría esférica."
+      ],
+      "A distancias r, 2r y 3r, las fuerzas relativas para las mismas cargas son 1, 1/4 y 1/9.",
+      "Si a 10 cm la fuerza es 18 N, ¿cuánto sería a 30 cm?",
+      "inverse"
+    ],
+    [
+      "07",
+      "Coulomb paso a paso",
+      "Resolver es más que sustituir números.",
+      [
+        "Datos: q₁ = +2 µC, q₂ = −3 µC, r = 20 cm. Son opuestas, por tanto se atraen. Convierte a 2×10⁻⁶ C, −3×10⁻⁶ C y 0,20 m.",
+        "Multiplica magnitudes: |q₁q₂| = 6×10⁻¹² C². Eleva distancia: r² = 0,04 m². Multiplica por k: 9×10⁹ × 6×10⁻¹² = 0,054 N·m².",
+        "Divide 0,054 entre 0,04: F = 1,35 N. Dibuja fuerzas iguales que apuntan una hacia la otra. Las unidades C² y m² se cancelan y queda N."
+      ],
+      "Si r pasa de 0,20 a 0,40 m, F = 1,35/4 = 0,3375 N. El signo de atracción no cambia.",
+      "Resuelve +1 µC y +4 µC a 30 cm. Incluye dibujo, unidades y sentido.",
+      "worked"
+    ],
+    [
+      "08",
+      "¿Qué es el campo eléctrico?",
+      "Una propiedad vectorial de cada punto del espacio.",
+      [
+        "Para medir el efecto eléctrico de una carga fuente Q, imaginamos una carga de prueba positiva q₀ muy pequeña, de modo que no altere significativamente la distribución original.",
+        "El campo en un punto se define como E = F/q₀ (límite de carga de prueba pequeña). Su unidad es N/C. El campo existe en el modelo aunque no coloquemos la carga de prueba.",
+        "Para una carga puntual Q: |E| = k|Q|/r². El campo sale radialmente de Q positiva y entra hacia Q negativa. No es la fuerza: la fuerza depende también de la carga que coloquemos."
+      ],
+      "Una fuente +2 µC produce E = 4.500 N/C a 2 m; el campo apunta alejándose de la fuente.",
+      "¿Cambia el campo de la fuente si duplicas una carga de prueba ideal? ¿Cambia la fuerza?",
+      "field"
+    ],
+    [
+      "09",
+      "Campo y fuerza no son lo mismo",
+      "F = qE: la carga de prueba determina su respuesta.",
+      [
+        "Si colocamos una carga positiva en un campo eléctrico, la fuerza tiene el mismo sentido del campo. Si colocamos una negativa, el sentido se invierte.",
+        "Un electrón tiene carga −e ≈ −1,602×10⁻¹⁹ C. En un campo de 100 N/C hacia la derecha, su fuerza eléctrica apunta a la izquierda.",
+        "La magnitud es |q|E. Para el electrón del ejemplo, F = 1,602×10⁻¹⁷ N. Su movimiento real depende además de su velocidad inicial y de otras fuerzas; una flecha de fuerza no es necesariamente una trayectoria."
+      ],
+      "Con E = 300 N/C hacia la derecha, una carga −2 µC siente 0,0006 N hacia la izquierda.",
+      "Dibuja E hacia arriba y fuerzas sobre +3 µC y −3 µC. ¿Cuál es mayor en magnitud?",
+      "probe"
+    ],
+    [
+      "10",
+      "Leer un mapa de campo",
+      "Las flechas indican hacia dónde empujaría una carga positiva.",
+      [
+        "Las líneas electrostáticas salen de cargas positivas y terminan en negativas o en el infinito; también pueden venir del infinito hacia una carga negativa.",
+        "La tangente a una línea indica la dirección de E. Las líneas no se cruzan en puntos donde E tiene dirección definida. Una mayor densidad relativa sugiere mayor magnitud en diagramas comparables.",
+        "Entre placas paralelas grandes y con cargas opuestas, lejos de los bordes, el campo puede aproximarse como uniforme. Esto anticipa el estudio de voltaje y condensadores."
+      ],
+      "En un campo uniforme las flechas son paralelas y de igual longitud. No ocurre así alrededor de una carga puntual aislada.",
+      "Compara una carga positiva, una negativa y dos placas. Marca el sentido de E.",
+      "lines"
+    ],
+    [
+      "11",
+      "Superposición: varios campos a la vez",
+      "Cada fuente aporta un vector; se suman todos.",
+      [
+        "El campo total en un punto es la suma vectorial de los campos individuales. Calcula cada aporte antes de sumar; no sumes magnitudes sin mirar sentidos.",
+        "En el punto medio entre dos cargas positivas iguales, ambos campos tienen igual magnitud y sentidos opuestos: E total = 0. Las cargas fuente no desaparecen.",
+        "En el punto medio entre +Q y −Q iguales, ambos campos apuntan hacia la negativa: se suman. Si las direcciones no son colineales, se suman componentes x e y."
+      ],
+      "Dos cargas +1 µC separadas 2 m: en el centro cada campo vale 9.000 N/C, pero se cancelan. Si la derecha fuera −1 µC, E total = 18.000 N/C hacia la derecha.",
+      "Dibuja dos cargas positivas iguales y coloca el punto de prueba más cerca de la izquierda. ¿Hacia dónde apunta E total?",
+      "superposition"
+    ],
+    [
+      "12",
+      "Aplicaciones en ingeniería",
+      "De los campos a los dispositivos.",
+      [
+        "Una pantalla táctil capacitiva detecta cambios de capacitancia asociados a la proximidad del dedo; el campo eléctrico participa en el fenómeno. No es necesario que se transfieran electrones al vidrio.",
+        "Una descarga electrostática (ESD) puede dañar componentes semiconductores: una diferencia de potencial puede producir un pulso de corriente. Por eso se usan medidas de protección ESD.",
+        "En transistores MOSFET, un campo eléctrico asociado a la puerta controla las condiciones de conducción del canal. Comprender campo eléctrico ayuda a entender este mecanismo más adelante."
+      ],
+      "La electrostática explica parte del funcionamiento de sensores y la necesidad de proteger circuitos, pero no sustituye el estudio de corriente, energía y semiconductores.",
+      "Busca un ejemplo de sensor capacitivo y explica qué propiedad se detecta. No provoques descargas en equipos.",
+      "applications"
+    ],
+    [
+      "13",
+      "Laboratorio virtual: medir y predecir",
+      "La simulación permite comprobar relaciones sin riesgos.",
+      [
+        "Usa el simulador integrado o PhET. Mantén q₁ y q₂ fijas, registra la fuerza a r = 10, 20 y 30 cm. Antes de cambiar r, predice la relación.",
+        "Cambia el signo de q₂ conservando su magnitud. Observa cómo cambia el sentido pero no la magnitud. Luego duplica únicamente q₁.",
+        "En PhET Cargas y campos, coloca una fuente positiva, mueve el sensor y observa dirección y magnitud. Compara el campo de dos fuentes iguales y opuestas en su punto medio."
+      ],
+      "Registra columnas q₁, q₂, r, F predicha, F observada, sentido y error relativo. En el simulador local los datos son calculados, no mediciones independientes.",
+      "Entrega tres dibujos, tabla de resultados y conclusión. No conectar nada a la red eléctrica.",
+      "lab"
+    ],
+    [
+      "14",
+      "Comprueba tus fundamentos",
+      "Antes de avanzar, explica la causa y el cálculo.",
+      [
+        "Distingue carga, fuerza y campo con sus unidades. Explica por qué una carga negativa siente una fuerza opuesta a E.",
+        "Resuelve un problema de Coulomb con conversiones y otro de superposición. Comprueba qué ocurre al duplicar la distancia.",
+        "Explica qué condiciones supone el modelo de cargas puntuales y por qué no es correcto decir que las líneas son objetos físicos."
+      ],
+      "Meta: 80/100 y dominio de signos, unidades, vectores y relación inversa al cuadrado. Si quedan dudas, repite las páginas correspondientes.",
+      "Presenta la prueba sin apuntes y sustenta tus respuestas. Sigue a clase 003: energía, trabajo y conservación.",
+      "review"
+    ]
+  ],
+  "figures": {
+    "10": [
+      {
+        "k": "r",
+        "x": 0,
+        "y": 0,
+        "w": 900,
+        "h": 300,
+        "color": "#F7FAFE"
+      },
+      {
+        "k": "c",
+        "x": 150,
+        "y": 145,
+        "r": 27,
+        "color": "#D64F61"
+      },
+      {
+        "k": "t",
+        "x": 150,
+        "y": 154,
+        "s": "+",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 190,
+        "y": 145,
+        "x2": 238,
+        "y2": 145,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 238,
+        "y": 145,
+        "x2": 226.91718121322643,
+        "y2": 151.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 238,
+        "y": 145,
+        "x2": 226.91718121322643,
+        "y2": 138.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 178.2842712474619,
+        "y": 173.2842712474619,
+        "x2": 212.22539674441617,
+        "y2": 207.22539674441617,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 212.22539674441617,
+        "y": 207.22539674441617,
+        "x2": 199.58391653341275,
+        "y2": 204.19340431784107,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 212.22539674441617,
+        "y": 207.22539674441617,
+        "x2": 209.19340431784107,
+        "y2": 194.58391653341275,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 150,
+        "y": 185,
+        "x2": 150,
+        "y2": 233,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 150,
+        "y": 233,
+        "x2": 143.20506602390142,
+        "y2": 221.91718121322643,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 150,
+        "y": 233,
+        "x2": 156.79493397609858,
+        "y2": 221.91718121322643,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 121.7157287525381,
+        "y": 173.2842712474619,
+        "x2": 87.77460325558383,
+        "y2": 207.22539674441617,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 87.77460325558383,
+        "y": 207.22539674441617,
+        "x2": 90.80659568215891,
+        "y2": 194.58391653341275,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 87.77460325558383,
+        "y": 207.22539674441617,
+        "x2": 100.41608346658725,
+        "y2": 204.19340431784107,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 110,
+        "y": 145,
+        "x2": 62,
+        "y2": 145,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 62,
+        "y": 145,
+        "x2": 73.08281878677357,
+        "y2": 138.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 62,
+        "y": 145,
+        "x2": 73.08281878677357,
+        "y2": 151.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 121.7157287525381,
+        "y": 116.7157287525381,
+        "x2": 87.7746032555838,
+        "y2": 82.77460325558383,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 87.7746032555838,
+        "y": 82.77460325558383,
+        "x2": 100.41608346658722,
+        "y2": 85.80659568215891,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 87.7746032555838,
+        "y": 82.77460325558383,
+        "x2": 90.8065956821589,
+        "y2": 95.41608346658725,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 150,
+        "y": 105,
+        "x2": 149.99999999999997,
+        "y2": 57,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 149.99999999999997,
+        "y": 57,
+        "x2": 156.79493397609855,
+        "y2": 68.08281878677357,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 149.99999999999997,
+        "y": 57,
+        "x2": 143.2050660239014,
+        "y2": 68.08281878677357,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 178.2842712474619,
+        "y": 116.7157287525381,
+        "x2": 212.22539674441617,
+        "y2": 82.7746032555838,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 212.22539674441617,
+        "y": 82.7746032555838,
+        "x2": 209.1934043178411,
+        "y2": 95.41608346658722,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 212.22539674441617,
+        "y": 82.7746032555838,
+        "x2": 199.58391653341275,
+        "y2": 85.8065956821589,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "t",
+        "x": 150,
+        "y": 265,
+        "s": "Salen",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 440,
+        "y": 145,
+        "r": 27,
+        "color": "#2475CA"
+      },
+      {
+        "k": "t",
+        "x": 440,
+        "y": 154,
+        "s": "−",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 528,
+        "y": 145,
+        "x2": 480,
+        "y2": 145,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 480,
+        "y": 145,
+        "x2": 491.0828187867736,
+        "y2": 138.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 480,
+        "y": 145,
+        "x2": 491.0828187867736,
+        "y2": 151.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 502.2253967444162,
+        "y": 207.22539674441617,
+        "x2": 468.2842712474619,
+        "y2": 173.2842712474619,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 468.2842712474619,
+        "y": 173.2842712474619,
+        "x2": 480.92575145846536,
+        "y2": 176.316263674037,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 468.2842712474619,
+        "y": 173.2842712474619,
+        "x2": 471.316263674037,
+        "y2": 185.92575145846533,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 440,
+        "y": 233,
+        "x2": 440,
+        "y2": 185,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 440,
+        "y": 185,
+        "x2": 446.79493397609855,
+        "y2": 196.08281878677357,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 440,
+        "y": 185,
+        "x2": 433.20506602390145,
+        "y2": 196.08281878677357,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 377.7746032555838,
+        "y": 207.22539674441617,
+        "x2": 411.7157287525381,
+        "y2": 173.2842712474619,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 411.7157287525381,
+        "y": 173.2842712474619,
+        "x2": 408.683736325963,
+        "y2": 185.92575145846533,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 411.7157287525381,
+        "y": 173.2842712474619,
+        "x2": 399.07424854153464,
+        "y2": 176.316263674037,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 352,
+        "y": 145,
+        "x2": 400,
+        "y2": 145,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 400,
+        "y": 145,
+        "x2": 388.9171812132264,
+        "y2": 151.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 400,
+        "y": 145,
+        "x2": 388.9171812132264,
+        "y2": 138.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 377.7746032555838,
+        "y": 82.77460325558383,
+        "x2": 411.7157287525381,
+        "y2": 116.7157287525381,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 411.7157287525381,
+        "y": 116.7157287525381,
+        "x2": 399.07424854153464,
+        "y2": 113.68373632596301,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 411.7157287525381,
+        "y": 116.7157287525381,
+        "x2": 408.683736325963,
+        "y2": 104.07424854153467,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 440,
+        "y": 57,
+        "x2": 440,
+        "y2": 105,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 440,
+        "y": 105,
+        "x2": 433.20506602390145,
+        "y2": 93.91718121322643,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 440,
+        "y": 105,
+        "x2": 446.79493397609855,
+        "y2": 93.91718121322643,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 502.2253967444162,
+        "y": 82.7746032555838,
+        "x2": 468.2842712474619,
+        "y2": 116.7157287525381,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 468.2842712474619,
+        "y": 116.7157287525381,
+        "x2": 471.316263674037,
+        "y2": 104.07424854153467,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 468.2842712474619,
+        "y": 116.7157287525381,
+        "x2": 480.92575145846536,
+        "y2": 113.683736325963,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "t",
+        "x": 440,
+        "y": 265,
+        "s": "Entran",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 650,
+        "y": 64,
+        "w": 18,
+        "h": 169,
+        "color": "#D64F61"
+      },
+      {
+        "k": "r",
+        "x": 855,
+        "y": 64,
+        "w": 18,
+        "h": 169,
+        "color": "#2475CA"
+      },
+      {
+        "k": "l",
+        "x": 680,
+        "y": 79,
+        "x2": 845,
+        "y2": 79,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 845,
+        "y": 79,
+        "x2": 833.9171812132264,
+        "y2": 85.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 845,
+        "y": 79,
+        "x2": 833.9171812132264,
+        "y2": 72.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 680,
+        "y": 113,
+        "x2": 845,
+        "y2": 113,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 845,
+        "y": 113,
+        "x2": 833.9171812132264,
+        "y2": 119.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 845,
+        "y": 113,
+        "x2": 833.9171812132264,
+        "y2": 106.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 680,
+        "y": 147,
+        "x2": 845,
+        "y2": 147,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 845,
+        "y": 147,
+        "x2": 833.9171812132264,
+        "y2": 153.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 845,
+        "y": 147,
+        "x2": 833.9171812132264,
+        "y2": 140.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 680,
+        "y": 181,
+        "x2": 845,
+        "y2": 181,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 845,
+        "y": 181,
+        "x2": 833.9171812132264,
+        "y2": 187.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 845,
+        "y": 181,
+        "x2": 833.9171812132264,
+        "y2": 174.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 680,
+        "y": 215,
+        "x2": 845,
+        "y2": 215,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 845,
+        "y": 215,
+        "x2": 833.9171812132264,
+        "y2": 221.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 845,
+        "y": 215,
+        "x2": 833.9171812132264,
+        "y2": 208.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "t",
+        "x": 760,
+        "y": 265,
+        "s": "Campo casi uniforme",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      }
+    ],
+    "11": [
+      {
+        "k": "r",
+        "x": 0,
+        "y": 0,
+        "w": 900,
+        "h": 300,
+        "color": "#F7FAFE"
+      },
+      {
+        "k": "r",
+        "x": 15,
+        "y": 20,
+        "w": 420,
+        "h": 260,
+        "color": "#E4F1FE"
+      },
+      {
+        "k": "t",
+        "x": 225,
+        "y": 50,
+        "s": "Fuentes iguales",
+        "size": 23,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 80,
+        "y": 143,
+        "r": 27,
+        "color": "#D64F61"
+      },
+      {
+        "k": "t",
+        "x": 80,
+        "y": 152,
+        "s": "+",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 370,
+        "y": 143,
+        "r": 27,
+        "color": "#D64F61"
+      },
+      {
+        "k": "t",
+        "x": 370,
+        "y": 152,
+        "s": "+",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 225,
+        "y": 143,
+        "r": 6,
+        "color": "#172D47"
+      },
+      {
+        "k": "l",
+        "x": 225,
+        "y": 102,
+        "x2": 300,
+        "y2": 102,
+        "color": "#D64F61",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 300,
+        "y": 102,
+        "x2": 288.9171812132264,
+        "y2": 108.79493397609858,
+        "color": "#D64F61",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 300,
+        "y": 102,
+        "x2": 288.9171812132264,
+        "y2": 95.20506602390142,
+        "color": "#D64F61",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 225,
+        "y": 181,
+        "x2": 150,
+        "y2": 181,
+        "color": "#2475CA",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 150,
+        "y": 181,
+        "x2": 161.08281878677357,
+        "y2": 174.20506602390142,
+        "color": "#2475CA",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 150,
+        "y": 181,
+        "x2": 161.08281878677357,
+        "y2": 187.79493397609858,
+        "color": "#2475CA",
+        "w": 4
+      },
+      {
+        "k": "t",
+        "x": 225,
+        "y": 243,
+        "s": "E total = 0",
+        "size": 25,
+        "color": "#087F75",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 465,
+        "y": 20,
+        "w": 420,
+        "h": 260,
+        "color": "#DDF6EB"
+      },
+      {
+        "k": "t",
+        "x": 675,
+        "y": 50,
+        "s": "Fuentes opuestas",
+        "size": 23,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 530,
+        "y": 143,
+        "r": 27,
+        "color": "#D64F61"
+      },
+      {
+        "k": "t",
+        "x": 530,
+        "y": 152,
+        "s": "+",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 820,
+        "y": 143,
+        "r": 27,
+        "color": "#2475CA"
+      },
+      {
+        "k": "t",
+        "x": 820,
+        "y": 152,
+        "s": "−",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 675,
+        "y": 143,
+        "r": 6,
+        "color": "#172D47"
+      },
+      {
+        "k": "l",
+        "x": 675,
+        "y": 102,
+        "x2": 750,
+        "y2": 102,
+        "color": "#D64F61",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 750,
+        "y": 102,
+        "x2": 738.9171812132264,
+        "y2": 108.79493397609858,
+        "color": "#D64F61",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 750,
+        "y": 102,
+        "x2": 738.9171812132264,
+        "y2": 95.20506602390142,
+        "color": "#D64F61",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 675,
+        "y": 181,
+        "x2": 750,
+        "y2": 181,
+        "color": "#2475CA",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 750,
+        "y": 181,
+        "x2": 738.9171812132264,
+        "y2": 187.79493397609858,
+        "color": "#2475CA",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 750,
+        "y": 181,
+        "x2": 738.9171812132264,
+        "y2": 174.20506602390142,
+        "color": "#2475CA",
+        "w": 4
+      },
+      {
+        "k": "t",
+        "x": 675,
+        "y": 243,
+        "s": "E total = 2E",
+        "size": 25,
+        "color": "#087F75",
+        "bold": true
+      }
+    ],
+    "12": [
+      {
+        "k": "r",
+        "x": 0,
+        "y": 0,
+        "w": 900,
+        "h": 300,
+        "color": "#F7FAFE"
+      },
+      {
+        "k": "r",
+        "x": 15,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#E4F1FE"
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 52,
+        "s": "Sensor capacitivo",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 70,
+        "y": 130,
+        "w": 170,
+        "h": 80,
+        "color": "#B7D5ED"
+      },
+      {
+        "k": "r",
+        "x": 128,
+        "y": 80,
+        "w": 54,
+        "h": 45,
+        "color": "#F1B88C"
+      },
+      {
+        "k": "l",
+        "x": 97,
+        "y": 168,
+        "x2": 213,
+        "y2": 168,
+        "color": "#087F75",
+        "w": 5
+      },
+      {
+        "k": "l",
+        "x": 125,
+        "y": 122,
+        "x2": 125,
+        "y2": 158,
+        "color": "#2475CA",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 125,
+        "y": 158,
+        "x2": 118.20506602390142,
+        "y2": 146.91718121322643,
+        "color": "#2475CA",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 125,
+        "y": 158,
+        "x2": 131.79493397609858,
+        "y2": 146.91718121322643,
+        "color": "#2475CA",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 155,
+        "y": 122,
+        "x2": 155,
+        "y2": 158,
+        "color": "#2475CA",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 155,
+        "y": 158,
+        "x2": 148.20506602390142,
+        "y2": 146.91718121322643,
+        "color": "#2475CA",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 155,
+        "y": 158,
+        "x2": 161.79493397609858,
+        "y2": 146.91718121322643,
+        "color": "#2475CA",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 185,
+        "y": 122,
+        "x2": 185,
+        "y2": 158,
+        "color": "#2475CA",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 185,
+        "y": 158,
+        "x2": 178.20506602390142,
+        "y2": 146.91718121322643,
+        "color": "#2475CA",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 185,
+        "y": 158,
+        "x2": 191.79493397609858,
+        "y2": 146.91718121322643,
+        "color": "#2475CA",
+        "w": 2
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 251,
+        "s": "Detecta proximidad",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 310,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#DDF6EB"
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 52,
+        "s": "Protección ESD",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 385,
+        "y": 120,
+        "w": 130,
+        "h": 87,
+        "color": "#9CBAD4"
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 170,
+        "s": "CHIP",
+        "size": 25,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 490,
+        "y": 74,
+        "x2": 455,
+        "y2": 110,
+        "color": "#A96519",
+        "w": 5
+      },
+      {
+        "k": "l",
+        "x": 455,
+        "y": 110,
+        "x2": 490,
+        "y2": 110,
+        "color": "#A96519",
+        "w": 5
+      },
+      {
+        "k": "l",
+        "x": 490,
+        "y": 110,
+        "x2": 466,
+        "y2": 143,
+        "color": "#A96519",
+        "w": 5
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 251,
+        "s": "Evita daños",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 605,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#F2E8FA"
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 52,
+        "s": "MOSFET",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 651,
+        "y": 173,
+        "w": 188,
+        "h": 32,
+        "color": "#B9CADD"
+      },
+      {
+        "k": "r",
+        "x": 677,
+        "y": 137,
+        "w": 48,
+        "h": 36,
+        "color": "#2475CA"
+      },
+      {
+        "k": "r",
+        "x": 765,
+        "y": 137,
+        "w": 48,
+        "h": 36,
+        "color": "#2475CA"
+      },
+      {
+        "k": "r",
+        "x": 720,
+        "y": 92,
+        "w": 50,
+        "h": 25,
+        "color": "#D64F61"
+      },
+      {
+        "k": "l",
+        "x": 745,
+        "y": 120,
+        "x2": 745,
+        "y2": 160,
+        "color": "#087F75",
+        "w": 3
+      },
+      {
+        "k": "l",
+        "x": 745,
+        "y": 160,
+        "x2": 738.2050660239014,
+        "y2": 148.91718121322643,
+        "color": "#087F75",
+        "w": 3
+      },
+      {
+        "k": "l",
+        "x": 745,
+        "y": 160,
+        "x2": 751.7949339760986,
+        "y2": 148.91718121322643,
+        "color": "#087F75",
+        "w": 3
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 251,
+        "s": "Controla el canal",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      }
+    ],
+    "13": [
+      {
+        "k": "r",
+        "x": 0,
+        "y": 0,
+        "w": 900,
+        "h": 300,
+        "color": "#F7FAFE"
+      },
+      {
+        "k": "r",
+        "x": 15,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#E4F1FE"
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 52,
+        "s": "Predice",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 145,
+        "s": "r → 2r",
+        "size": 31,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 245,
+        "s": "¿F cambia cuánto?",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 310,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#DDF6EB"
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 52,
+        "s": "Simula",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 380,
+        "y": 145,
+        "r": 27,
+        "color": "#D64F61"
+      },
+      {
+        "k": "t",
+        "x": 380,
+        "y": 154,
+        "s": "+",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 520,
+        "y": 145,
+        "r": 27,
+        "color": "#2475CA"
+      },
+      {
+        "k": "t",
+        "x": 520,
+        "y": 154,
+        "s": "−",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 410,
+        "y": 100,
+        "x2": 490,
+        "y2": 100,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 490,
+        "y": 100,
+        "x2": 478.9171812132264,
+        "y2": 106.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 490,
+        "y": 100,
+        "x2": 478.9171812132264,
+        "y2": 93.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 245,
+        "s": "Mueve las cargas",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 605,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#F2E8FA"
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 52,
+        "s": "Registra",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 667,
+        "y": 95,
+        "w": 155,
+        "h": 120,
+        "color": "#FFFFFF"
+      },
+      {
+        "k": "l",
+        "x": 667,
+        "y": 130,
+        "x2": 822,
+        "y2": 130,
+        "color": "#087F75",
+        "w": 3
+      },
+      {
+        "k": "l",
+        "x": 667,
+        "y": 166,
+        "x2": 822,
+        "y2": 166,
+        "color": "#087F75",
+        "w": 3
+      },
+      {
+        "k": "l",
+        "x": 744,
+        "y": 95,
+        "x2": 744,
+        "y2": 215,
+        "color": "#087F75",
+        "w": 3
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 245,
+        "s": "Compara resultados",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      }
+    ],
+    "14": [
+      {
+        "k": "r",
+        "x": 0,
+        "y": 0,
+        "w": 900,
+        "h": 300,
+        "color": "#F7FAFE"
+      },
+      {
+        "k": "r",
+        "x": 15,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#E4F1FE"
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 52,
+        "s": "Carga",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 132,
+        "s": "C",
+        "size": 48,
+        "color": "#087F75",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 225,
+        "s": "Propiedad",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 310,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#DDF6EB"
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 52,
+        "s": "Fuerza",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 132,
+        "s": "N",
+        "size": 48,
+        "color": "#087F75",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 225,
+        "s": "Interacción",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 605,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#F2E8FA"
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 52,
+        "s": "Campo",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 132,
+        "s": "N/C",
+        "size": 48,
+        "color": "#087F75",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 225,
+        "s": "Fuerza por carga",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      }
+    ],
+    "01": [
+      {
+        "k": "r",
+        "x": 0,
+        "y": 0,
+        "w": 900,
+        "h": 300,
+        "color": "#F7FAFE"
+      },
+      {
+        "k": "r",
+        "x": 15,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#E4F1FE"
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 52,
+        "s": "Fuerza 5 N",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 310,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#DDF6EB"
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 52,
+        "s": "Fuerza 2 N",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 605,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#F2E8FA"
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 52,
+        "s": "Resultante 3 N",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 122,
+        "y": 123,
+        "w": 66,
+        "h": 62,
+        "color": "#B9CADD"
+      },
+      {
+        "k": "l",
+        "x": 189,
+        "y": 154,
+        "x2": 280,
+        "y2": 154,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 280,
+        "y": 154,
+        "x2": 268.9171812132264,
+        "y2": 160.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 280,
+        "y": 154,
+        "x2": 268.9171812132264,
+        "y2": 147.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 245,
+        "s": "Hacia la derecha",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 417,
+        "y": 123,
+        "w": 66,
+        "h": 62,
+        "color": "#B9CADD"
+      },
+      {
+        "k": "l",
+        "x": 414,
+        "y": 154,
+        "x2": 349,
+        "y2": 154,
+        "color": "#2475CA",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 349,
+        "y": 154,
+        "x2": 360.0828187867736,
+        "y2": 147.20506602390142,
+        "color": "#2475CA",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 349,
+        "y": 154,
+        "x2": 360.0828187867736,
+        "y2": 160.79493397609858,
+        "color": "#2475CA",
+        "w": 4
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 245,
+        "s": "Hacia la izquierda",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 712,
+        "y": 123,
+        "w": 66,
+        "h": 62,
+        "color": "#B9CADD"
+      },
+      {
+        "k": "l",
+        "x": 779,
+        "y": 154,
+        "x2": 835,
+        "y2": 154,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 835,
+        "y": 154,
+        "x2": 823.9171812132264,
+        "y2": 160.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 835,
+        "y": 154,
+        "x2": 823.9171812132264,
+        "y2": 147.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 245,
+        "s": "5 − 2 = 3 N",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      }
+    ],
+    "02": [
+      {
+        "k": "r",
+        "x": 0,
+        "y": 0,
+        "w": 900,
+        "h": 300,
+        "color": "#F7FAFE"
+      },
+      {
+        "k": "c",
+        "x": 180,
+        "y": 150,
+        "r": 27,
+        "color": "#D64F61"
+      },
+      {
+        "k": "t",
+        "x": 180,
+        "y": 159,
+        "s": "+",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 690,
+        "y": 150,
+        "r": 27,
+        "color": "#2475CA"
+      },
+      {
+        "k": "t",
+        "x": 690,
+        "y": 159,
+        "s": "−",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 245,
+        "y": 70,
+        "x2": 630,
+        "y2": 70,
+        "color": "#087F75",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 630,
+        "y": 70,
+        "x2": 618.9171812132264,
+        "y2": 76.79493397609858,
+        "color": "#087F75",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 630,
+        "y": 70,
+        "x2": 618.9171812132264,
+        "y2": 63.20506602390143,
+        "color": "#087F75",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 245,
+        "y": 110,
+        "x2": 630,
+        "y2": 110,
+        "color": "#087F75",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 630,
+        "y": 110,
+        "x2": 618.9171812132264,
+        "y2": 116.79493397609858,
+        "color": "#087F75",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 630,
+        "y": 110,
+        "x2": 618.9171812132264,
+        "y2": 103.20506602390142,
+        "color": "#087F75",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 245,
+        "y": 150,
+        "x2": 630,
+        "y2": 150,
+        "color": "#087F75",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 630,
+        "y": 150,
+        "x2": 618.9171812132264,
+        "y2": 156.79493397609858,
+        "color": "#087F75",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 630,
+        "y": 150,
+        "x2": 618.9171812132264,
+        "y2": 143.20506602390142,
+        "color": "#087F75",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 245,
+        "y": 190,
+        "x2": 630,
+        "y2": 190,
+        "color": "#087F75",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 630,
+        "y": 190,
+        "x2": 618.9171812132264,
+        "y2": 196.79493397609858,
+        "color": "#087F75",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 630,
+        "y": 190,
+        "x2": 618.9171812132264,
+        "y2": 183.20506602390142,
+        "color": "#087F75",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 245,
+        "y": 230,
+        "x2": 630,
+        "y2": 230,
+        "color": "#087F75",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 630,
+        "y": 230,
+        "x2": 618.9171812132264,
+        "y2": 236.79493397609858,
+        "color": "#087F75",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 630,
+        "y": 230,
+        "x2": 618.9171812132264,
+        "y2": 223.20506602390142,
+        "color": "#087F75",
+        "w": 2
+      },
+      {
+        "k": "t",
+        "x": 180,
+        "y": 240,
+        "s": "Fuente",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 690,
+        "y": 240,
+        "s": "Otra carga",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 35,
+        "s": "El campo permite describir la interacción",
+        "size": 24,
+        "color": "#172D47",
+        "bold": true
+      }
+    ],
+    "03": [
+      {
+        "k": "r",
+        "x": 0,
+        "y": 0,
+        "w": 900,
+        "h": 300,
+        "color": "#F7FAFE"
+      },
+      {
+        "k": "r",
+        "x": 15,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#E4F1FE"
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 52,
+        "s": "+ y +",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 103,
+        "y": 145,
+        "r": 27,
+        "color": "#D64F61"
+      },
+      {
+        "k": "t",
+        "x": 103,
+        "y": 154,
+        "s": "+",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 209,
+        "y": 145,
+        "r": 27,
+        "color": "#D64F61"
+      },
+      {
+        "k": "t",
+        "x": 209,
+        "y": 154,
+        "s": "+",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 103,
+        "y": 100,
+        "x2": 50,
+        "y2": 100,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 50,
+        "y": 100,
+        "x2": 61.08281878677357,
+        "y2": 93.20506602390144,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 50,
+        "y": 100,
+        "x2": 61.08281878677358,
+        "y2": 106.79493397609856,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 209,
+        "y": 100,
+        "x2": 262,
+        "y2": 100,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 262,
+        "y": 100,
+        "x2": 250.91718121322643,
+        "y2": 106.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 262,
+        "y": 100,
+        "x2": 250.91718121322643,
+        "y2": 93.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 245,
+        "s": "Repulsión",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 310,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#DDF6EB"
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 52,
+        "s": "− y −",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 398,
+        "y": 145,
+        "r": 27,
+        "color": "#2475CA"
+      },
+      {
+        "k": "t",
+        "x": 398,
+        "y": 154,
+        "s": "−",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 504,
+        "y": 145,
+        "r": 27,
+        "color": "#2475CA"
+      },
+      {
+        "k": "t",
+        "x": 504,
+        "y": 154,
+        "s": "−",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 398,
+        "y": 100,
+        "x2": 345,
+        "y2": 100,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 345,
+        "y": 100,
+        "x2": 356.0828187867736,
+        "y2": 93.20506602390144,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 345,
+        "y": 100,
+        "x2": 356.0828187867736,
+        "y2": 106.79493397609856,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 504,
+        "y": 100,
+        "x2": 557,
+        "y2": 100,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 557,
+        "y": 100,
+        "x2": 545.9171812132264,
+        "y2": 106.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 557,
+        "y": 100,
+        "x2": 545.9171812132264,
+        "y2": 93.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 245,
+        "s": "Repulsión",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 605,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#F2E8FA"
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 52,
+        "s": "+ y −",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 693,
+        "y": 145,
+        "r": 27,
+        "color": "#D64F61"
+      },
+      {
+        "k": "t",
+        "x": 693,
+        "y": 154,
+        "s": "+",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 799,
+        "y": 145,
+        "r": 27,
+        "color": "#2475CA"
+      },
+      {
+        "k": "t",
+        "x": 799,
+        "y": 154,
+        "s": "−",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 693,
+        "y": 100,
+        "x2": 736,
+        "y2": 100,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 736,
+        "y": 100,
+        "x2": 724.9171812132264,
+        "y2": 106.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 736,
+        "y": 100,
+        "x2": 724.9171812132264,
+        "y2": 93.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 799,
+        "y": 100,
+        "x2": 756,
+        "y2": 100,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 756,
+        "y": 100,
+        "x2": 767.0828187867736,
+        "y2": 93.20506602390144,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 756,
+        "y": 100,
+        "x2": 767.0828187867736,
+        "y2": 106.79493397609856,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 245,
+        "s": "Atracción",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      }
+    ],
+    "04": [
+      {
+        "k": "r",
+        "x": 0,
+        "y": 0,
+        "w": 900,
+        "h": 300,
+        "color": "#F7FAFE"
+      },
+      {
+        "k": "r",
+        "x": 15,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#E4F1FE"
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 52,
+        "s": "Microculombio",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 135,
+        "s": "1 µC",
+        "size": 33,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 155,
+        "y": 153,
+        "x2": 155,
+        "y2": 188,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 155,
+        "y": 188,
+        "x2": 148.20506602390142,
+        "y2": 176.91718121322643,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 155,
+        "y": 188,
+        "x2": 161.79493397609858,
+        "y2": 176.91718121322643,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 231,
+        "s": "10⁻⁶ C",
+        "size": 26,
+        "color": "#087F75",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 310,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#DDF6EB"
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 52,
+        "s": "Nanoculombio",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 135,
+        "s": "1 nC",
+        "size": 33,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 450,
+        "y": 153,
+        "x2": 450,
+        "y2": 188,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 450,
+        "y": 188,
+        "x2": 443.20506602390145,
+        "y2": 176.91718121322643,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 450,
+        "y": 188,
+        "x2": 456.79493397609855,
+        "y2": 176.91718121322643,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 231,
+        "s": "10⁻⁹ C",
+        "size": 26,
+        "color": "#087F75",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 605,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#F2E8FA"
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 52,
+        "s": "Distancia",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 135,
+        "s": "20 cm",
+        "size": 33,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 745,
+        "y": 153,
+        "x2": 745,
+        "y2": 188,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 745,
+        "y": 188,
+        "x2": 738.2050660239014,
+        "y2": 176.91718121322643,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 745,
+        "y": 188,
+        "x2": 751.7949339760986,
+        "y2": 176.91718121322643,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 231,
+        "s": "0,20 m",
+        "size": 26,
+        "color": "#087F75",
+        "bold": true
+      }
+    ],
+    "05": [
+      {
+        "k": "r",
+        "x": 0,
+        "y": 0,
+        "w": 900,
+        "h": 300,
+        "color": "#F7FAFE"
+      },
+      {
+        "k": "c",
+        "x": 150,
+        "y": 145,
+        "r": 27,
+        "color": "#D64F61"
+      },
+      {
+        "k": "t",
+        "x": 150,
+        "y": 154,
+        "s": "+",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 750,
+        "y": 145,
+        "r": 27,
+        "color": "#2475CA"
+      },
+      {
+        "k": "t",
+        "x": 750,
+        "y": 154,
+        "s": "−",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 185,
+        "y": 105,
+        "x2": 280,
+        "y2": 105,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 280,
+        "y": 105,
+        "x2": 268.9171812132264,
+        "y2": 111.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 280,
+        "y": 105,
+        "x2": 268.9171812132264,
+        "y2": 98.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 715,
+        "y": 105,
+        "x2": 620,
+        "y2": 105,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 620,
+        "y": 105,
+        "x2": 631.0828187867736,
+        "y2": 98.20506602390144,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 620,
+        "y": 105,
+        "x2": 631.0828187867736,
+        "y2": 111.79493397609856,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 150,
+        "y": 210,
+        "x2": 750,
+        "y2": 210,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 150,
+        "y": 200,
+        "x2": 150,
+        "y2": 220,
+        "color": "#52677D",
+        "w": 3
+      },
+      {
+        "k": "l",
+        "x": 750,
+        "y": 200,
+        "x2": 750,
+        "y2": 220,
+        "color": "#52677D",
+        "w": 3
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 240,
+        "s": "r: separación entre centros",
+        "size": 20,
+        "color": "#52677D",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 150,
+        "y": 60,
+        "s": "q₁",
+        "size": 26,
+        "color": "#D64F61",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 750,
+        "y": 60,
+        "s": "q₂",
+        "size": 26,
+        "color": "#2475CA",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 55,
+        "s": "F = k |q₁q₂| / r²",
+        "size": 34,
+        "color": "#172D47",
+        "bold": true
+      }
+    ],
+    "06": [
+      {
+        "k": "r",
+        "x": 0,
+        "y": 0,
+        "w": 900,
+        "h": 300,
+        "color": "#F7FAFE"
+      },
+      {
+        "k": "r",
+        "x": 15,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#E4F1FE"
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 52,
+        "s": "r",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 65,
+        "y": 135,
+        "r": 19,
+        "color": "#D64F61"
+      },
+      {
+        "k": "t",
+        "x": 65,
+        "y": 144,
+        "s": "+",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 110,
+        "y": 135,
+        "r": 19,
+        "color": "#2475CA"
+      },
+      {
+        "k": "t",
+        "x": 110,
+        "y": 144,
+        "s": "−",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 110,
+        "y": 183,
+        "x2": 65,
+        "y2": 183,
+        "color": "#A96519",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 65,
+        "y": 183,
+        "x2": 76.08281878677357,
+        "y2": 176.20506602390142,
+        "color": "#A96519",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 65,
+        "y": 183,
+        "x2": 76.08281878677357,
+        "y2": 189.79493397609858,
+        "color": "#A96519",
+        "w": 4
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 249,
+        "s": "F",
+        "size": 29,
+        "color": "#087F75",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 310,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#DDF6EB"
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 52,
+        "s": "2r",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 360,
+        "y": 135,
+        "r": 19,
+        "color": "#D64F61"
+      },
+      {
+        "k": "t",
+        "x": 360,
+        "y": 144,
+        "s": "+",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 468,
+        "y": 135,
+        "r": 19,
+        "color": "#2475CA"
+      },
+      {
+        "k": "t",
+        "x": 468,
+        "y": 144,
+        "s": "−",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 468,
+        "y": 183,
+        "x2": 456,
+        "y2": 183,
+        "color": "#A96519",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 456,
+        "y": 183,
+        "x2": 467.0828187867736,
+        "y2": 176.20506602390142,
+        "color": "#A96519",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 456,
+        "y": 183,
+        "x2": 467.0828187867736,
+        "y2": 189.79493397609858,
+        "color": "#A96519",
+        "w": 4
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 249,
+        "s": "F/4",
+        "size": 29,
+        "color": "#087F75",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 605,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#F2E8FA"
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 52,
+        "s": "3r",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 655,
+        "y": 135,
+        "r": 19,
+        "color": "#D64F61"
+      },
+      {
+        "k": "t",
+        "x": 655,
+        "y": 144,
+        "s": "+",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 826,
+        "y": 135,
+        "r": 19,
+        "color": "#2475CA"
+      },
+      {
+        "k": "t",
+        "x": 826,
+        "y": 144,
+        "s": "−",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 826,
+        "y": 183,
+        "x2": 821,
+        "y2": 183,
+        "color": "#A96519",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 821,
+        "y": 183,
+        "x2": 832.0828187867736,
+        "y2": 176.20506602390142,
+        "color": "#A96519",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 821,
+        "y": 183,
+        "x2": 832.0828187867736,
+        "y2": 189.79493397609858,
+        "color": "#A96519",
+        "w": 4
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 249,
+        "s": "F/9",
+        "size": 29,
+        "color": "#087F75",
+        "bold": true
+      }
+    ],
+    "07": [
+      {
+        "k": "r",
+        "x": 0,
+        "y": 0,
+        "w": 900,
+        "h": 300,
+        "color": "#F7FAFE"
+      },
+      {
+        "k": "r",
+        "x": 15,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#E4F1FE"
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 52,
+        "s": "1 · Convierte",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 105,
+        "s": "2 µC → 2×10⁻⁶ C",
+        "size": 22,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 158,
+        "s": "20 cm → 0,20 m",
+        "size": 21,
+        "color": "#087F75",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 310,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#DDF6EB"
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 52,
+        "s": "2 · Sustituye",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 105,
+        "s": "9×10⁹ · 6×10⁻¹²",
+        "size": 22,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 158,
+        "s": "0,20² = 0,04",
+        "size": 21,
+        "color": "#087F75",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 605,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#F2E8FA"
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 52,
+        "s": "3 · Resultado",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 105,
+        "s": "1,35 N",
+        "size": 22,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 158,
+        "s": "Atracción",
+        "size": 21,
+        "color": "#087F75",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 685,
+        "y": 215,
+        "r": 18,
+        "color": "#D64F61"
+      },
+      {
+        "k": "t",
+        "x": 685,
+        "y": 224,
+        "s": "+",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 805,
+        "y": 215,
+        "r": 18,
+        "color": "#2475CA"
+      },
+      {
+        "k": "t",
+        "x": 805,
+        "y": 224,
+        "s": "−",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 706,
+        "y": 215,
+        "x2": 738,
+        "y2": 215,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 738,
+        "y": 215,
+        "x2": 726.9171812132264,
+        "y2": 221.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 738,
+        "y": 215,
+        "x2": 726.9171812132264,
+        "y2": 208.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 784,
+        "y": 215,
+        "x2": 752,
+        "y2": 215,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 752,
+        "y": 215,
+        "x2": 763.0828187867736,
+        "y2": 208.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 752,
+        "y": 215,
+        "x2": 763.0828187867736,
+        "y2": 221.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      }
+    ],
+    "08": [
+      {
+        "k": "r",
+        "x": 0,
+        "y": 0,
+        "w": 900,
+        "h": 300,
+        "color": "#F7FAFE"
+      },
+      {
+        "k": "c",
+        "x": 225,
+        "y": 145,
+        "r": 27,
+        "color": "#D64F61"
+      },
+      {
+        "k": "t",
+        "x": 225,
+        "y": 154,
+        "s": "+",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 267,
+        "y": 145,
+        "x2": 321,
+        "y2": 145,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 321,
+        "y": 145,
+        "x2": 309.9171812132264,
+        "y2": 151.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 321,
+        "y": 145,
+        "x2": 309.9171812132264,
+        "y2": 138.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 254.698484809835,
+        "y": 174.698484809835,
+        "x2": 292.88225099390854,
+        "y2": 212.88225099390854,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 292.88225099390854,
+        "y": 212.88225099390854,
+        "x2": 280.2407707829051,
+        "y2": 209.85025856733344,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 292.88225099390854,
+        "y": 212.88225099390854,
+        "x2": 289.85025856733347,
+        "y2": 200.24077078290512,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 225,
+        "y": 187,
+        "x2": 225,
+        "y2": 241,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 225,
+        "y": 241,
+        "x2": 218.20506602390142,
+        "y2": 229.91718121322643,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 225,
+        "y": 241,
+        "x2": 231.79493397609858,
+        "y2": 229.91718121322643,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 195.301515190165,
+        "y": 174.698484809835,
+        "x2": 157.11774900609146,
+        "y2": 212.88225099390857,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 157.11774900609146,
+        "y": 212.88225099390857,
+        "x2": 160.14974143266653,
+        "y2": 200.24077078290514,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 157.11774900609146,
+        "y": 212.88225099390857,
+        "x2": 169.75922921709488,
+        "y2": 209.85025856733347,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 183,
+        "y": 145,
+        "x2": 129,
+        "y2": 145,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 129,
+        "y": 145,
+        "x2": 140.08281878677357,
+        "y2": 138.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 129,
+        "y": 145,
+        "x2": 140.08281878677357,
+        "y2": 151.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 195.301515190165,
+        "y": 115.301515190165,
+        "x2": 157.11774900609143,
+        "y2": 77.11774900609144,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 157.11774900609143,
+        "y": 77.11774900609144,
+        "x2": 169.75922921709486,
+        "y2": 80.14974143266654,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 157.11774900609143,
+        "y": 77.11774900609144,
+        "x2": 160.14974143266653,
+        "y2": 89.75922921709487,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 225,
+        "y": 103,
+        "x2": 224.99999999999997,
+        "y2": 49,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 224.99999999999997,
+        "y": 49,
+        "x2": 231.79493397609855,
+        "y2": 60.08281878677357,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 224.99999999999997,
+        "y": 49,
+        "x2": 218.2050660239014,
+        "y2": 60.08281878677358,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 254.69848480983498,
+        "y": 115.30151519016499,
+        "x2": 292.88225099390854,
+        "y2": 77.11774900609143,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 292.88225099390854,
+        "y": 77.11774900609143,
+        "x2": 289.85025856733347,
+        "y2": 89.75922921709486,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 292.88225099390854,
+        "y": 77.11774900609143,
+        "x2": 280.2407707829051,
+        "y2": 80.14974143266652,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "t",
+        "x": 225,
+        "y": 279,
+        "s": "Campo hacia fuera",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      },
+      {
+        "k": "c",
+        "x": 675,
+        "y": 145,
+        "r": 27,
+        "color": "#2475CA"
+      },
+      {
+        "k": "t",
+        "x": 675,
+        "y": 154,
+        "s": "−",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 771,
+        "y": 145,
+        "x2": 717,
+        "y2": 145,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 717,
+        "y": 145,
+        "x2": 728.0828187867736,
+        "y2": 138.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 717,
+        "y": 145,
+        "x2": 728.0828187867736,
+        "y2": 151.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 742.8822509939085,
+        "y": 212.88225099390854,
+        "x2": 704.698484809835,
+        "y2": 174.698484809835,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 704.698484809835,
+        "y": 174.698484809835,
+        "x2": 717.3399650208385,
+        "y2": 177.7304772364101,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 704.698484809835,
+        "y": 174.698484809835,
+        "x2": 707.7304772364101,
+        "y2": 187.33996502083843,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 675,
+        "y": 241,
+        "x2": 675,
+        "y2": 187,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 675,
+        "y": 187,
+        "x2": 681.7949339760986,
+        "y2": 198.08281878677357,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 675,
+        "y": 187,
+        "x2": 668.2050660239014,
+        "y2": 198.08281878677357,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 607.1177490060915,
+        "y": 212.88225099390857,
+        "x2": 645.301515190165,
+        "y2": 174.698484809835,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 645.301515190165,
+        "y": 174.698484809835,
+        "x2": 642.2695227635899,
+        "y2": 187.33996502083843,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 645.301515190165,
+        "y": 174.698484809835,
+        "x2": 632.6600349791615,
+        "y2": 177.7304772364101,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 579,
+        "y": 145,
+        "x2": 633,
+        "y2": 145,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 633,
+        "y": 145,
+        "x2": 621.9171812132264,
+        "y2": 151.79493397609858,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 633,
+        "y": 145,
+        "x2": 621.9171812132264,
+        "y2": 138.20506602390142,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 607.1177490060915,
+        "y": 77.11774900609144,
+        "x2": 645.301515190165,
+        "y2": 115.301515190165,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 645.301515190165,
+        "y": 115.301515190165,
+        "x2": 632.6600349791615,
+        "y2": 112.2695227635899,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 645.301515190165,
+        "y": 115.301515190165,
+        "x2": 642.2695227635899,
+        "y2": 102.66003497916158,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 675,
+        "y": 49,
+        "x2": 675,
+        "y2": 103,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 675,
+        "y": 103,
+        "x2": 668.2050660239014,
+        "y2": 91.91718121322643,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 675,
+        "y": 103,
+        "x2": 681.7949339760986,
+        "y2": 91.91718121322643,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 742.8822509939085,
+        "y": 77.11774900609143,
+        "x2": 704.698484809835,
+        "y2": 115.30151519016499,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 704.698484809835,
+        "y": 115.30151519016499,
+        "x2": 707.7304772364101,
+        "y2": 102.66003497916157,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "l",
+        "x": 704.698484809835,
+        "y": 115.30151519016499,
+        "x2": 717.3399650208385,
+        "y2": 112.26952276358989,
+        "color": "#087F75",
+        "w": 4
+      },
+      {
+        "k": "t",
+        "x": 675,
+        "y": 279,
+        "s": "Campo hacia dentro",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      }
+    ],
+    "09": [
+      {
+        "k": "r",
+        "x": 0,
+        "y": 0,
+        "w": 900,
+        "h": 300,
+        "color": "#F7FAFE"
+      },
+      {
+        "k": "r",
+        "x": 15,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#E4F1FE"
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 52,
+        "s": "Campo E",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 37,
+        "y": 90,
+        "x2": 272,
+        "y2": 90,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 272,
+        "y": 90,
+        "x2": 260.9171812132264,
+        "y2": 96.79493397609858,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 272,
+        "y": 90,
+        "x2": 260.9171812132264,
+        "y2": 83.20506602390142,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 37,
+        "y": 143,
+        "x2": 272,
+        "y2": 143,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 272,
+        "y": 143,
+        "x2": 260.9171812132264,
+        "y2": 149.79493397609858,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 272,
+        "y": 143,
+        "x2": 260.9171812132264,
+        "y2": 136.20506602390142,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 37,
+        "y": 196,
+        "x2": 272,
+        "y2": 196,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 272,
+        "y": 196,
+        "x2": 260.9171812132264,
+        "y2": 202.79493397609858,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 272,
+        "y": 196,
+        "x2": 260.9171812132264,
+        "y2": 189.20506602390142,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "t",
+        "x": 155,
+        "y": 249,
+        "s": "E hacia la derecha",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 310,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#DDF6EB"
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 52,
+        "s": "Prueba positiva",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 332,
+        "y": 90,
+        "x2": 567,
+        "y2": 90,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 567,
+        "y": 90,
+        "x2": 555.9171812132264,
+        "y2": 96.79493397609858,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 567,
+        "y": 90,
+        "x2": 555.9171812132264,
+        "y2": 83.20506602390142,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 332,
+        "y": 143,
+        "x2": 567,
+        "y2": 143,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 567,
+        "y": 143,
+        "x2": 555.9171812132264,
+        "y2": 149.79493397609858,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 567,
+        "y": 143,
+        "x2": 555.9171812132264,
+        "y2": 136.20506602390142,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 332,
+        "y": 196,
+        "x2": 567,
+        "y2": 196,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 567,
+        "y": 196,
+        "x2": 555.9171812132264,
+        "y2": 202.79493397609858,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 567,
+        "y": 196,
+        "x2": 555.9171812132264,
+        "y2": 189.20506602390142,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "c",
+        "x": 450,
+        "y": 143,
+        "r": 28,
+        "color": "#D64F61"
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 152,
+        "s": "+",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 483,
+        "y": 143,
+        "x2": 556,
+        "y2": 143,
+        "color": "#A96519",
+        "w": 5
+      },
+      {
+        "k": "l",
+        "x": 556,
+        "y": 143,
+        "x2": 544.9171812132264,
+        "y2": 149.79493397609858,
+        "color": "#A96519",
+        "w": 5
+      },
+      {
+        "k": "l",
+        "x": 556,
+        "y": 143,
+        "x2": 544.9171812132264,
+        "y2": 136.20506602390142,
+        "color": "#A96519",
+        "w": 5
+      },
+      {
+        "k": "t",
+        "x": 450,
+        "y": 249,
+        "s": "F en el sentido de E",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      },
+      {
+        "k": "r",
+        "x": 605,
+        "y": 22,
+        "w": 280,
+        "h": 256,
+        "color": "#F2E8FA"
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 52,
+        "s": "Prueba negativa",
+        "size": 20,
+        "color": "#172D47",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 627,
+        "y": 90,
+        "x2": 862,
+        "y2": 90,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 862,
+        "y": 90,
+        "x2": 850.9171812132264,
+        "y2": 96.79493397609858,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 862,
+        "y": 90,
+        "x2": 850.9171812132264,
+        "y2": 83.20506602390142,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 627,
+        "y": 143,
+        "x2": 862,
+        "y2": 143,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 862,
+        "y": 143,
+        "x2": 850.9171812132264,
+        "y2": 149.79493397609858,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 862,
+        "y": 143,
+        "x2": 850.9171812132264,
+        "y2": 136.20506602390142,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 627,
+        "y": 196,
+        "x2": 862,
+        "y2": 196,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 862,
+        "y": 196,
+        "x2": 850.9171812132264,
+        "y2": 202.79493397609858,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "l",
+        "x": 862,
+        "y": 196,
+        "x2": 850.9171812132264,
+        "y2": 189.20506602390142,
+        "color": "#52677D",
+        "w": 2
+      },
+      {
+        "k": "c",
+        "x": 745,
+        "y": 143,
+        "r": 28,
+        "color": "#2475CA"
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 152,
+        "s": "−",
+        "size": 27,
+        "color": "#FFFFFF",
+        "bold": true
+      },
+      {
+        "k": "l",
+        "x": 712,
+        "y": 143,
+        "x2": 639,
+        "y2": 143,
+        "color": "#A96519",
+        "w": 5
+      },
+      {
+        "k": "l",
+        "x": 639,
+        "y": 143,
+        "x2": 650.0828187867736,
+        "y2": 136.20506602390142,
+        "color": "#A96519",
+        "w": 5
+      },
+      {
+        "k": "l",
+        "x": 639,
+        "y": 143,
+        "x2": 650.0828187867736,
+        "y2": 149.79493397609858,
+        "color": "#A96519",
+        "w": 5
+      },
+      {
+        "k": "t",
+        "x": 745,
+        "y": 249,
+        "s": "F opuesta a E",
+        "size": 19,
+        "color": "#52677D",
+        "bold": true
+      }
+    ]
+  },
+  "exercises": [
+    [
+      "01",
+      "Vectores",
+      "Dos fuerzas de 7 N derecha y 4 N izquierda. Determina resultante."
+    ],
+    [
+      "02",
+      "Signos",
+      "Dibuja fuerzas de +2 µC y −5 µC. ¿Son iguales en magnitud?"
+    ],
+    [
+      "03",
+      "Conversiones",
+      "Convierte 3 µC, −20 nC y 25 cm a SI."
+    ],
+    [
+      "04",
+      "Coulomb",
+      "Calcula F para +1 µC y +4 µC a 30 cm."
+    ],
+    [
+      "05",
+      "Coulomb",
+      "Calcula F para +2 µC y −3 µC a 20 cm."
+    ],
+    [
+      "06",
+      "Distancia",
+      "Si F=18 N a 10 cm, calcula F a 30 cm."
+    ],
+    [
+      "07",
+      "Proporciones",
+      "Triplica q₁ y duplica r. ¿En qué factor cambia F?"
+    ],
+    [
+      "08",
+      "Campo",
+      "Calcula E a 2 m de una carga fuente +2 µC."
+    ],
+    [
+      "09",
+      "Fuerza de prueba",
+      "E=300 N/C derecha, q=−2 µC. Calcula F y sentido."
+    ],
+    [
+      "10",
+      "Electrón",
+      "E=100 N/C derecha. Calcula fuerza sobre un electrón."
+    ],
+    [
+      "11",
+      "Superposición",
+      "Dos +1 µC separadas 2 m: E en el centro. Repite con la derecha negativa."
+    ],
+    [
+      "12",
+      "Análisis",
+      "¿Puede E ser cero aunque existan cargas? ¿La flecha E es una trayectoria?"
+    ],
+    [
+      "13",
+      "Modelo",
+      "Explica por qué r es separación entre centros y qué limitaciones tiene Coulomb."
+    ],
+    [
+      "14",
+      "Ingeniería",
+      "Relaciona campo eléctrico, protección ESD y semiconductores sin confundir campo con corriente."
+    ]
+  ],
+  "sols": [
+    "3 N derecha.",
+    "Atracción; igual magnitud, sentidos opuestos, actúan sobre cuerpos distintos.",
+    "3×10⁻⁶ C; −2×10⁻⁸ C; 0,25 m.",
+    "0,40 N; repulsión.",
+    "1,35 N; atracción.",
+    "2 N, porque 18/9=2.",
+    "3/4 de F inicial.",
+    "4.500 N/C alejándose de Q (9×10⁹×2×10⁻⁶/4).",
+    "0,0006 N izquierda.",
+    "1,602×10⁻¹⁷ N izquierda.",
+    "0; al invertir derecha, 18.000 N/C derecha.",
+    "Sí, cancelación vectorial; no, E indica fuerza por carga positiva, no trayectoria.",
+    "Carga puntual ideal o aproximación de cuerpos pequeños/lejanos; medio y régimen electrostático importan.",
+    "El campo permite controlar portadores; ESD es un transitorio que puede dañar componentes; corriente es transporte de carga."
+  ],
+  "exam": [
+    [
+      "20",
+      "Representa tres pares de fuerzas para signos iguales y opuestos; explica acción-reacción."
+    ],
+    [
+      "15",
+      "Convierte 3 µC, −5 nC, 15 cm; explica N frente a N/C."
+    ],
+    [
+      "20",
+      "Calcula F de +2 µC y −4 µC a 30 cm. Dibuja sentidos y unidades."
+    ],
+    [
+      "15",
+      "Si duplicas la distancia y triplicas una carga, ¿qué factor cambia F? Justifica."
+    ],
+    [
+      "15",
+      "Calcula E a 1 m de +1 µC y fuerza sobre −2 µC; indica sentidos."
+    ],
+    [
+      "15",
+      "Dos +1 µC a 2 m: E en el centro; luego invierte signo de una y explica el resultado."
+    ]
+  ],
+  "examSol": [
+    "20: 6 por pares, 8 por sentidos y fuerzas en cuerpos distintos, 6 por explicación de magnitudes.",
+    "15: 3×10⁻⁶ C, −5×10⁻⁹ C, 0,15 m (9); N fuerza, N/C campo (6).",
+    "20: 0,8 N, atracción; conversiones 6, procedimiento 6, valor 4, sentidos 4.",
+    "15: F nueva=3F/4; relación con q y r², 10; resultado 5.",
+    "15: E=9.000 N/C hacia afuera (7); F=0,018 N hacia fuente (8).",
+    "15: 0 (5), 18.000 N/C hacia negativa (5), explicación vectorial (5)."
+  ],
+  "lab": [
+    [
+      "Predicción y tabla",
+      "Usa q₁=+2 µC, q₂=−3 µC; calcula antes de simular r=10, 20, 30 cm. Registra predicción, resultado calculado y dirección."
+    ],
+    [
+      "Variación de signo y magnitud",
+      "Mantén r=20 cm; cambia q₂ a +3 µC. Duplica q₁. Explica cuáles cambios afectan sentido y cuáles magnitud."
+    ],
+    [
+      "Mapa de campo",
+      "En PhET añade +1 nC y sensor. Mueve sensor a distancias distintas; repite con −1 nC. Luego coloca dos fuentes iguales y encuentra punto medio. Dibuja flechas."
+    ],
+    [
+      "Informe",
+      "Incluye hipótesis, tabla, tres dibujos, comparación, limitaciones, conclusión. La simulación local usa la misma ecuación y no constituye evidencia experimental independiente. Solo simulación."
+    ]
+  ]
+}

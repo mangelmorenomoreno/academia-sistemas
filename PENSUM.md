@@ -8,7 +8,7 @@
 
 | Módulo | Semanas | Horas base | Contenidos | Proyecto | Estado |
 |---|---:|---:|---|---|---|
-| [1. Electricidad y electrónica básica](modulos/01-electronica-basica/README.md) | 8 | 56 | 24 clases: física eléctrica, energía, voltaje, corriente, resistencia, Ohm, Joule, fuentes, medición, circuitos, Kirchhoff, AC, magnetismo y componentes | Circuito de iluminación de bajo voltaje | En desarrollo: clase 001 con PDF, presentaciones y prácticas |
+| [1. Electricidad y electrónica básica](modulos/01-electronica-basica/README.md) | 8 | 56 | 24 clases: física eléctrica, energía, voltaje, corriente, resistencia, Ohm, Joule, fuentes, medición, circuitos, Kirchhoff, AC, magnetismo y componentes | Circuito de iluminación de bajo voltaje | En desarrollo: clases 001 y 002 con materiales y prácticas|
 | [2. Electrónica analógica](modulos/02-electronica-analogica/README.md) | 8 | 56 | 24 clases: RC/RL/RLC, transformadores, diodos, BJT/MOSFET, amplificadores, filtros, osciladores, fuentes y sensores | Sensor con etapa de acondicionamiento | Planificado |
 | [3. Electrónica digital y avanzada](modulos/03-electronica-digital/README.md) | 8 | 56 | 24 clases: lógica, CMOS, combinacionales, sumadores, multiplexores, biestables, memoria, ALU y procesador elemental | Contador digital | Planificado |
 | [4. Microcontroladores y sistemas embebidos](modulos/04-microcontroladores/README.md) | 4 | 28 | GPIO, C básico, temporizadores, PWM, ADC, interrupciones, UART, I2C, SPI | Semáforo programable | Planificado |

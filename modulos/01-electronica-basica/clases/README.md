@@ -4,12 +4,12 @@
 
 # Electrónica básica · 24 clases
 
-**8 semanas · 56 horas como mínimo.** Cada semana: tres sesiones y una hora de repaso. Clase 001 disponible; las otras fichas son planes de clase, no lecciones completas.
+**8 semanas · 56 horas como mínimo.** Cada semana: tres sesiones y una hora de repaso. Clases 001 y 002 disponibles; las demás son planes de clase.
 
 | Semana | Clase y tema | Pregunta fundamental | Estado |
 |---:|---|---|---|
 | 1 | [001 · Materia, átomos y electrones](001-materia-atomos-electrones/README.md) | ¿Por qué se transfieren electrones y no neutrones en la electrización cotidiana? | Desarrollada |
-| 1 | [002 · Fuerzas eléctricas, campo y ley de Coulomb](002-carga-electricidad-energia/README.md) | ¿Cómo actúan las cargas sin tocarse y por qué importa la distancia? | Planificada |
+| 1 | [002 · Fuerzas eléctricas, campo y ley de Coulomb](002-carga-electricidad-energia/README.md) | ¿Cómo actúan las cargas sin tocarse y por qué importa la distancia? | Desarrollada |
 | 1 | [003 · Energía, trabajo y conservación de la energía](003-energia-trabajo-conservacion/README.md) | ¿De dónde sale la energía de una lámpara y adónde va? | Planificada |
 | 2 | [004 · Energía potencial eléctrica y voltaje](004-energia-potencial-voltaje/README.md) | ¿Por qué una pila tiene voltaje aunque esté desconectada? | Planificada |
 | 2 | [005 · Corriente eléctrica y movimiento de electrones](005-corriente-electrica/README.md) | ¿Por qué una lámpara enciende sin esperar que un electrón recorra todo el cable? | Planificada |

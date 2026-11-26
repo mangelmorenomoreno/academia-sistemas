@@ -23,7 +23,7 @@
 
 Para descargar archivos, usa **Descargar**; si el navegador abre el PDF, utiliza su botón de descarga. Las notas se completan fuera del repositorio público.
 
-[← Índice](README.md) · [Volver al capítulo](../../README.md) · [Siguiente clase 002 (planificada) →](../002-carga-electricidad-energia/README.md)
+[← Índice](README.md) · [Volver al capítulo](../../README.md) · [Siguiente clase 002 →](../002-carga-electricidad-energia/README.md)
 
 
 **Nueva edición ilustrada:** libro PDF con portada y 17 temas; presentación PDF de 51 páginas, una etapa por diapositiva. Los GIF se consultan en el libro web; las páginas impresas muestran imágenes estáticas. El PowerPoint conserva la edición editable anterior de 51 diapositivas.
