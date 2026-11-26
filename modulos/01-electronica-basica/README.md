@@ -10,7 +10,7 @@
 
 ## Comienza aquí
 
-[Índice completo de las 24 clases](clases/README.md) · [Biblioteca digital](../../index.html) · [Evaluación acumulativa](pruebas/README.md)
+[Índice completo de las 24 clases](clases/README.md) · [Biblioteca digital](biblioteca.md) · [Edición web](https://mangelmorenomoreno.github.io/academia-sistemas/) · [Evaluación acumulativa](pruebas/README.md)
 
 **[Clase 001 — Materia, átomos y electrones](clases/001-materia-atomos-electrones/README.md)**
 

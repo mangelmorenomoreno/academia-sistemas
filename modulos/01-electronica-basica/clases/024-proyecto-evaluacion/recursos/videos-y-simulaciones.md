@@ -4,6 +4,10 @@
 - [Física universitaria, OpenStax en español](https://openstax.org/books/f%C3%ADsica-universitaria-volumen-2/pages/indice): consulta el capítulo pertinente a PhET Kit de circuitos y hoja de datos del LED y revisa los ejemplos.
 - [Biblioteca de simulaciones PhET](https://phet.colorado.edu/es/simulations/browse): busca el tema por su nombre.
 
+## Video de apoyo
+
+[Aplicación de las leyes fundamentales — Khan Academy](https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-application-of-the-fundamental-laws-setup?t=75). Relaciona el recurso con la pregunta de la clase; pausa antes de cada resultado, predice y comprueba. Si es repaso, identifica qué concepto previo conecta con la nueva lección. El video es complementario; los procedimientos de seguridad del curso prevalecen y no se deben reproducir montajes con fuentes inadecuadas.
+
 **Actividad audiovisual:** usa la presentación web y la secuencia animada, pausa entre pasos y explica qué cambia. No se alojan videos de terceros.
 
 [← Índice](../README.md)
