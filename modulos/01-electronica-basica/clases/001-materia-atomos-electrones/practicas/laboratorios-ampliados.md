@@ -1,4 +1,12 @@
+<p align="center"><img src="../recursos/portada-clase.svg" alt="Clase 001: Materia, átomos y electrones" width="100%"></p>
+
+[Inicio](../../../../../README.md) · [Capítulo 01](../../../README.md) · [Clase 001](../README.md)
+
 # Laboratorios ampliados
+
+> Laboratorios · [Versión PDF](01-laboratorios.pdf)
+
+---
 
 ## Práctica 1. Modelo de transferencia
 
@@ -11,6 +19,8 @@ Registra para cada etapa: protones representados, electrones representados, carg
 Explica el resultado: las cargas no aparecen ni desaparecen del conjunto. El modelo no representa la geometría microscópica real.
 
 Producto: tabla y dibujo del antes, durante y después. Rúbrica: conteo 30, balance 30, explicación 30, claridad 10.
+
+![Transferencia](../recursos/transferencia-secuencial.svg)
 
 ## Práctica 2. Globo y papel
 
@@ -26,6 +36,8 @@ Análisis: el globo puede transferir electrones con la tela; el papel se polariz
 
 Rúbrica: procedimiento 25, registro 25, explicación 40, seguridad 10.
 
+![Polarización](../recursos/polarizacion.svg)
+
 ## Práctica 3. Simulación y reflexión
 
 Tiempo: 20 min adicionales de trabajo autónomo. Abre la simulación PhET Globos y electricidad estática en español desde el enlace del repositorio.
@@ -39,3 +51,8 @@ Pregunta crítica: ¿por qué la pared atrae al globo aunque conserve neutralida
 Entrega: informe con objetivo, hipótesis, procedimiento, resultados, explicación, limitaciones y conclusión. No incluir información personal en un repositorio público.
 
 Recurso: https://phet.colorado.edu/es/simulations/balloons-and-static-electricity/about
+
+
+---
+
+<sub>ACADEMIA SISTEMAS · [Volver a la lección](../README.md)</sub>

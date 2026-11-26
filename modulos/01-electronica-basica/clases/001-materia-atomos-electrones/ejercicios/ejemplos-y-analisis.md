@@ -1,4 +1,14 @@
+<p align="center"><img src="../recursos/portada-clase.svg" alt="Clase 001: Materia, átomos y electrones" width="100%"></p>
+
+[Inicio](../../../../../README.md) · [Capítulo 01](../../../README.md) · [Clase 001](../README.md)
+
 # Ejemplos y análisis
+
+> Cuaderno de trabajo · [Versión PDF](01-ejemplos-y-analisis.pdf)
+
+---
+
+![Balance de cargas](../recursos/balance-cargas.svg)
 
 ## Ejemplos resueltos paso a paso
 
@@ -32,6 +42,8 @@
 
 8. Da dos ejemplos de conductores, dos de aislantes y un semiconductor; justifica cada elección.
 
+![Transferencia](../recursos/transferencia-secuencial.svg)
+
 ## Ejercicios de análisis y transferencia
 
 9. A y B están neutros. A transfiere 5 electrones a B; después B devuelve 2. Determina las cargas en cada paso y verifica conservación.
@@ -49,3 +61,8 @@
 15. Relaciona transistor, compuerta, procesador y software en cuatro frases propias.
 
 16. Investiga qué significa puesta a tierra en electrostática y explica cómo se conserva la carga si un objeto intercambia electrones con ella. No hagas conexiones reales a la red.
+
+
+---
+
+<sub>ACADEMIA SISTEMAS · [Volver a la lección](../README.md)</sub>

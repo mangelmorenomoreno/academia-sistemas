@@ -1,4 +1,12 @@
+<p align="center"><img src="recursos/portada-clase.svg" alt="Clase 001: Materia, átomos y electrones" width="100%"></p>
+
+[Inicio](../../../../README.md) · [Capítulo 01](../../README.md) · [Clase 001](README.md)
+
 # Evaluación individual — Clase 001
+
+> Evaluación inicial · 10 preguntas
+
+---
 
 15 minutos · 100 puntos · mínimo 80. Cada respuesta correcta vale 10. Sin consultar apuntes.
 
@@ -14,3 +22,8 @@
 10. ¿Qué componente es fundamental en un procesador moderno?
 
 Sustentación adicional: explicar conservación de carga, polarización y relación con el computador. La calificación no sustituye la comprobación de comprensión.
+
+
+---
+
+<sub>ACADEMIA SISTEMAS · [Volver a la lección](README.md)</sub>

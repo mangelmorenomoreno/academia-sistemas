@@ -1,6 +1,36 @@
-# Guía de estudio ampliada
+<p align="center"><img src="../recursos/portada-clase.svg" alt="Clase 001: Materia, átomos y electrones" width="100%"></p>
+
+[Inicio](../../../../../README.md) · [Capítulo 01](../../../README.md) · [Clase 001](../README.md)
+
+# Lectura ilustrada · Materia, átomos y electrones
+
+> Guía de estudio · Ocho secciones · Nivel inicial
+
+---
+
+[Descargar guía en PDF](01-guia-de-estudio.pdf)
+
+## En esta lectura
+
+- 1. Materia y estructura atómica
+- 2. Cómo se determina el signo de la carga
+- 3. Cómo se transfieren las cargas
+- 4. Fuerza eléctrica: atracción y repulsión
+- 5. Frotamiento, contacto e inducción
+- 6. Conductores, aislantes y semiconductores
+- 7. Del movimiento de electrones a la corriente
+- 8. De la física a la ingeniería de sistemas
+
+> [!TIP]
+> Lee una sección, detente y explica lo aprendido. Después dibuja el fenómeno y resuelve los ejemplos.
+
+---
 
 ## 1. Materia y estructura atómica
+
+![Modelo del litio-7: partículas del núcleo y electrones.](../recursos/atomo-litio.svg)
+
+*Figura. Modelo del litio-7: partículas del núcleo y electrones.*
 
 Objetivos: distinguir materia, átomo, elemento, molécula y partículas; calcular el signo de una carga; explicar transferencia, conservación y corriente.
 
@@ -10,25 +40,39 @@ El núcleo contiene protones y, normalmente, neutrones. Los electrones ocupan es
 
 Un protón tiene carga +e; un electrón tiene carga -e; un neutrón tiene carga neta cero. La letra e representa una magnitud positiva: 1,602 176 634 x 10^-19 C (culombios).
 
-Ejemplo: un átomo de litio neutro tiene 3 protones y 3 electrones. El litio-7 tiene además 4 neutrones. Cambiar los electrones modifica la carga, no la identidad química del elemento.
+> [!TIP]
+> **Ejemplo:** un átomo de litio neutro tiene 3 protones y 3 electrones. El litio-7 tiene además 4 neutrones. Cambiar los electrones modifica la carga, no la identidad química del elemento.
 
-Pregunta: ¿qué cambia si el litio pierde un electrón? ¿Qué pasaría si cambiara su número de protones?
+> [!TIP]
+> **Pregunta:** ¿qué cambia si el litio pierde un electrón? ¿Qué pasaría si cambiara su número de protones?
 
 ## 2. Cómo se determina el signo de la carga
+
+![El signo depende del balance de cargas positivas y negativas.](../recursos/balance-cargas.svg)
+
+*Figura. El signo depende del balance de cargas positivas y negativas.*
 
 La carga es una propiedad física, no una sustancia ni sinónimo de energía. Positivo y negativo son signos de una propiedad que determina interacciones eléctricas.
 
 Para un sistema con Np protones y Ne electrones, Q = (Np - Ne)e. Los neutrones no intervienen en este balance. Si Np = Ne, Q = 0; si Np > Ne, Q > 0; si Np < Ne, Q < 0.
 
-Ejemplo A: 4 protones y 4 electrones. Q = (4 - 4)e = 0. El objeto contiene cargas, pero se compensan.
+> [!TIP]
+> **Ejemplo A:** 4 protones y 4 electrones. Q = (4 - 4)e = 0. El objeto contiene cargas, pero se compensan.
 
-Ejemplo B: 4 protones y 3 electrones. Q = (4 - 3)e = +e. Hay déficit de electrones. No se han creado protones.
+> [!TIP]
+> **Ejemplo B:** 4 protones y 3 electrones. Q = (4 - 3)e = +e. Hay déficit de electrones. No se han creado protones.
 
-Ejemplo C: 4 protones y 5 electrones. Q = (4 - 5)e = -e. Hay exceso de electrones. Para un átomo se habla de catión o anión; para un objeto macroscópico, de carga neta.
+> [!TIP]
+> **Ejemplo C:** 4 protones y 5 electrones. Q = (4 - 5)e = -e. Hay exceso de electrones. Para un átomo se habla de catión o anión; para un objeto macroscópico, de carga neta.
 
-Error frecuente: decir que neutro significa que no hay electrones. Significa que la suma de cargas es cero.
+> [!IMPORTANT]
+> **Error frecuente:** decir que neutro significa que no hay electrones. Significa que la suma de cargas es cero.
 
 ## 3. Cómo se transfieren las cargas
+
+![Antes, durante y después: la carga total no cambia.](../recursos/transferencia-secuencial.svg)
+
+*Figura. Antes, durante y después: la carga total no cambia.*
 
 En la electrización ordinaria de sólidos, se desplazan electrones; los protones quedan ligados a los núcleos. No todos los electrones son igualmente móviles. En líquidos o gases también puede haber transporte de iones.
 
@@ -36,11 +80,16 @@ Imagina dos objetos A y B, cada uno con 3 cargas positivas y 3 negativas. Un ele
 
 Antes: Qtotal = 0 + 0 = 0. Después: Qtotal = (+e) + (-e) = 0. La carga total de un sistema aislado se conserva.
 
-Ejemplo numérico: si se transfieren 5 electrones de A a B, A queda con +5e y B con -5e, magnitud 8,0109 x 10^-19 C. El signo indica déficit o exceso, no dirección del movimiento.
+> [!TIP]
+> **Ejemplo numérico:** si se transfieren 5 electrones de A a B, A queda con +5e y B con -5e, magnitud 8,0109 x 10^-19 C. El signo indica déficit o exceso, no dirección del movimiento.
 
 La energía requerida para separar o mover las cargas procede del entorno, por ejemplo del trabajo de frotar dos materiales. La carga y la energía son magnitudes distintas.
 
 ## 4. Fuerza eléctrica: atracción y repulsión
+
+![Cargas iguales se repelen; opuestas se atraen.](../recursos/fuerzas.svg)
+
+*Figura. Cargas iguales se repelen; opuestas se atraen.*
 
 Dos cargas de signos iguales se repelen; dos de signos contrarios se atraen. Un campo eléctrico describe la fuerza por unidad de carga de prueba positiva en un punto.
 
@@ -50,9 +99,14 @@ Si la distancia se duplica manteniendo las cargas, la fuerza es cuatro veces men
 
 Un cuerpo neutro puede atraer o ser atraído por un cuerpo cargado cuando sus cargas se redistribuyen. Neutralidad no significa ausencia de interacción.
 
-Reto: dibuja flechas de fuerza para dos cargas negativas, dos positivas y una de cada signo. Las fuerzas sobre cada carga tienen sentidos opuestos.
+> [!TIP]
+> **Reto:** dibuja flechas de fuerza para dos cargas negativas, dos positivas y una de cada signo. Las fuerzas sobre cada carga tienen sentidos opuestos.
 
 ## 5. Frotamiento, contacto e inducción
+
+![El globo atrae al papel por redistribución.](../recursos/polarizacion.svg)
+
+*Figura. El globo atrae al papel por redistribución.*
 
 Frotamiento: al entrar en contacto y separarse dos materiales, pueden transferirse electrones. Un globo y una tela seca son un ejemplo. El signo adquirido depende de los materiales y las condiciones.
 
@@ -66,6 +120,7 @@ Comparación: frotamiento y contacto pueden transferir carga entre objetos; pola
 
 ## 6. Conductores, aislantes y semiconductores
 
+
 En los metales algunos electrones se encuentran en estados que permiten transportar carga. El cobre se usa por su buena conductividad y facilidad de fabricación. Los iones de la red no recorren el cable.
 
 En un aislante, los electrones no se desplazan libremente a través del material en condiciones normales. Plástico, vidrio y cerámica son ejemplos. El plástico de un cable reduce el riesgo de contacto y de cortocircuito.
@@ -77,6 +132,10 @@ La conductividad no es lo mismo que carga neta: un cable de cobre neutro puede c
 Caso: ¿por qué un cable tiene metal interno y aislamiento externo? ¿Qué pasa si se deteriora la cubierta? No manipules cables conectados a la red.
 
 ## 7. Del movimiento de electrones a la corriente
+
+![Sentidos de corriente convencional y deriva electrónica.](../recursos/corriente.svg)
+
+*Figura. Sentidos de corriente convencional y deriva electrónica.*
 
 Sin campo eléctrico aplicado, en un metal hay movimiento microscópico pero no deriva neta. Al establecer un campo, aparece una deriva promedio de los electrones opuesta al campo.
 
@@ -90,14 +149,32 @@ La señal eléctrica se propaga mucho más rápido que la deriva de cada electr�
 
 ## 8. De la física a la ingeniería de sistemas
 
+```mermaid
+flowchart LR
+ A[Cargas] --> B[Señales]
+ B --> C[Transistores]
+ C --> D[Compuertas]
+ D --> E[CPU]
+ E --> F[Instrucciones]
+ F --> G[Software]
+```
+
+
 Los procesadores y memorias se construyen con circuitos de transistores semiconductores. Un transistor puede controlar corriente mediante una señal. Combinando transistores se construyen compuertas lógicas.
 
 Los circuitos digitales representan información mediante rangos de señales, por ejemplo niveles que interpretamos como 0 y 1. No significa que un bit sea un electrón individual.
 
 Una ALU combina señales para realizar operaciones aritméticas y lógicas; memoria y registros almacenan estados. Las instrucciones de máquina controlan operaciones. Un lenguaje de alto nivel expresa algoritmos que pueden traducirse o interpretarse.
 
-Ejemplo: resultado = 5 + 3. El lenguaje expresa una operación; el entorno de ejecución y procesador realizan instrucciones. La realización física depende de circuitos digitales.
+> [!TIP]
+> **Ejemplo:** resultado = 5 + 3. El lenguaje expresa una operación; el entorno de ejecución y procesador realizan instrucciones. La realización física depende de circuitos digitales.
 
-Autoevaluación: explica en orden átomo, electrón, señal, transistor, compuerta, CPU y software. Identifica qué temas todavía no puedes explicar y anótalos.
+> [!TIP]
+> **Autoevaluación:** explica en orden átomo, electrón, señal, transistor, compuerta, CPU y software. Identifica qué temas todavía no puedes explicar y anótalos.
 
 Lecturas y recursos recomendados: Khan Academy (conservación de la carga); PhET (globos y electricidad estática); ANEP Uruguay (formas de electrizar un cuerpo). En el repositorio están los enlaces y preguntas guiadas.
+
+
+---
+
+<sub>ACADEMIA SISTEMAS · [Volver a la lección](../README.md)</sub>

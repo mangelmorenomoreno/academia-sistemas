@@ -1,11 +1,37 @@
-# Videos, simulaciones y lectura complementaria
+<p align="center"><img src="../recursos/portada-clase.svg" alt="Clase 001: Materia, átomos y electrones" width="100%"></p>
 
-Ver en orden. No basta reproducir un video: pausar, predecir, dibujar y contestar las preguntas. Los videos son externos, no copias alojadas en GitHub.
+[Inicio](../../../../../README.md) · [Capítulo 01](../../../README.md) · [Clase 001](../README.md)
 
-1. [Formas de electrizar un cuerpo — ANEP Uruguay](https://uruguayeduca.anep.edu.uy/sites/default/files/exelearning/06-2026/15503/formas_de_electrizar_un_cuerpo.html). Video y transcripción. Antes de ver: predice qué pasa al frotar un globo. Después: distingue contacto, frotamiento e inducción.
-2. [Conservación de la carga — Khan Academy](https://es.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage/charge-electric-force/v/conservation-of-charge). Pausa tras cada ejemplo, realiza el balance de carga y verifica la suma. Pregunta: ¿por qué debe incluirse el sistema completo?
-3. [Carga eléctrica: formas para electrizar un cuerpo — Educatina](https://www.youtube.com/watch?v=kD3eJoY-MZw). Haz una tabla comparando mecanismos, transferencia y signo.
-4. [Globos y electricidad estática — PhET, Universidad de Colorado](https://phet.colorado.edu/es/simulations/balloons-and-static-electricity/about). Activa todas las cargas; frota, acerca a la pared y compara dos globos. Realiza la práctica 3 de la guía.
-5. [Serie de actividades para electrostática — PhET](https://phet.colorado.edu/es_ES/activities/5583). Material complementario para el docente.
+# Videos y simulaciones
 
-Fuentes externas verificadas por sus páginas públicas; disponibilidad y reproducción pueden variar. No realizar experimentos con la red eléctrica.
+> Recursos externos en español · Videos y simulación con preguntas guiadas
+
+---
+
+## Biblioteca audiovisual
+
+| Recurso | Qué observar | Actividad posterior |
+|---|---|---|
+| 🎬 [Formas de electrizar un cuerpo — ANEP Uruguay](https://uruguayeduca.anep.edu.uy/sites/default/files/exelearning/06-2026/15503/formas_de_electrizar_un_cuerpo.html) | Frotamiento, contacto e inducción | Dibujar cada mecanismo y explicar si hay transferencia. |
+| 🎬 [Conservación de la carga — Khan Academy](https://es.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage/charge-electric-force/v/conservation-of-charge) | Balance de un sistema cerrado | Resolver un ejemplo sin mirar el resultado. |
+| 🎬 [Efecto triboeléctrico y carga — Khan Academy](https://es.khanacademy.org/science/copiloto-fisica/copiloto2-electrosttica/v/triboelectric-effect-and-charge) | Interacción de materiales | Explicar por qué frotar no crea electrones. |
+| 🧪 [Globos y electricidad estática — PhET](https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_es.html) | Cargas del globo, jersey y pared | Ejecutar la práctica guiada 3. |
+| 📚 [Actividades de electrostática — PhET](https://phet.colorado.edu/es_ES/activities/5583) | Material complementario | Elegir una pregunta de análisis adicional. |
+
+![Polarización del papel](polarizacion.svg)
+
+> [!TIP]
+> Pausa el video antes de la demostración y predice qué esperas observar. Después compara tu predicción con el resultado.
+
+## Orden sugerido
+
+1. Mira el primer video antes del laboratorio de globo.
+2. Estudia el balance de carga y ve el segundo video.
+3. Usa la simulación y responde la guía de práctica.
+4. Consulta el tercer video para reforzar la electrización.
+
+Enlaces localizados en páginas públicas. No se garantiza la reproducción futura y no se alojan copias de videos de terceros.
+
+---
+
+<sub>ACADEMIA SISTEMAS · [Volver a la lección](../README.md)</sub>

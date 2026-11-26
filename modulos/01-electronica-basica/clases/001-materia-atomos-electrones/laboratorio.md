@@ -1,4 +1,12 @@
+<p align="center"><img src="recursos/portada-clase.svg" alt="Clase 001: Materia, átomos y electrones" width="100%"></p>
+
+[Inicio](../../../../README.md) · [Capítulo 01](../../README.md) · [Clase 001](README.md)
+
 # Laboratorio 001 — Electricidad estática
+
+> Práctica inicial · Electricidad estática
+
+---
 
 20 minutos. Materiales: globo, tela seca, papel cortado, cuaderno. Mantener lejos de componentes electrónicos, líquidos inflamables y red eléctrica.
 
@@ -18,3 +26,8 @@
 Preguntas: ¿el papel necesitó tocar el globo? ¿Sigue neutro? ¿Cómo afecta la humedad? ¿Qué evidencia apoya tu hipótesis?
 
 Evaluación: procedimiento 25, registro 25, explicación 40, seguridad 10 puntos.
+
+
+---
+
+<sub>ACADEMIA SISTEMAS · [Volver a la lección](README.md)</sub>

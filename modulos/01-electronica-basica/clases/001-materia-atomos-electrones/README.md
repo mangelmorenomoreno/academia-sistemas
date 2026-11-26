@@ -1,28 +1,52 @@
-# Clase 001 — Materia, átomos y electrones
+<p align="center"><img src="recursos/portada-clase.svg" alt="Clase 001: Materia, átomos y electrones" width="100%"></p>
 
-Nivel inicial adulto. Clase ampliada de 150 minutos y trabajo autónomo adicional. Material progresivo desde el átomo hasta el software.
+[Inicio](../../../../README.md) · [Capítulo 01](../../README.md) · [Clase 001](README.md)
 
-| Material | Archivo |
-|---|---|
-| Presentación editable (adaptación de 27 diapositivas) | [PPTX](presentaciones/01-presentacion.pptx) |
-| Presentación para lectura | [PDF](presentaciones/01-presentacion.pdf) |
-| Presentación web | [HTML](presentacion.html) |
-| Guía de estudio de 8 capítulos | [PDF](lecturas/01-guia-de-estudio.pdf) / [Markdown](lecturas/guia-ampliada.md) |
-| Teoría original | [Teoría](teoria.md) |
-| Ejemplos resueltos y ejercicios de análisis | [PDF](ejercicios/01-ejemplos-y-analisis.pdf) / [Ejercicios iniciales](ejercicios.md) |
-| Tres prácticas con rúbricas | [PDF](practicas/01-laboratorios.pdf) / [Laboratorio inicial](laboratorio.md) |
-| Evaluación avanzada (100 puntos) | [PDF](pruebas/01-evaluacion-avanzada.pdf) |
-| Evaluación inicial | [Markdown](evaluacion.md) |
-| Solucionario ampliado y rúbrica | [PDF](soluciones/01-solucionario-ampliado.pdf) |
-| Solucionario inicial | [Markdown](soluciones/README.md) |
-| Guía docente de 150 min | [Markdown](guia-docente.md) |
-| Videos, simulaciones y preguntas | [Recursos](recursos/videos-y-simulaciones.md) |
+# Lección 001 · Materia, átomos y electrones
 
-## Ruta del estudiante
-1. Lee los capítulos 1–3 antes de la clase; anota dudas.
-2. Trabaja la presentación con el docente y lee los capítulos 4–8.
-3. Resuelve ejemplos y ejercicios sin mirar las soluciones.
-4. Ejecuta prácticas 1 y 2; práctica 3 como refuerzo autónomo.
-5. Presenta la evaluación y sustenta las respuestas. El examen ampliado dura 40 minutos y puede hacerse fuera de la sesión de 150 minutos.
+> 150 minutos de clase y trabajo autónomo · Sin conocimientos previos
 
-El PPTX y PDF de presentación son una adaptación independiente del material web de 27 diapositivas; no son copia binaria del PowerPoint original de la conversación. Los diagramas son modelos didácticos. Los solucionarios son públicos; las notas personales se guardan fuera del repositorio.
+---
+
+## Antes de comenzar
+
+¿De qué está hecho un cable? ¿Por qué una batería tiene dos terminales? ¿Cómo puede el movimiento de cargas terminar ejecutando un programa?
+
+![Modelo del átomo](recursos/atomo-litio.svg)
+
+> [!IMPORTANT]
+> Un objeto positivo suele haber perdido electrones, no ganado protones. Un objeto negativo tiene exceso de electrones. Comprender este balance es la base de la lección.
+
+![Transferencia de electrones](recursos/transferencia-secuencial.svg)
+
+## Tu ruta de estudio
+
+| Paso | Material | Abre o descarga |
+|---|---|---|
+| 01 | 📖 Lectura ilustrada de ocho secciones | [Leer en GitHub](lecturas/guia-ampliada.md) · [PDF](lecturas/01-guia-de-estudio.pdf) |
+| 02 | 🖥️ Presentación de 27 diapositivas | [PPTX](presentaciones/01-presentacion.pptx) · [PDF](presentaciones/01-presentacion.pdf) · [HTML](presentacion.html) |
+| 03 | ✏️ Seis ejemplos resueltos y 16 ejercicios | [Leer](ejercicios/ejemplos-y-analisis.md) · [PDF](ejercicios/01-ejemplos-y-analisis.pdf) |
+| 04 | 🧪 Tres prácticas con rúbrica | [Leer](practicas/laboratorios-ampliados.md) · [PDF](practicas/01-laboratorios.pdf) |
+| 05 | 🎬 Videos y simulaciones | [Biblioteca de recursos](recursos/videos-y-simulaciones.md) |
+| 06 | 📝 Evaluación avanzada de 100 puntos | [Leer](pruebas/evaluacion-avanzada.md) · [PDF](pruebas/01-evaluacion-avanzada.pdf) |
+
+## Material complementario y docente
+
+[Teoría inicial](teoria.md) · [Guía docente](guia-docente.md) · [Ejercicios iniciales](ejercicios.md) · [Laboratorio inicial](laboratorio.md) · [Evaluación inicial](evaluacion.md)
+
+<details><summary>🔑 Soluciones y rúbrica (abrir después de responder)</summary>
+
+- [Solucionario ampliado en PDF](soluciones/01-solucionario-ampliado.pdf)
+- [Solucionario explicado](soluciones/solucionario-ampliado.md)
+- [Respuestas iniciales](soluciones/README.md)
+
+</details>
+
+> [!NOTE]
+> El PPTX publicado es una adaptación independiente de la presentación web, no una copia binaria del PowerPoint original de la conversación. Los diagramas son esquemáticos. Los solucionarios son públicos; no guardes calificaciones personales aquí.
+
+## Al finalizar
+
+Puedes avanzar si explicas con tus propias palabras las partículas del átomo, calculas el signo de una carga, justificas la conservación y distingues transferencia de polarización. La meta de evaluación propuesta es 80/100. Si quedan dudas, repite los ejercicios y la práctica.
+
+[← Índice de clases](../README.md) · Próxima lección: carga eléctrica, electricidad y energía (planificada)

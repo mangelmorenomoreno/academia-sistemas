@@ -1,4 +1,12 @@
+<p align="center"><img src="recursos/portada-clase.svg" alt="Clase 001: Materia, átomos y electrones" width="100%"></p>
+
+[Inicio](../../../../README.md) · [Capítulo 01](../../README.md) · [Clase 001](README.md)
+
 # Teoría — Materia, átomos, cargas y electrones
+
+> Lectura inicial · Consulta la guía ampliada para profundizar
+
+---
 
 ## Materia y estructura atómica
 La materia ordinaria tiene masa y ocupa espacio. Está formada por átomos que pueden constituir moléculas o redes, como ocurre en los metales. Un átomo es la unidad de un elemento que conserva su identidad química. El núcleo contiene protones (+) y normalmente neutrones (0); los electrones (−) se describen por orbitales y distribuciones de probabilidad alrededor del núcleo, no como planetas en órbitas fijas.
@@ -37,3 +45,8 @@ Cargas y señales → transistores → compuertas lógicas → circuitos digital
 
 ## Repaso
 Explica por qué perder electrones vuelve positivo un objeto, de dónde salen los electrones ganados, y cómo un objeto neutro puede ser atraído sin recibir electrones.
+
+
+---
+
+<sub>ACADEMIA SISTEMAS · [Volver a la lección](README.md)</sub>

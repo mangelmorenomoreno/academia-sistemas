@@ -1,4 +1,12 @@
+<p align="center"><img src="../recursos/portada-clase.svg" alt="Clase 001: Materia, átomos y electrones" width="100%"></p>
+
+[Inicio](../../../../../README.md) · [Capítulo 01](../../../README.md) · [Clase 001](../README.md)
+
 # Evaluación avanzada
+
+> Cuestionario individual · [Versión PDF](01-evaluacion-avanzada.pdf)
+
+---
 
 ## Evaluación individual - parte A (40 puntos)
 
@@ -29,3 +37,8 @@ Espacio de trabajo: responder en hojas aparte y presentar cálculos con unidades
 10. (10 puntos) Explica la relación entre electrones, transistores, compuertas lógicas, CPU y software.
 
 Sustentación: explica sin leer por qué carga negativa significa exceso de electrones y no pérdida de protones. El docente debe reforzar cualquier error fundamental aunque se alcance la nota mínima.
+
+
+---
+
+<sub>ACADEMIA SISTEMAS · [Volver a la lección](../README.md)</sub>

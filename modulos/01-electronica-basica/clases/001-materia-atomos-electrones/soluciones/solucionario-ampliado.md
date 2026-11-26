@@ -1,4 +1,12 @@
+<p align="center"><img src="../recursos/portada-clase.svg" alt="Clase 001: Materia, átomos y electrones" width="100%"></p>
+
+[Inicio](../../../../../README.md) · [Capítulo 01](../../../README.md) · [Clase 001](../README.md)
+
 # Solucionario ampliado
+
+> Uso docente · [Versión PDF](01-solucionario-ampliado.pdf)
+
+---
 
 ## Soluciones razonadas - ejercicios
 
@@ -17,3 +25,8 @@
 Si hay error de signo, conservación o confusión entre polarización y transferencia, hacer una actividad de refuerzo y reevaluar. No guardar resultados individuales en el repositorio público.
 
 Para las prácticas: valorar hipótesis, control de variables, observaciones honestas, distinción entre evidencia e interpretación, y seguridad.
+
+
+---
+
+<sub>ACADEMIA SISTEMAS · [Volver a la lección](../README.md)</sub>

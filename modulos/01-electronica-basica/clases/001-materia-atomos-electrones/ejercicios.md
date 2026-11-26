@@ -1,4 +1,12 @@
+<p align="center"><img src="recursos/portada-clase.svg" alt="Clase 001: Materia, átomos y electrones" width="100%"></p>
+
+[Inicio](../../../../README.md) · [Capítulo 01](../../README.md) · [Clase 001](README.md)
+
 # Ejercicios
+
+> Ejercicios iniciales · Resuelve antes de mirar las soluciones
+
+---
 
 Resolver y justificar sin mirar las soluciones.
 
@@ -14,3 +22,8 @@ Resolver y justificar sin mirar las soluciones.
 10. ¿Por qué un papel neutro puede ser atraído por un globo negativo?
 11. Dibuja el sentido de corriente convencional y deriva electrónica en un circuito metálico externo.
 12. Dos esferas conductoras idénticas aisladas tienen −4e y 0. ¿Qué carga idealizada queda en cada una tras contacto?
+
+
+---
+
+<sub>ACADEMIA SISTEMAS · [Volver a la lección](README.md)</sub>
