@@ -1,37 +1,31 @@
-[![Capítulo 01](../../../../recursos/editorial/modulo-01.svg)](../../README.md)
+![Portada de la clase](recursos/portada.svg)
 
-[← Clase 008](../008-potencia-efecto-joule/README.md) · [Índice del capítulo](../README.md) · [Clase 010 →](../010-circuitos-abiertos-cerrados/README.md)
+[← Clase 008](../008-potencia-efecto-joule/README.md) · [Índice](../README.md) · [Clase 010 →](../010-circuitos-abiertos-cerrados/README.md)
 
 # Clase 009 · Fuentes de energía: baterías y generadores
 
-> [!NOTE]
-> **Planificada — ficha curricular, no material completo.** Semana 3; duración inicial 2 h, ampliable por dominio. La lectura visual, PDF, presentación, GIF cuando proceda, ejercicios completos, prueba y solucionario están pendientes.
+**6 temas desarrollados · 120–180 min orientativos, ampliables por dominio.**
 
-## Pregunta que debe poder responder
+> ¿Por qué cae la tensión de una pila al suministrar corriente?
 
-¿Por qué cae la tensión de una pila al suministrar corriente?
+[▶ Comenzar a leer](libro/01.md) · [Libro web](https://mangelmorenomoreno.github.io/academia-sistemas/modulos/01-electronica-basica/clases/009-fuentes-energia/libro.html) · [Descargas](descargas.md)
 
-## Prerrequisitos
+![Ilustración inicial](recursos/ilustraciones/01.svg)
 
-[Clase 008](../008-potencia-efecto-joule/README.md) y conceptos anteriores pertinentes. Revisar unidades, notación científica, despejes, vectores o gráficas antes de utilizarlos.
+| Página | Tema |
+|---|---|
+| 01 | [Qué hace una fuente](libro/01.md) |
+| 02 | [Fuente ideal y resistencia interna](libro/02.md) |
+| 03 | [Capacidad en Ah y energía en Wh](libro/03.md) |
+| 04 | [Conexiones de fuentes](libro/04.md) |
+| 05 | [Generador y regulación](libro/05.md) |
+| 06 | [Seguridad de fuentes](libro/06.md) |
 
-## Fundamentos a desarrollar
+## Material de estudio
 
-- Energía química y separación de carga, fuerza electromotriz, resistencia interna, capacidad Ah, Wh, introducción al generador.
-
-## Práctica prevista
-
-Simular fuente ideal y real; medición bajo carga después de clase 013.
-
-## Criterio de dominio
-
-Distinguir capacidad, energía, tensión y corriente.
+[Lectura completa](lecturas/guia-ampliada.md) · [Presentación web](https://mangelmorenomoreno.github.io/academia-sistemas/modulos/01-electronica-basica/clases/009-fuentes-energia/presentacion.html) · [Ejercicios](ejercicios/README.md) · [Práctica](practicas/README.md) · [Evaluación](pruebas/README.md) · [Soluciones](soluciones/README.md) · [Guía docente](guia-docente.md) · [Recursos](recursos/videos-y-simulaciones.md)
 
 > [!CAUTION]
-> Solo simulación o demostración supervisada hasta dominar el multímetro en la clase 013. No trabajar con la red doméstica ni provocar cortocircuitos reales.
+> Antes de la clase 013, utiliza simulación y materiales desconectados. Nunca trabajar con la red doméstica, provocar cortos ni utilizar componentes dañados.
 
-## Diseño de la futura lección
-
-Concepto → mecanismo → representación → fórmula y unidades → ejemplo resuelto → contraejemplo → práctica → prueba → relación con ingeniería. Incluir ilustraciones originales y pasos de un proceso, con animación cuando aporte valor.
-
-[← Clase 008](../008-potencia-efecto-joule/README.md) · [Índice del capítulo](../README.md) · [Clase 010 →](../010-circuitos-abiertos-cerrados/README.md)
+[← Clase 008](../008-potencia-efecto-joule/README.md) · [Índice](../README.md) · [Clase 010 →](../010-circuitos-abiertos-cerrados/README.md)

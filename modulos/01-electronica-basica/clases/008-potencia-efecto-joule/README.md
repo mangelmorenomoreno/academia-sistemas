@@ -1,37 +1,31 @@
-[![Capítulo 01](../../../../recursos/editorial/modulo-01.svg)](../../README.md)
+![Portada de la clase](recursos/portada.svg)
 
-[← Clase 007](../007-ley-ohm/README.md) · [Índice del capítulo](../README.md) · [Clase 009 →](../009-fuentes-energia/README.md)
+[← Clase 007](../007-ley-ohm/README.md) · [Índice](../README.md) · [Clase 009 →](../009-fuentes-energia/README.md)
 
 # Clase 008 · Potencia eléctrica y efecto Joule
 
-> [!NOTE]
-> **Planificada — ficha curricular, no material completo.** Semana 3; duración inicial 2 h, ampliable por dominio. La lectura visual, PDF, presentación, GIF cuando proceda, ejercicios completos, prueba y solucionario están pendientes.
+**6 temas desarrollados · 120–180 min orientativos, ampliables por dominio.**
 
-## Pregunta que debe poder responder
+> ¿Por qué se calienta un resistor y de dónde viene ese calor?
 
-¿Por qué se calienta un resistor y de dónde viene ese calor?
+[▶ Comenzar a leer](libro/01.md) · [Libro web](https://mangelmorenomoreno.github.io/academia-sistemas/modulos/01-electronica-basica/clases/008-potencia-efecto-joule/libro.html) · [Descargas](descargas.md)
 
-## Prerrequisitos
+![Ilustración inicial](recursos/ilustraciones/01.svg)
 
-[Clase 007](../007-ley-ohm/README.md) y conceptos anteriores pertinentes. Revisar unidades, notación científica, despejes, vectores o gráficas antes de utilizarlos.
+| Página | Tema |
+|---|---|
+| 01 | [Potencia: rapidez de transferencia](libro/01.md) |
+| 02 | [Potencia eléctrica](libro/02.md) |
+| 03 | [Efecto Joule](libro/03.md) |
+| 04 | [No confundir qué se mantiene fijo](libro/04.md) |
+| 05 | [Potencia nominal y margen](libro/05.md) |
+| 06 | [Energía y consumo en sistemas](libro/06.md) |
 
-## Fundamentos a desarrollar
+## Material de estudio
 
-- P=VI, E=Pt si P constante, P=I²R, V²/R en resistor óhmico, W, Wh, calor, eficiencia y potencia nominal.
-
-## Práctica prevista
-
-Comparar simulación de 220 Ω y 1 kΩ a 3 V; calcular antes de energizar.
-
-## Criterio de dominio
-
-Seleccionar potencia nominal con margen; explicar conservación energética.
+[Lectura completa](lecturas/guia-ampliada.md) · [Presentación web](https://mangelmorenomoreno.github.io/academia-sistemas/modulos/01-electronica-basica/clases/008-potencia-efecto-joule/presentacion.html) · [Ejercicios](ejercicios/README.md) · [Práctica](practicas/README.md) · [Evaluación](pruebas/README.md) · [Soluciones](soluciones/README.md) · [Guía docente](guia-docente.md) · [Recursos](recursos/videos-y-simulaciones.md)
 
 > [!CAUTION]
-> Solo simulación o demostración supervisada hasta dominar el multímetro en la clase 013. No trabajar con la red doméstica ni provocar cortocircuitos reales.
+> Antes de la clase 013, utiliza simulación y materiales desconectados. Nunca trabajar con la red doméstica, provocar cortos ni utilizar componentes dañados.
 
-## Diseño de la futura lección
-
-Concepto → mecanismo → representación → fórmula y unidades → ejemplo resuelto → contraejemplo → práctica → prueba → relación con ingeniería. Incluir ilustraciones originales y pasos de un proceso, con animación cuando aporte valor.
-
-[← Clase 007](../007-ley-ohm/README.md) · [Índice del capítulo](../README.md) · [Clase 009 →](../009-fuentes-energia/README.md)
+[← Clase 007](../007-ley-ohm/README.md) · [Índice](../README.md) · [Clase 009 →](../009-fuentes-energia/README.md)
