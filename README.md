@@ -27,6 +27,12 @@ Antes de escribir código hay que comprender qué es la información, cómo se r
 | 🎬 Recursos | Videos y simulaciones con actividades guiadas. |
 | 🔑 Solucionarios | Revisar errores después de resolver. |
 
+## Leer como un libro
+
+[▶ Abrir primera página](modulos/01-electronica-basica/clases/001-materia-atomos-electrones/libro/01.md) · [Índice de la clase](modulos/01-electronica-basica/clases/001-materia-atomos-electrones/README.md) · [Biblioteca y descargas](modulos/01-electronica-basica/clases/001-materia-atomos-electrones/descargas.md)
+
+También puedes [descargar la edición interactiva HTML](https://raw.githubusercontent.com/mangelmorenomoreno/academia-sistemas/main/modulos/01-electronica-basica/clases/001-materia-atomos-electrones/libro.html) y abrirla en el navegador para navegar con botones o las flechas del teclado.
+
 ## Primera lectura disponible
 
 [![Capítulo 01: electrónica básica](recursos/editorial/modulo-01.svg)](modulos/01-electronica-basica/README.md)

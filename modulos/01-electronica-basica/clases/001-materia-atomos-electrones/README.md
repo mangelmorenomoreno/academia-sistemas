@@ -1,52 +1,45 @@
-<p align="center"><img src="recursos/portada-clase.svg" alt="Clase 001: Materia, átomos y electrones" width="100%"></p>
+![Portada de la clase](recursos/portada-clase.svg)
 
-[Inicio](../../../../README.md) · [Capítulo 01](../../README.md) · [Clase 001](README.md)
+[Inicio](../../../../README.md) · [Capítulo 01](../../README.md) · [Descargas](descargas.md)
 
 # Lección 001 · Materia, átomos y electrones
 
-> 150 minutos de clase y trabajo autónomo · Sin conocimientos previos
+**Libro visual · 17 páginas navegables · desde los fundamentos.**
 
----
+[▶ Comenzar a leer →](libro/01.md) · [📚 Descargar libro PDF](https://raw.githubusercontent.com/mangelmorenomoreno/academia-sistemas/main/modulos/01-electronica-basica/clases/001-materia-atomos-electrones/lecturas/01-guia-de-estudio.pdf) · [🖥 Descargar libro interactivo HTML](https://raw.githubusercontent.com/mangelmorenomoreno/academia-sistemas/main/modulos/01-electronica-basica/clases/001-materia-atomos-electrones/libro.html)
 
-## Antes de comenzar
+![Por qué se transfiere un electrón](recursos/ilustraciones/03-binding.svg)
 
-¿De qué está hecho un cable? ¿Por qué una batería tiene dos terminales? ¿Cómo puede el movimiento de cargas terminar ejecutando un programa?
+> [!TIP]
+> Avanza con **Siguiente** al pie de cada página. Regresa con **Anterior**. Las imágenes muestran cada etapa, las animaciones muestran el cambio y los ejemplos explican el porqué. Para la versión interactiva, guarda el HTML y ábrelo en el navegador.
 
-![Modelo del átomo](recursos/atomo-litio.svg)
+## Índice de lectura
 
-> [!IMPORTANT]
-> Un objeto positivo suele haber perdido electrones, no ganado protones. Un objeto negativo tiene exceso de electrones. Comprender este balance es la base de la lección.
-
-![Transferencia de electrones](recursos/transferencia-secuencial.svg)
-
-## Tu ruta de estudio
-
-| Paso | Material | Abre o descarga |
+| Página | Tema | Pregunta |
 |---|---|---|
-| 01 | 📖 Lectura ilustrada de ocho secciones | [Leer en GitHub](lecturas/guia-ampliada.md) · [PDF](lecturas/01-guia-de-estudio.pdf) |
-| 02 | 🖥️ Presentación de 27 diapositivas | [PPTX](presentaciones/01-presentacion.pptx) · [PDF](presentaciones/01-presentacion.pdf) · [HTML](presentacion.html) |
-| 03 | ✏️ Seis ejemplos resueltos y 16 ejercicios | [Leer](ejercicios/ejemplos-y-analisis.md) · [PDF](ejercicios/01-ejemplos-y-analisis.pdf) |
-| 04 | 🧪 Tres prácticas con rúbrica | [Leer](practicas/laboratorios-ampliados.md) · [PDF](practicas/01-laboratorios.pdf) |
-| 05 | 🎬 Videos y simulaciones | [Biblioteca de recursos](recursos/videos-y-simulaciones.md) |
-| 06 | 📝 Evaluación avanzada de 100 puntos | [Leer](pruebas/evaluacion-avanzada.md) · [PDF](pruebas/01-evaluacion-avanzada.pdf) |
+| 01 | [De un cable al átomo](libro/01.md) | ¿De qué está hecha la tecnología? |
+| 02 | [Dentro del átomo](libro/02.md) | ¿Dónde están las partículas? |
+| 03 | [¿Qué mantiene unido al electrón?](libro/03.md) | La atracción eléctrica y la energía de enlace |
+| 04 | [¿Por qué no se mueve un protón o un neutrón?](libro/04.md) | La diferencia entre procesos electrónicos y nucleares |
+| 05 | [Carga neutra, positiva y negativa](libro/05.md) | Contar antes de memorizar |
+| 06 | [Transferencia y conservación](libro/06.md) | Sigue el electrón desde el origen al destino |
+| 07 | [Atracción y repulsión](libro/07.md) | ¿Por qué las cargas ejercen fuerzas? |
+| 08 | [Electrización por frotamiento](libro/08.md) | ¿Qué hace realmente la fricción? |
+| 09 | [Electrización por contacto](libro/09.md) | ¿Por qué se redistribuye la carga? |
+| 10 | [Polarización: atraer sin tocar](libro/10.md) | ¿Por qué un globo atrae papel neutro? |
+| 11 | [Inducción con conexión a tierra](libro/11.md) | Cargar un conductor sin tocarlo con el inductor |
+| 12 | [Conductores, aislantes y semiconductores](libro/12.md) | No es lo mismo tener carga que poder transportarla |
+| 13 | [Corriente eléctrica y batería](libro/13.md) | De la carga estática al transporte sostenido |
+| 14 | [Del electrón al software](libro/14.md) | Cómo se conectan las piezas de la ingeniería |
+| 15 | [Laboratorio guiado: globo y fichas](libro/15.md) | Comprobar, no solo observar |
+| 16 | [Ejercicios: razonar paso a paso](libro/16.md) | Aplica los conceptos antes del examen |
+| 17 | [Evaluación y sustentación](libro/17.md) | Demuestra que puedes explicar el porqué |
 
-## Material complementario y docente
+## Biblioteca de estudio
 
-[Teoría inicial](teoria.md) · [Guía docente](guia-docente.md) · [Ejercicios iniciales](ejercicios.md) · [Laboratorio inicial](laboratorio.md) · [Evaluación inicial](evaluacion.md)
-
-<details><summary>🔑 Soluciones y rúbrica (abrir después de responder)</summary>
-
-- [Solucionario ampliado en PDF](soluciones/01-solucionario-ampliado.pdf)
-- [Solucionario explicado](soluciones/solucionario-ampliado.md)
-- [Respuestas iniciales](soluciones/README.md)
-
-</details>
+[Descargas y plantillas](descargas.md) · [Videos y simulaciones](recursos/videos-y-simulaciones.md) · [Guía docente](guia-docente.md) · [Solucionario](soluciones/solucionario-ampliado.md)
 
 > [!NOTE]
-> El PPTX publicado es una adaptación independiente de la presentación web, no una copia binaria del PowerPoint original de la conversación. Los diagramas son esquemáticos. Los solucionarios son públicos; no guardes calificaciones personales aquí.
+> Los modelos visuales no son órbitas físicas reales. La clase 002 sigue planificada. Los solucionarios son públicos; no subas información personal.
 
-## Al finalizar
-
-Puedes avanzar si explicas con tus propias palabras las partículas del átomo, calculas el signo de una carga, justificas la conservación y distingues transferencia de polarización. La meta de evaluación propuesta es 80/100. Si quedan dudas, repite los ejercicios y la práctica.
-
-[← Índice de clases](../README.md) · Próxima lección: carga eléctrica, electricidad y energía (planificada)
+[Comenzar →](libro/01.md)
